@@ -1,0 +1,9 @@
+/**/node_modules
+/**/_output
+/**/.history
+/**/.idea
+/**/.vscode
+/**/.DS_Store
+/**/cache.json
+
+yarn-error.log

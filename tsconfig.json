@@ -1,0 +1,33 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "noUnusedLocals": true,
+    "noImplicitReturns": true,
+    "jsx": "react",
+    "lib": [
+      "ESNext",
+      "DOM"
+    ],
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "resolveJsonModule": true,
+    "sourceMap": true,
+    "preserveConstEnums": true,
+    "typeRoots": ["./node_modules/@types", "./types"],
+    "baseUrl": "src",
+    "paths": {
+      "*": ["node_modules/*"],
+      "~/*": ["*"]
+    }
+  },
+  "include": ["./*.ts", "./**/*.ts"],
+  "atom": {
+    "rewriteTsconfig": false,
+    "formatOnSave": false
+  }
+}
