@@ -58,5 +58,5 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "repository": ""
+  "repository": "https://github.com/truthseeker-skv/spaced-repetition.git"
 }

@@ -1,6 +1,5 @@
 import styled from 'styled-components';
 
-
 export type Country = 'uk'|'us';
 
 export interface IFlagProps {

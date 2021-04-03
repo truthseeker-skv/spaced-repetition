@@ -20,8 +20,8 @@ interface IGroupedListProps<T> {
 
 export function GroupedList<T>(props: IGroupedListProps<T>) {
   const groups = groupBy(props.items, props.groupBy);
+  const groupsOnly = props.limitation?.groupsOnly ?? [];
   const groupsNames = Object.keys(groups).filter(group => {
-    const groupsOnly = props.limitation?.groupsOnly ?? [];
     return !groupsOnly.length || groupsOnly.some(g => toLower(g) === toLower(group));
   });
   const groupLimit = props.limitation?.numVisibleGroups ?? groupsNames.length;

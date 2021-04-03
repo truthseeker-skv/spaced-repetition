@@ -17,10 +17,10 @@ interface IWordDefinitionProps {
 
 export const WordDefinitions = (props: IWordDefinitionProps) => {
   const items = mergeWordDefinitions(props.items);
-  const shouldShowExamples = props.shouldShowExamples ?? false;
-  const shouldHideWordKeys = props.shouldHideWordKeys ?? false;
-  const shouldLimitResults = props.shouldLimitResults ?? false;
-  const isVerbsOnly = props.isVerbsOnly ?? false;
+  const shouldShowExamples = !!props.shouldShowExamples;
+  const shouldHideWordKeys = !!props.shouldHideWordKeys;
+  const shouldLimitResults = !!props.shouldLimitResults;
+  const isVerbsOnly = !!props.isVerbsOnly;
 
   return (
     <Container>

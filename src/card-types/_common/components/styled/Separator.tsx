@@ -9,7 +9,6 @@ export const Separator = styled.div`
     content: '';
     top: 50%;
     width: 100%;
-    //border-bottom: 1px solid #444444;
     border-bottom: 1px dashed #4a4a4a;
     box-sizing: border-box;
   }

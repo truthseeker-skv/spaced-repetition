@@ -40,8 +40,6 @@ export function bundleModelScripts({
   onAfterEmit = () => void 0,
 }: IModelGeneratorCtor): Promise<void> {
 
-  fs.rmdirSync(outputDir, { recursive: true });
-
   return new Promise((resolve, reject) => {
     webpack({
       target: 'web',

@@ -19,7 +19,7 @@ export const ankiExport = async ({ deck, modelBuilder, cards }: IAnkiExportParam
   await createDeckIfNotExists(deck);
 
   return addNotes(
-    createNotes(deck, modelBuilder.getModel(), cards)
+    createNotes(deck, modelBuilder.getModel(), cards),
   );
 };
 

@@ -27,9 +27,9 @@ export function renderWordDefinitions(
         definitionOrder: 0, // TODO: remove if not used
       }))}
       isVerbsOnly={!!word.verbFormsArray.length}
-      shouldHideWordKeys={options?.shouldHideWordKeys ?? false}
-      shouldLimitResults={options?.shouldLimitResults ?? false}
-      shouldShowExamples={options?.shouldShowExamples ?? false}
+      shouldHideWordKeys={!!options?.shouldHideWordKeys}
+      shouldLimitResults={!!options?.shouldLimitResults}
+      shouldShowExamples={!!options?.shouldShowExamples}
     />
   );
 }
