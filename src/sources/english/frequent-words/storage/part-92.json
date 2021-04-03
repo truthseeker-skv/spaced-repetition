@@ -1,0 +1,502 @@
+[
+  {
+    "id": 9101,
+    "word": "conclusive",
+    "translation": "убедительный, решающий, неопровержимый, заключительный, неоспоримый"
+  },
+  {
+    "id": 9102,
+    "word": "dissertation",
+    "translation": "диссертация"
+  },
+  {
+    "id": 9103,
+    "word": "exhaustive",
+    "translation": "исчерпывающий"
+  },
+  {
+    "id": 9104,
+    "word": "fiancee",
+    "translation": "невеста"
+  },
+  {
+    "id": 9105,
+    "word": "fingerprint",
+    "translation": "отпечаток пальца"
+  },
+  {
+    "id": 9106,
+    "word": "harem",
+    "translation": "гарем"
+  },
+  {
+    "id": 9107,
+    "word": "heinous",
+    "translation": "гнусный, отвратительный, плохой, противный, ужасный"
+  },
+  {
+    "id": 9108,
+    "word": "innocuous",
+    "translation": "безвредный"
+  },
+  {
+    "id": 9109,
+    "word": "mockery",
+    "translation": "насмешка, осмеяние"
+  },
+  {
+    "id": 9110,
+    "word": "multinational",
+    "translation": "многонациональный"
+  },
+  {
+    "id": 9111,
+    "word": "overboard",
+    "translation": "за борт, за бортом"
+  },
+  {
+    "id": 9112,
+    "word": "partridge",
+    "translation": "куропатка"
+  },
+  {
+    "id": 9113,
+    "word": "podium",
+    "translation": "трибуна, подиум"
+  },
+  {
+    "id": 9114,
+    "word": "propagate",
+    "translation": "распространять, распространяться, размножаться, передавать"
+  },
+  {
+    "id": 9115,
+    "word": "rampage",
+    "translation": "буйство"
+  },
+  {
+    "id": 9116,
+    "word": "rebuke",
+    "translation": "упрек, выговор, замечание, отчитывать"
+  },
+  {
+    "id": 9117,
+    "word": "ripper",
+    "translation": "потрошитель, рыхлитель, риппер"
+  },
+  {
+    "id": 9118,
+    "word": "roach",
+    "translation": "плотва"
+  },
+  {
+    "id": 9119,
+    "word": "slapstick",
+    "translation": "колотушка, хлопушка; грубый, дешевый фарс, дешевое представление, грубое развлечение, грубые шутки; грубый, похожий на дешевый фарс"
+  },
+  {
+    "id": 9120,
+    "word": "stepfather",
+    "translation": "отчим"
+  },
+  {
+    "id": 9121,
+    "word": "symposium",
+    "translation": "симпозиум"
+  },
+  {
+    "id": 9122,
+    "word": "treadmill",
+    "translation": "топчак"
+  },
+  {
+    "id": 9123,
+    "word": "acclaim",
+    "translation": "шумное приветствие"
+  },
+  {
+    "id": 9124,
+    "word": "blurb",
+    "translation": "рекламное объявление"
+  },
+  {
+    "id": 9125,
+    "word": "bravo",
+    "translation": "браво!"
+  },
+  {
+    "id": 9126,
+    "word": "caterpillar",
+    "translation": "гусеница, гусеничный трактор, гусеничный ход"
+  },
+  {
+    "id": 9127,
+    "word": "cloak",
+    "translation": "плащ, мантия, покров"
+  },
+  {
+    "id": 9128,
+    "word": "cloister",
+    "translation": "монастырь; монашеская жизнь; затворничество; аскетизм; заточать в монастырь; уединиться, удалиться (от общества); (не priory, monastery)"
+  },
+  {
+    "id": 9129,
+    "word": "curfew",
+    "translation": "комендантский час"
+  },
+  {
+    "id": 9130,
+    "word": "elf",
+    "translation": "эльф"
+  },
+  {
+    "id": 9131,
+    "word": "eloquent",
+    "translation": "красноречивый"
+  },
+  {
+    "id": 9132,
+    "word": "entirety",
+    "translation": "полнота, целостность"
+  },
+  {
+    "id": 9133,
+    "word": "hospice",
+    "translation": "хоспис, богадельня"
+  },
+  {
+    "id": 9134,
+    "word": "idiom",
+    "translation": "идиома, идиоматическое выражение"
+  },
+  {
+    "id": 9135,
+    "word": "impasse",
+    "translation": "тупик, безвыходное положение"
+  },
+  {
+    "id": 9136,
+    "word": "junkie",
+    "translation": "наркоман (особ. пользующийся героином); торговец наркотиками (особ. героином); (амер.) старьёвщик; (не addict)"
+  },
+  {
+    "id": 9137,
+    "word": "novice",
+    "translation": "новичок, послушник, послушница"
+  },
+  {
+    "id": 9138,
+    "word": "proton",
+    "translation": "протон, протонный"
+  },
+  {
+    "id": 9139,
+    "word": "receptive",
+    "translation": "восприимчивый, рецептивный"
+  },
+  {
+    "id": 9140,
+    "word": "relic",
+    "translation": "реликвия, реликт, пережиток"
+  },
+  {
+    "id": 9141,
+    "word": "rite",
+    "translation": "обряд, ритуал, церемония"
+  },
+  {
+    "id": 9142,
+    "word": "strait",
+    "translation": "пролив"
+  },
+  {
+    "id": 9143,
+    "word": "sunbeam",
+    "translation": "солнечный луч"
+  },
+  {
+    "id": 9144,
+    "word": "syringe",
+    "translation": "шприц, спринцовка"
+  },
+  {
+    "id": 9145,
+    "word": "tenuous",
+    "translation": "разреженный, слабый, тонкий, незначительный"
+  },
+  {
+    "id": 9146,
+    "word": "assassin",
+    "translation": "убийца"
+  },
+  {
+    "id": 9147,
+    "word": "blueprint",
+    "translation": "чертеж, проект, синька, светокопия"
+  },
+  {
+    "id": 9148,
+    "word": "burma",
+    "translation": "Бирма"
+  },
+  {
+    "id": 9149,
+    "word": "caste",
+    "translation": "каста, кастовый"
+  },
+  {
+    "id": 9150,
+    "word": "dreary",
+    "translation": "тоскливый, безотрадный, грустный"
+  },
+  {
+    "id": 9151,
+    "word": "dung",
+    "translation": "навоз, помет, удобрять"
+  },
+  {
+    "id": 9152,
+    "word": "enclave",
+    "translation": "анклав"
+  },
+  {
+    "id": 9153,
+    "word": "fable",
+    "translation": "басня, миф"
+  },
+  {
+    "id": 9154,
+    "word": "fairway",
+    "translation": "фарватер"
+  },
+  {
+    "id": 9155,
+    "word": "gaelic",
+    "translation": "гаэльский; гаэльский язык"
+  },
+  {
+    "id": 9156,
+    "word": "geology",
+    "translation": "геология"
+  },
+  {
+    "id": 9157,
+    "word": "handmade",
+    "translation": "ручной работы"
+  },
+  {
+    "id": 9158,
+    "word": "intrusive",
+    "translation": "интрузивный"
+  },
+  {
+    "id": 9159,
+    "word": "invincible",
+    "translation": "непобедимый, неодолимый"
+  },
+  {
+    "id": 9160,
+    "word": "recourse",
+    "translation": "регресс"
+  },
+  {
+    "id": 9161,
+    "word": "stagnant",
+    "translation": "стоячий, застойный, застоявшийся, косный, неподвижный"
+  },
+  {
+    "id": 9162,
+    "word": "temperate",
+    "translation": "умеренный, воздержанный"
+  },
+  {
+    "id": 9163,
+    "word": "tenor",
+    "translation": "тенор, срок, направление, теноровый"
+  },
+  {
+    "id": 9164,
+    "word": "thoroughfare",
+    "translation": "проезд"
+  },
+  {
+    "id": 9165,
+    "word": "traction",
+    "translation": "тяговый, тяга, тяговое усилие, вытяжение"
+  },
+  {
+    "id": 9166,
+    "word": "transcend",
+    "translation": "превосходить, превышать"
+  },
+  {
+    "id": 9167,
+    "word": "usher",
+    "translation": "билетер, капельдинер"
+  },
+  {
+    "id": 9168,
+    "word": "vagina",
+    "translation": "влагалище"
+  },
+  {
+    "id": 9169,
+    "word": "backlog",
+    "translation": "задолженность, задел"
+  },
+  {
+    "id": 9170,
+    "word": "ballad",
+    "translation": "баллада"
+  },
+  {
+    "id": 9171,
+    "word": "dissident",
+    "translation": "диссидент, инакомыслящий, раскольник"
+  },
+  {
+    "id": 9172,
+    "word": "evade",
+    "translation": "избегать, уклоняться, обходить"
+  },
+  {
+    "id": 9173,
+    "word": "ferocious",
+    "translation": "свирепый, лютый"
+  },
+  {
+    "id": 9174,
+    "word": "impair",
+    "translation": "ухудшать, нарушать, ослаблять, повреждать, уменьшать, умалять"
+  },
+  {
+    "id": 9175,
+    "word": "inscription",
+    "translation": "надпись"
+  },
+  {
+    "id": 9176,
+    "word": "insofar",
+    "translation": "до такой степени, в такой мере, до таких пределов"
+  },
+  {
+    "id": 9177,
+    "word": "logarithm",
+    "translation": "логарифм"
+  },
+  {
+    "id": 9178,
+    "word": "pious",
+    "translation": "благочестивый, набожный, религиозный, праведный"
+  },
+  {
+    "id": 9179,
+    "word": "piper",
+    "translation": "волынщик"
+  },
+  {
+    "id": 9180,
+    "word": "raft",
+    "translation": "плот, сплавлять"
+  },
+  {
+    "id": 9181,
+    "word": "rebirth",
+    "translation": "возрождение"
+  },
+  {
+    "id": 9182,
+    "word": "thrall",
+    "translation": "невольник, раб; пленник; рабство; покорять, порабощать"
+  },
+  {
+    "id": 9183,
+    "word": "treason",
+    "translation": "измена, предательство, государственная измена"
+  },
+  {
+    "id": 9184,
+    "word": "trustworthy",
+    "translation": "надежный, заслуживающий доверия, достоверный; (не credible, believable)"
+  },
+  {
+    "id": 9185,
+    "word": "asexual",
+    "translation": "бесполый, асексуальный"
+  },
+  {
+    "id": 9186,
+    "word": "backstage",
+    "translation": "за кулисами, закулисный"
+  },
+  {
+    "id": 9187,
+    "word": "bondage",
+    "translation": "рабство, кабала, неволя, крепостная зависимость"
+  },
+  {
+    "id": 9188,
+    "word": "craze",
+    "translation": "мания"
+  },
+  {
+    "id": 9189,
+    "word": "crib",
+    "translation": "шпаргалка, ясли, списывать"
+  },
+  {
+    "id": 9190,
+    "word": "fetish",
+    "translation": "фетиш, амулет"
+  },
+  {
+    "id": 9191,
+    "word": "fluff",
+    "translation": "пух, взбивать, пушок"
+  },
+  {
+    "id": 9192,
+    "word": "heady",
+    "translation": "пьянящий, опьяняющий"
+  },
+  {
+    "id": 9193,
+    "word": "inlet",
+    "translation": "вход, входной, впускной, ввод, входное отверстие, впуск, впускное отверстие, воздухозаборник"
+  },
+  {
+    "id": 9194,
+    "word": "jumbo",
+    "translation": "гигантский"
+  },
+  {
+    "id": 9195,
+    "word": "ninja",
+    "translation": "ниндзя"
+  },
+  {
+    "id": 9196,
+    "word": "outlaw",
+    "translation": "запрещать, объявлять вне закона, изгой"
+  },
+  {
+    "id": 9197,
+    "word": "plush",
+    "translation": "плюшевый, плюш"
+  },
+  {
+    "id": 9198,
+    "word": "subtlety",
+    "translation": "тонкость"
+  },
+  {
+    "id": 9199,
+    "word": "tic",
+    "translation": "тик"
+  },
+  {
+    "id": 9200,
+    "word": "uncanny",
+    "translation": "жуткий"
+  }
+]

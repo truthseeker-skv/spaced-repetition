@@ -1,0 +1,502 @@
+[
+  {
+    "id": 9301,
+    "word": "multiplicity",
+    "translation": "кратность, множественность, многообразие, разнообразие"
+  },
+  {
+    "id": 9302,
+    "word": "prelude",
+    "translation": "прелюдия, вступление"
+  },
+  {
+    "id": 9303,
+    "word": "proponent",
+    "translation": "защитник, поборник; (не lawyer, attorney, counsellor, barrister, solicitor, advocate)"
+  },
+  {
+    "id": 9304,
+    "word": "refute",
+    "translation": "опровергать"
+  },
+  {
+    "id": 9305,
+    "word": "seasoning",
+    "translation": "приправа"
+  },
+  {
+    "id": 9306,
+    "word": "shortfall",
+    "translation": "дефицит, недостача, недостаток, нехватка"
+  },
+  {
+    "id": 9307,
+    "word": "sidekick",
+    "translation": "закадычный друг"
+  },
+  {
+    "id": 9308,
+    "word": "signify",
+    "translation": "означать, обозначать, значить, иметь значение"
+  },
+  {
+    "id": 9309,
+    "word": "slug",
+    "translation": "слизняк, сердечник, слаг"
+  },
+  {
+    "id": 9310,
+    "word": "sluggish",
+    "translation": "медлительный, вялый, медленный, ленивый"
+  },
+  {
+    "id": 9311,
+    "word": "stepmother",
+    "translation": "мачеха, приемная мать"
+  },
+  {
+    "id": 9312,
+    "word": "tart",
+    "translation": "пирог, терпкий, едкий, кислый"
+  },
+  {
+    "id": 9313,
+    "word": "trickle",
+    "translation": "струйка, капать, сочиться"
+  },
+  {
+    "id": 9314,
+    "word": "volition",
+    "translation": "воля, желание, волевой акт"
+  },
+  {
+    "id": 9315,
+    "word": "walkway",
+    "translation": "дорожка, аллея"
+  },
+  {
+    "id": 9316,
+    "word": "annotate",
+    "translation": "аннотировать"
+  },
+  {
+    "id": 9317,
+    "word": "barrage",
+    "translation": "заграждение, вал, плотина, барраж"
+  },
+  {
+    "id": 9318,
+    "word": "beetle",
+    "translation": "жук, нависать"
+  },
+  {
+    "id": 9319,
+    "word": "burgundy",
+    "translation": "Бургундия; бургундское вино; красный цвет"
+  },
+  {
+    "id": 9320,
+    "word": "circumstantial",
+    "translation": "косвенный, обстоятельный"
+  },
+  {
+    "id": 9321,
+    "word": "emerald",
+    "translation": "изумрудный, изумруд"
+  },
+  {
+    "id": 9322,
+    "word": "ether",
+    "translation": "эфир, простой эфир, этиловый эфир"
+  },
+  {
+    "id": 9323,
+    "word": "extant",
+    "translation": "сохранившийся"
+  },
+  {
+    "id": 9324,
+    "word": "finn",
+    "translation": "финн, финка"
+  },
+  {
+    "id": 9325,
+    "word": "flagship",
+    "translation": "флагман, флагманский корабль"
+  },
+  {
+    "id": 9326,
+    "word": "furnace",
+    "translation": "печь, топка, топочный, горн"
+  },
+  {
+    "id": 9327,
+    "word": "glut",
+    "translation": "избыток, излишек, излишнее количество, излишество, неумеренность; пресыщение, насыщение, пресыщенность; насыщать, удовлетворять потребности, пресыщать; заваливать, наполнять до отказа, затоваривать, забивать товаром"
+  },
+  {
+    "id": 9328,
+    "word": "hash",
+    "translation": "хэш, хэшировать, мешанина, случайные данные"
+  },
+  {
+    "id": 9329,
+    "word": "humankind",
+    "translation": "человечество"
+  },
+  {
+    "id": 9330,
+    "word": "impede",
+    "translation": "препятствовать, мешать, затруднять, задерживать"
+  },
+  {
+    "id": 9331,
+    "word": "intolerable",
+    "translation": "невыносимый, нестерпимый, недопустимый, нетерпимый, несносный"
+  },
+  {
+    "id": 9332,
+    "word": "malaise",
+    "translation": "недомогание"
+  },
+  {
+    "id": 9333,
+    "word": "muse",
+    "translation": "муза"
+  },
+  {
+    "id": 9334,
+    "word": "notoriety",
+    "translation": "известность"
+  },
+  {
+    "id": 9335,
+    "word": "ox",
+    "translation": "бык, вол"
+  },
+  {
+    "id": 9336,
+    "word": "pap",
+    "translation": "кашка"
+  },
+  {
+    "id": 9337,
+    "word": "pastoral",
+    "translation": "пасторальный, пастораль, пастушеский"
+  },
+  {
+    "id": 9338,
+    "word": "pilgrim",
+    "translation": "пилигрим, паломник, странник"
+  },
+  {
+    "id": 9339,
+    "word": "poodle",
+    "translation": "пудель"
+  },
+  {
+    "id": 9340,
+    "word": "precarious",
+    "translation": "непрочный, шаткий"
+  },
+  {
+    "id": 9341,
+    "word": "presbyterian",
+    "translation": "пресвитерианин; пресвитерианский"
+  },
+  {
+    "id": 9342,
+    "word": "propriety",
+    "translation": "обоснованность, пристойность, правильность, уместность"
+  },
+  {
+    "id": 9343,
+    "word": "reggae",
+    "translation": "регги, реггей"
+  },
+  {
+    "id": 9344,
+    "word": "rendezvous",
+    "translation": "встреча, свидание, рандеву, стыковка"
+  },
+  {
+    "id": 9345,
+    "word": "stricken",
+    "translation": "пораженный, раненый, больной"
+  },
+  {
+    "id": 9346,
+    "word": "surcharge",
+    "translation": "надбавка, доплата, надпечатка"
+  },
+  {
+    "id": 9347,
+    "word": "torrent",
+    "translation": "поток"
+  },
+  {
+    "id": 9348,
+    "word": "alms",
+    "translation": "милостыня, подаяние"
+  },
+  {
+    "id": 9349,
+    "word": "animosity",
+    "translation": "враждебность, вражда, злоба"
+  },
+  {
+    "id": 9350,
+    "word": "antarctica",
+    "translation": "Антарктида"
+  },
+  {
+    "id": 9351,
+    "word": "ashore",
+    "translation": "на берегу"
+  },
+  {
+    "id": 9352,
+    "word": "balk",
+    "translation": "упираться, препятствовать"
+  },
+  {
+    "id": 9353,
+    "word": "biochemistry",
+    "translation": "биохимия"
+  },
+  {
+    "id": 9354,
+    "word": "bullock",
+    "translation": "вол"
+  },
+  {
+    "id": 9355,
+    "word": "casserole",
+    "translation": "блюдо, миска, сотейник, кастрюля; блюдо, приготовленное в такой посуде и подаваемое в ней на стол; лабораторный сосуд; запеканка; запекать; (не stew)"
+  },
+  {
+    "id": 9356,
+    "word": "coward",
+    "translation": "трус"
+  },
+  {
+    "id": 9357,
+    "word": "detour",
+    "translation": "объезд, обход, объезжать"
+  },
+  {
+    "id": 9358,
+    "word": "grudge",
+    "translation": "недовольство, злоба, жалеть"
+  },
+  {
+    "id": 9359,
+    "word": "habitual",
+    "translation": "привычный, обычный"
+  },
+  {
+    "id": 9360,
+    "word": "letterhead",
+    "translation": "фирменный бланк"
+  },
+  {
+    "id": 9361,
+    "word": "nicaragua",
+    "translation": "Никарагуа"
+  },
+  {
+    "id": 9362,
+    "word": "octopus",
+    "translation": "осьминог, спрут"
+  },
+  {
+    "id": 9363,
+    "word": "onslaught",
+    "translation": "натиск, штурм, приступ"
+  },
+  {
+    "id": 9364,
+    "word": "pesticide",
+    "translation": "пестицид, ядохимикат"
+  },
+  {
+    "id": 9365,
+    "word": "placid",
+    "translation": "спокойный, безмятежный"
+  },
+  {
+    "id": 9366,
+    "word": "ramadan",
+    "translation": "девятый месяц мусульманского года"
+  },
+  {
+    "id": 9367,
+    "word": "reindeer",
+    "translation": "северный олень"
+  },
+  {
+    "id": 9368,
+    "word": "remission",
+    "translation": "прощение, ремиссия, освобождение"
+  },
+  {
+    "id": 9369,
+    "word": "sarcasm",
+    "translation": "сарказм"
+  },
+  {
+    "id": 9370,
+    "word": "scathing",
+    "translation": "уничтожающий"
+  },
+  {
+    "id": 9371,
+    "word": "slander",
+    "translation": "клевета, клеветать, злословие"
+  },
+  {
+    "id": 9372,
+    "word": "snuff",
+    "translation": "нюхать, нюхательный табак"
+  },
+  {
+    "id": 9373,
+    "word": "solicit",
+    "translation": "выпрашивать, домогаться, ходатайствовать"
+  },
+  {
+    "id": 9374,
+    "word": "thermometer",
+    "translation": "термометр, градусник"
+  },
+  {
+    "id": 9375,
+    "word": "walnut",
+    "translation": "орех, грецкий орех"
+  },
+  {
+    "id": 9376,
+    "word": "wholesome",
+    "translation": "полезный, здоровый, благотворный"
+  },
+  {
+    "id": 9377,
+    "word": "ambience",
+    "translation": "атмосфера"
+  },
+  {
+    "id": 9378,
+    "word": "analogue",
+    "translation": "аналог, аналоговый"
+  },
+  {
+    "id": 9379,
+    "word": "ardent",
+    "translation": "горячий, пылкий, страстный, пылающий"
+  },
+  {
+    "id": 9380,
+    "word": "atheist",
+    "translation": "атеист"
+  },
+  {
+    "id": 9381,
+    "word": "auxiliary",
+    "translation": "вспомогательный, дополнительный, вспомогательное устройство, запасной, служебный, добавочный, подсобный"
+  },
+  {
+    "id": 9382,
+    "word": "ballistic",
+    "translation": "баллистический"
+  },
+  {
+    "id": 9383,
+    "word": "coherence",
+    "translation": "когерентность, слаженность, последовательность, связность, связанность"
+  },
+  {
+    "id": 9384,
+    "word": "cohesive",
+    "translation": "связный, связующий, когезионный"
+  },
+  {
+    "id": 9385,
+    "word": "complicity",
+    "translation": "соучастие, пособничество, сообщничество"
+  },
+  {
+    "id": 9386,
+    "word": "cosmos",
+    "translation": "космос"
+  },
+  {
+    "id": 9387,
+    "word": "drool",
+    "translation": "чепуха, чушь, бессмыслица, бред, пустая болтовня; слюна, плевок; течь, сочиться, пускать слюну; говорить бессвязно, говорить ерунду, пороть чушь, нести бред, чепуху"
+  },
+  {
+    "id": 9388,
+    "word": "elizabethan",
+    "translation": "эпохи королевы Елизаветы; современник елизаветинской эпохи, елизаветинец"
+  },
+  {
+    "id": 9389,
+    "word": "enlist",
+    "translation": "зачислять"
+  },
+  {
+    "id": 9390,
+    "word": "foreground",
+    "translation": "передний план"
+  },
+  {
+    "id": 9391,
+    "word": "fragrant",
+    "translation": "благоухающий, ароматный"
+  },
+  {
+    "id": 9392,
+    "word": "gazette",
+    "translation": "газета"
+  },
+  {
+    "id": 9393,
+    "word": "hardwood",
+    "translation": "древесина лиственных пород"
+  },
+  {
+    "id": 9394,
+    "word": "inescapable",
+    "translation": "неизбежный, неотвратимый"
+  },
+  {
+    "id": 9395,
+    "word": "innumerable",
+    "translation": "бесчисленный, неисчислимый, бессчетный, несчетный"
+  },
+  {
+    "id": 9396,
+    "word": "minuscule",
+    "translation": "минускул; мелкий курсивный шрифт; рукопись написанная таким шрифтом; очень маленький"
+  },
+  {
+    "id": 9397,
+    "word": "oblique",
+    "translation": "косой, наклонный, косвенный, скошенный, непрямой"
+  },
+  {
+    "id": 9398,
+    "word": "palatable",
+    "translation": "аппетитный"
+  },
+  {
+    "id": 9399,
+    "word": "parsley",
+    "translation": "петрушка"
+  },
+  {
+    "id": 9400,
+    "word": "pastel",
+    "translation": "пастельный, пастель"
+  }
+]

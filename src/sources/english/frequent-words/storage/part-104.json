@@ -1,0 +1,502 @@
+[
+  {
+    "id": 10301,
+    "word": "berth",
+    "translation": "место, койка, причал, полка, спальное место"
+  },
+  {
+    "id": 10302,
+    "word": "blunder",
+    "translation": "промах, грубая ошибка; (не slip, mistake, error, fault)"
+  },
+  {
+    "id": 10303,
+    "word": "brainchild",
+    "translation": "замысел, идея, изобретение, плод размышлений, умственных усилий"
+  },
+  {
+    "id": 10304,
+    "word": "bran",
+    "translation": "отруби"
+  },
+  {
+    "id": 10305,
+    "word": "burly",
+    "translation": "дородный"
+  },
+  {
+    "id": 10306,
+    "word": "campsite",
+    "translation": "палаточный лагерь"
+  },
+  {
+    "id": 10307,
+    "word": "carte",
+    "translation": "меню, карта вин"
+  },
+  {
+    "id": 10308,
+    "word": "defunct",
+    "translation": "исчезнувший"
+  },
+  {
+    "id": 10309,
+    "word": "delirious",
+    "translation": "бредовый, бессвязный"
+  },
+  {
+    "id": 10310,
+    "word": "deride",
+    "translation": "высмеивать, осмеивать"
+  },
+  {
+    "id": 10311,
+    "word": "discontinue",
+    "translation": "прекращать, прерывать, останавливать"
+  },
+  {
+    "id": 10312,
+    "word": "doomsday",
+    "translation": "день Cтрашного Cуда, Судный День, светопреставление, конец света; день вынесения приговора, день исполнения приговора"
+  },
+  {
+    "id": 10313,
+    "word": "engender",
+    "translation": "порождать"
+  },
+  {
+    "id": 10314,
+    "word": "enormity",
+    "translation": "чудовищность"
+  },
+  {
+    "id": 10315,
+    "word": "eyelash",
+    "translation": "ресница"
+  },
+  {
+    "id": 10316,
+    "word": "fink",
+    "translation": "неприятный человек, к которому относятся с презрением; информатор, доносчик, агент; штрейкбрехер; становиться доносчиком, доносить"
+  },
+  {
+    "id": 10317,
+    "word": "flounder",
+    "translation": "камбала, барахтаться, сбиваться"
+  },
+  {
+    "id": 10318,
+    "word": "forearm",
+    "translation": "предплечье"
+  },
+  {
+    "id": 10319,
+    "word": "frigid",
+    "translation": "холодный, фригидный"
+  },
+  {
+    "id": 10320,
+    "word": "gasket",
+    "translation": "прокладка, уплотнение, сальник, уплотнитель"
+  },
+  {
+    "id": 10321,
+    "word": "heron",
+    "translation": "цапля"
+  },
+  {
+    "id": 10322,
+    "word": "horny",
+    "translation": "мозолистый, роговой, ороговевший"
+  },
+  {
+    "id": 10323,
+    "word": "impersonal",
+    "translation": "безличный, бесстрастный, обезличенный"
+  },
+  {
+    "id": 10324,
+    "word": "incessant",
+    "translation": "непрерывный, непрестанный, непрекращающийся, постоянный, беспрестанный"
+  },
+  {
+    "id": 10325,
+    "word": "insignia",
+    "translation": "эмблема, знаки отличия, значок, орден"
+  },
+  {
+    "id": 10326,
+    "word": "leach",
+    "translation": "выщелачивать, щелок"
+  },
+  {
+    "id": 10327,
+    "word": "lithium",
+    "translation": "литий, литиевый"
+  },
+  {
+    "id": 10328,
+    "word": "maestro",
+    "translation": "маэстро"
+  },
+  {
+    "id": 10329,
+    "word": "mink",
+    "translation": "норка"
+  },
+  {
+    "id": 10330,
+    "word": "monoxide",
+    "translation": "одноокись, моноокись"
+  },
+  {
+    "id": 10331,
+    "word": "orphanage",
+    "translation": "детский дом, сиротство"
+  },
+  {
+    "id": 10332,
+    "word": "palsy",
+    "translation": "паралич, парализовать"
+  },
+  {
+    "id": 10333,
+    "word": "paragon",
+    "translation": "образец, модель совершенства; идеальный бриллиант; парагон; проводить параллель, сравнивать; подходить, быть под пару, соответствовать; идеальный, совершенный, образцовый"
+  },
+  {
+    "id": 10334,
+    "word": "patchwork",
+    "translation": "мозаика"
+  },
+  {
+    "id": 10335,
+    "word": "piecemeal",
+    "translation": "по частям"
+  },
+  {
+    "id": 10336,
+    "word": "playhouse",
+    "translation": "театр (драматический); игрушечный, кукольный домик"
+  },
+  {
+    "id": 10337,
+    "word": "quad",
+    "translation": "четверка"
+  },
+  {
+    "id": 10338,
+    "word": "revoke",
+    "translation": "отменять, аннулировать, отзывать"
+  },
+  {
+    "id": 10339,
+    "word": "rhino",
+    "translation": "деньги"
+  },
+  {
+    "id": 10340,
+    "word": "scoreboard",
+    "translation": "табло"
+  },
+  {
+    "id": 10341,
+    "word": "slur",
+    "translation": "пятно"
+  },
+  {
+    "id": 10342,
+    "word": "snort",
+    "translation": "фыркать, фырканье, храпеть, нюхать"
+  },
+  {
+    "id": 10343,
+    "word": "spank",
+    "translation": "отшлепать, шлепать"
+  },
+  {
+    "id": 10344,
+    "word": "spire",
+    "translation": "шпиль"
+  },
+  {
+    "id": 10345,
+    "word": "stampede",
+    "translation": "бегство напуганных животных; стихийный массовый исход, массовое движение, перемещение; стихийный массовый переход на сторону кандидата, имеющего высокий рейтинг; массовое движение золотоискателей на прииски; ежегодный праздник с состязанием ковбоев"
+  },
+  {
+    "id": 10346,
+    "word": "stunted",
+    "translation": "низкорослый, чахлый"
+  },
+  {
+    "id": 10347,
+    "word": "traverse",
+    "translation": "пересекать, траверс, траверса, пересечение"
+  },
+  {
+    "id": 10348,
+    "word": "underwrite",
+    "translation": "подписывать(ся); принимать на страх; гарантировать, ручаться; подтверждать в письменной форме"
+  },
+  {
+    "id": 10349,
+    "word": "wherewithal",
+    "translation": "необходимые средства, деньги"
+  },
+  {
+    "id": 10350,
+    "word": "whisk",
+    "translation": "взбивать, юркнуть, смахивать, венчик"
+  },
+  {
+    "id": 10351,
+    "word": "aristocrat",
+    "translation": "аристократ"
+  },
+  {
+    "id": 10352,
+    "word": "armpit",
+    "translation": "подмышка"
+  },
+  {
+    "id": 10353,
+    "word": "assimilate",
+    "translation": "ассимилировать, усваивать, уподоблять"
+  },
+  {
+    "id": 10354,
+    "word": "belligerent",
+    "translation": "воинственный, воюющий, агрессивный, воюющая сторона"
+  },
+  {
+    "id": 10355,
+    "word": "bracelet",
+    "translation": "браслет"
+  },
+  {
+    "id": 10356,
+    "word": "callow",
+    "translation": "неоперившийся"
+  },
+  {
+    "id": 10357,
+    "word": "caper",
+    "translation": "прыгать, капер, скакать"
+  },
+  {
+    "id": 10358,
+    "word": "cavern",
+    "translation": "пещера, каверна"
+  },
+  {
+    "id": 10359,
+    "word": "chaplain",
+    "translation": "капеллан, священник"
+  },
+  {
+    "id": 10360,
+    "word": "concerto",
+    "translation": "концерт"
+  },
+  {
+    "id": 10361,
+    "word": "devour",
+    "translation": "пожирать, поглощать, проглатывать, глотать"
+  },
+  {
+    "id": 10362,
+    "word": "diatribe",
+    "translation": "диатриба"
+  },
+  {
+    "id": 10363,
+    "word": "dingy",
+    "translation": "грязный, тусклый, выцветший"
+  },
+  {
+    "id": 10364,
+    "word": "disloyal",
+    "translation": "неверный, нелояльный"
+  },
+  {
+    "id": 10365,
+    "word": "docile",
+    "translation": "послушный, покорный"
+  },
+  {
+    "id": 10366,
+    "word": "drizzle",
+    "translation": "моросить, морось, мелкий дождь"
+  },
+  {
+    "id": 10367,
+    "word": "duchess",
+    "translation": "герцогиня"
+  },
+  {
+    "id": 10368,
+    "word": "ecumenical",
+    "translation": "вселенский, экуменический"
+  },
+  {
+    "id": 10369,
+    "word": "eel",
+    "translation": "угорь"
+  },
+  {
+    "id": 10370,
+    "word": "eucalyptus",
+    "translation": "эвкалипт"
+  },
+  {
+    "id": 10371,
+    "word": "eyeball",
+    "translation": "глазное яблоко"
+  },
+  {
+    "id": 10372,
+    "word": "fabricate",
+    "translation": "изготовлять, фабриковать, выдумывать, подделывать, сочинять"
+  },
+  {
+    "id": 10373,
+    "word": "gentry",
+    "translation": "дворянство"
+  },
+  {
+    "id": 10374,
+    "word": "greyhound",
+    "translation": "борзая"
+  },
+  {
+    "id": 10375,
+    "word": "gullible",
+    "translation": "доверчивый, легковерный"
+  },
+  {
+    "id": 10376,
+    "word": "handicraft",
+    "translation": "кустарный, ремесло, ремесленный"
+  },
+  {
+    "id": 10377,
+    "word": "immunology",
+    "translation": "иммунология"
+  },
+  {
+    "id": 10378,
+    "word": "industrious",
+    "translation": "трудолюбивый, прилежный, работящий, усердный"
+  },
+  {
+    "id": 10379,
+    "word": "ineptitude",
+    "translation": "неуместность; непригодность, неспособность, неумелость, неумение; глупость, безрассудство"
+  },
+  {
+    "id": 10380,
+    "word": "integer",
+    "translation": "целое, целое число, целочисленный"
+  },
+  {
+    "id": 10381,
+    "word": "toughen",
+    "translation": "ужесточать"
+  },
+  {
+    "id": 10382,
+    "word": "triplet",
+    "translation": "триплет, тройка, триоль, тройняшка"
+  },
+  {
+    "id": 10383,
+    "word": "vociferous",
+    "translation": "горластый"
+  },
+  {
+    "id": 10384,
+    "word": "volley",
+    "translation": "залп, град, очередь, залповый"
+  },
+  {
+    "id": 10385,
+    "word": "warehousing",
+    "translation": "складирование"
+  },
+  {
+    "id": 10386,
+    "word": "whirlwind",
+    "translation": "вихрь"
+  },
+  {
+    "id": 10387,
+    "word": "acrobat",
+    "translation": "акробат"
+  },
+  {
+    "id": 10388,
+    "word": "affluence",
+    "translation": "изобилие"
+  },
+  {
+    "id": 10389,
+    "word": "alertness",
+    "translation": "бдительность, настороженность, боевая готовность"
+  },
+  {
+    "id": 10390,
+    "word": "amiss",
+    "translation": "плохой, неверный, неправильный, нехороший; неподходящий, несвоевременный, неуместный; плохо, дурно, неправильно, неверно; некстати, несвоевременно"
+  },
+  {
+    "id": 10391,
+    "word": "assent",
+    "translation": "согласие, соглашаться, санкция, разрешение, соизволение"
+  },
+  {
+    "id": 10392,
+    "word": "barbarian",
+    "translation": "варвар, варварский"
+  },
+  {
+    "id": 10393,
+    "word": "barometer",
+    "translation": "барометр"
+  },
+  {
+    "id": 10394,
+    "word": "benefactor",
+    "translation": "благодетель, благотворитель"
+  },
+  {
+    "id": 10395,
+    "word": "braille",
+    "translation": "шрифт Брайля (для слепых); система чтения и письма для слепых"
+  },
+  {
+    "id": 10396,
+    "word": "bramble",
+    "translation": "ежевика"
+  },
+  {
+    "id": 10397,
+    "word": "bulldog",
+    "translation": "бульдог"
+  },
+  {
+    "id": 10398,
+    "word": "cannibal",
+    "translation": "каннибал, людоед"
+  },
+  {
+    "id": 10399,
+    "word": "cant",
+    "translation": "жаргон, брус, наклон"
+  },
+  {
+    "id": 10400,
+    "word": "caramel",
+    "translation": "карамель"
+  }
+]

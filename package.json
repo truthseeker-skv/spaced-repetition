@@ -1,20 +1,62 @@
 {
-  "name": "spaced-repetition",
+  "name": "@truthseeker-skv/spaced-repetition",
   "version": "0.0.1",
-  "main": "index.ts",
-  "description": "",
-  "author": "",
+  "main": "lib/index.js",
+  "files": ["./lib/**/*"],
+  "author": "Konstantin Sukovatij <konstantin.sukovatij@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "go": "npx node -r tsconfig-paths/register -r ts-node/register/transpile-only"
+    "build": "npm run clean && tsc",
+    "clean": "rimraf ./lib"
   },
   "dependencies": {
+    "@material-ui/core": "4.11.3",
+    "@material-ui/lab": "4.0.0-alpha.57",
+    "@truthseeker-skv/react-code-mirror": "0.0.19",
     "axios": "0.21.1",
-    "jsdom": "16.4.0"
+    "cli-progress": "3.9.0",
+    "form-data": "4.0.0",
+    "fp-ts": "2.9.5",
+    "invariant": "2.2.4",
+    "jsdom": "16.5.1",
+    "lodash": "4.17.21",
+    "p-queue": "6.6.2",
+    "pretty": "2.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-is": "17.0.1",
+    "react-markdown": "5.0.3",
+    "remark-gfm": "1.0.0",
+    "styled-components": "5.2.1",
+    "ts-loader": "8.0.18",
+    "tslib": "2.1.0",
+    "typescript-plugin-styled-components": "1.4.4",
+    "webpack": "5.28.0",
+    "webpack-bundle-analyzer": "4.4.0"
   },
   "devDependencies": {
-    "tsconfig-paths": "3.9.0",
+    "@types/cli-progress": "3.9.1",
+    "@types/invariant": "2.2.34",
+    "@types/jsdom": "16.2.7",
+    "@types/lodash": "4.14.168",
+    "@types/mini-css-extract-plugin": "1.2.2",
+    "@types/node": "14.14.35",
+    "@types/pretty": "2.0.0",
+    "@types/react": "17.0.3",
+    "@types/react-dom": "17.0.2",
+    "@types/styled-components": "5.1.9",
+    "@types/terser-webpack-plugin": "5.0.2",
+    "@types/webpack": "5.28.0",
+    "@types/webpack-bundle-analyzer": "3.9.2",
+    "css-loader": "5.1.3",
+    "mini-css-extract-plugin": "1.4.0",
+    "terser-webpack-plugin": "5.1.1",
     "ts-node": "9.1.1",
-    "typescript": "4.1.3"
-  }
+    "tsconfig-paths": "3.9.0",
+    "typescript": "4.2.3"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": ""
 }

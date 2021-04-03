@@ -1,0 +1,502 @@
+[
+  {
+    "id": 11201,
+    "word": "facelift",
+    "translation": "подтяжка"
+  },
+  {
+    "id": 11202,
+    "word": "fingertip",
+    "translation": "кончик пальца"
+  },
+  {
+    "id": 11203,
+    "word": "foist",
+    "translation": "всунуть, всучить, навязать"
+  },
+  {
+    "id": 11204,
+    "word": "foundry",
+    "translation": "литейная, литейный завод, отливка, литейный цех, литейное производство"
+  },
+  {
+    "id": 11205,
+    "word": "gash",
+    "translation": "разрез, прорезать"
+  },
+  {
+    "id": 11206,
+    "word": "goblin",
+    "translation": "гоблин, домовой; (не gnome, dwarf, leprechaun)"
+  },
+  {
+    "id": 11207,
+    "word": "graphite",
+    "translation": "графит, графитовый"
+  },
+  {
+    "id": 11208,
+    "word": "headlight",
+    "translation": "фара"
+  },
+  {
+    "id": 11209,
+    "word": "hearse",
+    "translation": "катафалк"
+  },
+  {
+    "id": 11210,
+    "word": "hilt",
+    "translation": "эфес, рукоятка"
+  },
+  {
+    "id": 11211,
+    "word": "hither",
+    "translation": "сюда"
+  },
+  {
+    "id": 11212,
+    "word": "hothouse",
+    "translation": "теплица, оранжерея"
+  },
+  {
+    "id": 11213,
+    "word": "hovel",
+    "translation": "лачуга, хибара"
+  },
+  {
+    "id": 11214,
+    "word": "inaugurate",
+    "translation": "торжественно вводить в должность; являться началом, знаменовать; торжественно отмечать начало (чего-л.); официально открывать (памятник, выставку, новое здание и т. п.)"
+  },
+  {
+    "id": 11215,
+    "word": "interject",
+    "translation": "вставлять, мимоходом замечать, прерывать"
+  },
+  {
+    "id": 11216,
+    "word": "jostle",
+    "translation": "толкаться, пихать"
+  },
+  {
+    "id": 11217,
+    "word": "kiwi",
+    "translation": "киви"
+  },
+  {
+    "id": 11218,
+    "word": "lethargy",
+    "translation": "летаргия, летаргический сон, бездеятельность"
+  },
+  {
+    "id": 11219,
+    "word": "lintel",
+    "translation": "притолока"
+  },
+  {
+    "id": 11220,
+    "word": "louse",
+    "translation": "вошь"
+  },
+  {
+    "id": 11221,
+    "word": "mainline",
+    "translation": "магистраль"
+  },
+  {
+    "id": 11222,
+    "word": "mallard",
+    "translation": "дикая утка, кряква"
+  },
+  {
+    "id": 11223,
+    "word": "melee",
+    "translation": "рукопашная схватка, свалка; острый спор; маленькие бриллианты"
+  },
+  {
+    "id": 11224,
+    "word": "mettle",
+    "translation": "темперамент, характер; пыл, ретивость; отвага, смелость, храбрость; выносливость, стойкость"
+  },
+  {
+    "id": 11225,
+    "word": "monochrome",
+    "translation": "монохромный, одноцветный, однотонный"
+  },
+  {
+    "id": 11226,
+    "word": "mortuary",
+    "translation": "морг, погребальный, покойницкая"
+  },
+  {
+    "id": 11227,
+    "word": "musket",
+    "translation": "мушкет"
+  },
+  {
+    "id": 11228,
+    "word": "muslin",
+    "translation": "муслин, миткаль"
+  },
+  {
+    "id": 11229,
+    "word": "nostril",
+    "translation": "ноздря"
+  },
+  {
+    "id": 11230,
+    "word": "octagon",
+    "translation": "восьмиугольник"
+  },
+  {
+    "id": 11231,
+    "word": "ostrich",
+    "translation": "страус"
+  },
+  {
+    "id": 11232,
+    "word": "padlock",
+    "translation": "висячий замок"
+  },
+  {
+    "id": 11233,
+    "word": "paternalistic",
+    "translation": "патерналистский"
+  },
+  {
+    "id": 11234,
+    "word": "phallus",
+    "translation": "фаллос"
+  },
+  {
+    "id": 11235,
+    "word": "reassemble",
+    "translation": "снова собираться, встречаться"
+  },
+  {
+    "id": 11236,
+    "word": "recompense",
+    "translation": "возмещение, награда, вознаграждать, возмещать, компенсация, вознаграждение, компенсировать"
+  },
+  {
+    "id": 11237,
+    "word": "requiem",
+    "translation": "реквием, заупокойная месса"
+  },
+  {
+    "id": 11238,
+    "word": "rescind",
+    "translation": "отменять, аннулировать"
+  },
+  {
+    "id": 11239,
+    "word": "rhododendron",
+    "translation": "рододендрон"
+  },
+  {
+    "id": 11240,
+    "word": "ruck",
+    "translation": "куча, груда, кипа; стог, скирда, копна; масса, множество, большое количество; толпа, толчея; безликая масса, чернь; (ruck ruck) лошади, оставшиеся за флагом; складывать в кучу, нагромождать; морщина, склад, загиб, рубчик; собираться складками, морщить; де"
+  },
+  {
+    "id": 11241,
+    "word": "sacrilege",
+    "translation": "святотатство, кощунство"
+  },
+  {
+    "id": 11242,
+    "word": "scanty",
+    "translation": "скудный, недостаточный, ограниченный"
+  },
+  {
+    "id": 11243,
+    "word": "scrounge",
+    "translation": "воровать, красть; попрошайничать, побираться"
+  },
+  {
+    "id": 11244,
+    "word": "skylight",
+    "translation": "световой люк, верхний свет, фонарь, застекленная крыша"
+  },
+  {
+    "id": 11245,
+    "word": "southbound",
+    "translation": "направляющийся на юг"
+  },
+  {
+    "id": 11246,
+    "word": "squall",
+    "translation": "шквал, визжать"
+  },
+  {
+    "id": 11247,
+    "word": "stocky",
+    "translation": "коренастый, приземистый"
+  },
+  {
+    "id": 11248,
+    "word": "sunbathe",
+    "translation": "загорать"
+  },
+  {
+    "id": 11249,
+    "word": "swab",
+    "translation": "тампон, швабра"
+  },
+  {
+    "id": 11250,
+    "word": "tinsel",
+    "translation": "мишура"
+  },
+  {
+    "id": 11251,
+    "word": "toothache",
+    "translation": "зубная боль"
+  },
+  {
+    "id": 11252,
+    "word": "tsar",
+    "translation": "царь"
+  },
+  {
+    "id": 11253,
+    "word": "twirl",
+    "translation": "крутить, вертеть, вращать, кружить, вращение"
+  },
+  {
+    "id": 11254,
+    "word": "unadulterated",
+    "translation": "чистейший"
+  },
+  {
+    "id": 11255,
+    "word": "virile",
+    "translation": "мужественный, мужской, зрелый"
+  },
+  {
+    "id": 11256,
+    "word": "wheeze",
+    "translation": "хрипеть, хрип, сопеть"
+  },
+  {
+    "id": 11257,
+    "word": "bayonet",
+    "translation": "штык, штыковой"
+  },
+  {
+    "id": 11258,
+    "word": "berate",
+    "translation": "разносить"
+  },
+  {
+    "id": 11259,
+    "word": "birthright",
+    "translation": "право по рождению"
+  },
+  {
+    "id": 11260,
+    "word": "bludgeon",
+    "translation": "дубинка"
+  },
+  {
+    "id": 11261,
+    "word": "bonsai",
+    "translation": "карликовое дерево в горшке; искусство выращивания карликовых деревьев"
+  },
+  {
+    "id": 11262,
+    "word": "bridle",
+    "translation": "уздечка, узда, обуздывать, взнуздывать"
+  },
+  {
+    "id": 11263,
+    "word": "broach",
+    "translation": "протяжка; начать разговор; (не mention, refer, allude, touch, raise, introduce)"
+  },
+  {
+    "id": 11264,
+    "word": "burp",
+    "translation": "рыгать; отрыжка, рыгание"
+  },
+  {
+    "id": 11265,
+    "word": "buttercup",
+    "translation": "лютик"
+  },
+  {
+    "id": 11266,
+    "word": "cajole",
+    "translation": "умасливать"
+  },
+  {
+    "id": 11267,
+    "word": "carat",
+    "translation": "карат"
+  },
+  {
+    "id": 11268,
+    "word": "castrate",
+    "translation": "кастрировать, евнух, оскоплять, кастрат"
+  },
+  {
+    "id": 11269,
+    "word": "cataclysm",
+    "translation": "катаклизм"
+  },
+  {
+    "id": 11270,
+    "word": "chalice",
+    "translation": "чаша, потир"
+  },
+  {
+    "id": 11271,
+    "word": "clench",
+    "translation": "стискивать, зажимать"
+  },
+  {
+    "id": 11272,
+    "word": "coalesce",
+    "translation": "сливаться, срастаться, слипаться, сходиться"
+  },
+  {
+    "id": 11273,
+    "word": "commandant",
+    "translation": "комендант"
+  },
+  {
+    "id": 11274,
+    "word": "countryman",
+    "translation": "земляк, сельский житель"
+  },
+  {
+    "id": 11275,
+    "word": "cowl",
+    "translation": "колпак, капот"
+  },
+  {
+    "id": 11276,
+    "word": "crag",
+    "translation": "скала"
+  },
+  {
+    "id": 11277,
+    "word": "crockery",
+    "translation": "посуда"
+  },
+  {
+    "id": 11278,
+    "word": "curate",
+    "translation": "викарий"
+  },
+  {
+    "id": 11279,
+    "word": "dandruff",
+    "translation": "перхоть"
+  },
+  {
+    "id": 11280,
+    "word": "despot",
+    "translation": "деспот"
+  },
+  {
+    "id": 11281,
+    "word": "divan",
+    "translation": "диван"
+  },
+  {
+    "id": 11282,
+    "word": "dowry",
+    "translation": "приданое"
+  },
+  {
+    "id": 11283,
+    "word": "dressmaker",
+    "translation": "портниха"
+  },
+  {
+    "id": 11284,
+    "word": "ejaculate",
+    "translation": "эякулят"
+  },
+  {
+    "id": 11285,
+    "word": "embed",
+    "translation": "встраивать, внедрять, вкладывать, вставлять, погружать, вмонтировать, вделывать, вводить"
+  },
+  {
+    "id": 11286,
+    "word": "explicable",
+    "translation": "объяснимый"
+  },
+  {
+    "id": 11287,
+    "word": "exude",
+    "translation": "выделяться, выделять, сочиться"
+  },
+  {
+    "id": 11288,
+    "word": "fang",
+    "translation": "клык"
+  },
+  {
+    "id": 11289,
+    "word": "fireside",
+    "translation": "место около камина; домашний очаг, семейная жизнь; непринужденный, задушевный"
+  },
+  {
+    "id": 11290,
+    "word": "flipper",
+    "translation": "ласт, плавник, флиппер"
+  },
+  {
+    "id": 11291,
+    "word": "foal",
+    "translation": "жеребёнок; ослёнок; жеребиться; (сл.) мальчик у шахтёрской вагонетки"
+  },
+  {
+    "id": 11292,
+    "word": "footbridge",
+    "translation": "мостки"
+  },
+  {
+    "id": 11293,
+    "word": "fracas",
+    "translation": "шумная ссора, скандал"
+  },
+  {
+    "id": 11294,
+    "word": "freestyle",
+    "translation": "фристайл"
+  },
+  {
+    "id": 11295,
+    "word": "geranium",
+    "translation": "герань"
+  },
+  {
+    "id": 11296,
+    "word": "glean",
+    "translation": "подбирать колосья, виноград; тщательно подбирать, собирать"
+  },
+  {
+    "id": 11297,
+    "word": "granary",
+    "translation": "амбар, житница, хлебный амбар, зернохранилище"
+  },
+  {
+    "id": 11298,
+    "word": "guffaw",
+    "translation": "гогот"
+  },
+  {
+    "id": 11299,
+    "word": "guv",
+    "translation": "папаша, дяденька; (не daddy, dad, papa)"
+  },
+  {
+    "id": 11300,
+    "word": "headset",
+    "translation": "наушники, головная гарнитура"
+  }
+]

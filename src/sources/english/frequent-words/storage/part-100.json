@@ -1,0 +1,502 @@
+[
+  {
+    "id": 9901,
+    "word": "superstition",
+    "translation": "суеверие, предрассудок, религиозный предрассудок"
+  },
+  {
+    "id": 9902,
+    "word": "thyme",
+    "translation": "тимьян, чабрец"
+  },
+  {
+    "id": 9903,
+    "word": "turbine",
+    "translation": "турбина, турбинный"
+  },
+  {
+    "id": 9904,
+    "word": "abject",
+    "translation": "подлый, низкий; смиренный, малодушный, самоуничижительный; ужасный, крайний"
+  },
+  {
+    "id": 9905,
+    "word": "altruistic",
+    "translation": "альтруистический"
+  },
+  {
+    "id": 9906,
+    "word": "avocado",
+    "translation": "авокадо"
+  },
+  {
+    "id": 9907,
+    "word": "beset",
+    "translation": "осаждать"
+  },
+  {
+    "id": 9908,
+    "word": "binoculars",
+    "translation": "бинокль"
+  },
+  {
+    "id": 9909,
+    "word": "checker",
+    "translation": "шашка, контролер"
+  },
+  {
+    "id": 9910,
+    "word": "chrome",
+    "translation": "хромированный, хром, хромовый"
+  },
+  {
+    "id": 9911,
+    "word": "cleave",
+    "translation": "расщеплять, рассекать, раскалывать, раскалываться, прилипать"
+  },
+  {
+    "id": 9912,
+    "word": "cologne",
+    "translation": "одеколон"
+  },
+  {
+    "id": 9913,
+    "word": "courteous",
+    "translation": "вежливый, учтивый, любезный, обходительный"
+  },
+  {
+    "id": 9914,
+    "word": "cursory",
+    "translation": "беглый"
+  },
+  {
+    "id": 9915,
+    "word": "defraud",
+    "translation": "обманывать"
+  },
+  {
+    "id": 9916,
+    "word": "deliverance",
+    "translation": "освобождение"
+  },
+  {
+    "id": 9917,
+    "word": "denomination",
+    "translation": "деноминация, наименование, конфессия, обозначение, достоинство, вероисповедание, купюра, название, стоимость"
+  },
+  {
+    "id": 9918,
+    "word": "disservice",
+    "translation": "плохая услуга, ущерб, вред"
+  },
+  {
+    "id": 9919,
+    "word": "elegy",
+    "translation": "элегия"
+  },
+  {
+    "id": 9920,
+    "word": "expedite",
+    "translation": "(книжн.) поторапливать, ускорять; быстро выполнять; содействовать, продвигать, способствовать; (не accelerate, quicken)"
+  },
+  {
+    "id": 9921,
+    "word": "flagging",
+    "translation": "слабеющий, никнущий"
+  },
+  {
+    "id": 9922,
+    "word": "footwear",
+    "translation": "обувь, обувной"
+  },
+  {
+    "id": 9923,
+    "word": "forthright",
+    "translation": "прямой, направленный прямо вперед; откровенный, открытый, прямой, решительный, непоколебимый; простой; прямо, открыто, решительно, без колебаний; прямо вперед, прямо впереди; немедленно, сразу же, тотчас же"
+  },
+  {
+    "id": 9924,
+    "word": "grapple",
+    "translation": "бороться, сцепиться, обхватывать, захват"
+  },
+  {
+    "id": 9925,
+    "word": "grenade",
+    "translation": "граната"
+  },
+  {
+    "id": 9926,
+    "word": "hopper",
+    "translation": "хоппер, воронка, загрузочная воронка, бункер, магазин"
+  },
+  {
+    "id": 9927,
+    "word": "hyena",
+    "translation": "гиена"
+  },
+  {
+    "id": 9928,
+    "word": "laos",
+    "translation": "Лаос"
+  },
+  {
+    "id": 9929,
+    "word": "marquee",
+    "translation": "шатер"
+  },
+  {
+    "id": 9930,
+    "word": "noxious",
+    "translation": "вредный, пагубный"
+  },
+  {
+    "id": 9931,
+    "word": "padre",
+    "translation": "падре, капеллан, католический священник"
+  },
+  {
+    "id": 9932,
+    "word": "panther",
+    "translation": "пантера, барс"
+  },
+  {
+    "id": 9933,
+    "word": "parry",
+    "translation": "парировать, отражать, парирование"
+  },
+  {
+    "id": 9934,
+    "word": "perpetuate",
+    "translation": "увековечивать"
+  },
+  {
+    "id": 9935,
+    "word": "petite",
+    "translation": "маленькая, маленького роста, изящная"
+  },
+  {
+    "id": 9936,
+    "word": "plummet",
+    "translation": "лот, грузило"
+  },
+  {
+    "id": 9937,
+    "word": "pomp",
+    "translation": "помпа, пышность"
+  },
+  {
+    "id": 9938,
+    "word": "prophetic",
+    "translation": "пророческий"
+  },
+  {
+    "id": 9939,
+    "word": "puny",
+    "translation": "слабый, неопытный; слабый, маленький; ничтожный, незначительный; тривиальный, неновый, неоригинальный"
+  },
+  {
+    "id": 9940,
+    "word": "sampler",
+    "translation": "пробоотборник, шаблон, пробоотборщик, дискретизатор"
+  },
+  {
+    "id": 9941,
+    "word": "scapegoat",
+    "translation": "козел отпущения"
+  },
+  {
+    "id": 9942,
+    "word": "snorkel",
+    "translation": "шноркель"
+  },
+  {
+    "id": 9943,
+    "word": "spore",
+    "translation": "спора"
+  },
+  {
+    "id": 9944,
+    "word": "stilted",
+    "translation": "высокопарный, ходульный"
+  },
+  {
+    "id": 9945,
+    "word": "subvert",
+    "translation": "ниспровергать"
+  },
+  {
+    "id": 9946,
+    "word": "threefold",
+    "translation": "тройной, трехкратный, утроенный"
+  },
+  {
+    "id": 9947,
+    "word": "touchstone",
+    "translation": "пробный камень, критерий, пробирный камень"
+  },
+  {
+    "id": 9948,
+    "word": "treatise",
+    "translation": "трактат"
+  },
+  {
+    "id": 9949,
+    "word": "turbulence",
+    "translation": "турбулентность, завихрение, болтанка"
+  },
+  {
+    "id": 9950,
+    "word": "unruly",
+    "translation": "непокорный, непослушный"
+  },
+  {
+    "id": 9951,
+    "word": "warship",
+    "translation": "военный корабль"
+  },
+  {
+    "id": 9952,
+    "word": "wasteland",
+    "translation": "пустошь, пустырь; застой, вялость, медленное развитие"
+  },
+  {
+    "id": 9953,
+    "word": "alabaster",
+    "translation": "алебастр"
+  },
+  {
+    "id": 9954,
+    "word": "angina",
+    "translation": "стенокардия, ангина"
+  },
+  {
+    "id": 9955,
+    "word": "arson",
+    "translation": "поджог"
+  },
+  {
+    "id": 9956,
+    "word": "baton",
+    "translation": "жезл, эстафета, полицейская дубинка, эстафетная палочка"
+  },
+  {
+    "id": 9957,
+    "word": "camouflage",
+    "translation": "камуфляж, маскировка, маскировать, камуфлировать"
+  },
+  {
+    "id": 9958,
+    "word": "cede",
+    "translation": "уступать, передавать"
+  },
+  {
+    "id": 9959,
+    "word": "celluloid",
+    "translation": "целлулоидный, целлулоид"
+  },
+  {
+    "id": 9960,
+    "word": "cuckoo",
+    "translation": "кукушка"
+  },
+  {
+    "id": 9961,
+    "word": "decry",
+    "translation": "осуждать, порицать, судить, хулить, ставить в вину; принижать, преуменьшать значение чего-л., недооценивать"
+  },
+  {
+    "id": 9962,
+    "word": "dominion",
+    "translation": "доминион, господство, владычество"
+  },
+  {
+    "id": 9963,
+    "word": "dub",
+    "translation": "дублировать"
+  },
+  {
+    "id": 9964,
+    "word": "enterprising",
+    "translation": "предприимчивый, инициативный"
+  },
+  {
+    "id": 9965,
+    "word": "eyewitness",
+    "translation": "очевидец; (юр.) свидетель-очевидец; (не witness, bystander, attestor)"
+  },
+  {
+    "id": 9966,
+    "word": "facetious",
+    "translation": "шутливый"
+  },
+  {
+    "id": 9967,
+    "word": "fanfare",
+    "translation": "фанфара"
+  },
+  {
+    "id": 9968,
+    "word": "flue",
+    "translation": "дымоход, газоход, боров"
+  },
+  {
+    "id": 9969,
+    "word": "glib",
+    "translation": "бойкий"
+  },
+  {
+    "id": 9970,
+    "word": "gunpoint",
+    "translation": "дуло пистолета"
+  },
+  {
+    "id": 9971,
+    "word": "haggard",
+    "translation": "осунувшийся, изможденный"
+  },
+  {
+    "id": 9972,
+    "word": "handover",
+    "translation": "передача"
+  },
+  {
+    "id": 9973,
+    "word": "inane",
+    "translation": "глупый, бессмысленный"
+  },
+  {
+    "id": 9974,
+    "word": "inertia",
+    "translation": "инерция, инертность, инерционный, вялость, сила инерции, косность, бездействие, бездеятельность"
+  },
+  {
+    "id": 9975,
+    "word": "lotion",
+    "translation": "лосьон, примочка"
+  },
+  {
+    "id": 9976,
+    "word": "luminous",
+    "translation": "светящийся, световой"
+  },
+  {
+    "id": 9977,
+    "word": "magnum",
+    "translation": "большая винная бутылка"
+  },
+  {
+    "id": 9978,
+    "word": "matinee",
+    "translation": "дневной спектакль"
+  },
+  {
+    "id": 9979,
+    "word": "misfortune",
+    "translation": "несчастье, беда, неудача, злоключение"
+  },
+  {
+    "id": 9980,
+    "word": "mistrust",
+    "translation": "недоверие"
+  },
+  {
+    "id": 9981,
+    "word": "navel",
+    "translation": "пупок, пуп"
+  },
+  {
+    "id": 9982,
+    "word": "outstretched",
+    "translation": "протянутый, растянувшийся"
+  },
+  {
+    "id": 9983,
+    "word": "perceptual",
+    "translation": "перцептивный"
+  },
+  {
+    "id": 9984,
+    "word": "pouch",
+    "translation": "сумка, мешок, карман"
+  },
+  {
+    "id": 9985,
+    "word": "regal",
+    "translation": "царственный, королевский, царский"
+  },
+  {
+    "id": 9986,
+    "word": "renounce",
+    "translation": "отказываться, отрекаться, отвергать, отклонять; (не refuse, deny, reject, decline, withhold, denounce, disown)"
+  },
+  {
+    "id": 9987,
+    "word": "repugnant",
+    "translation": "противный"
+  },
+  {
+    "id": 9988,
+    "word": "rift",
+    "translation": "трещина, разрыв, щель, расселина, рифт"
+  },
+  {
+    "id": 9989,
+    "word": "rom",
+    "translation": "цыган"
+  },
+  {
+    "id": 9990,
+    "word": "sparrow",
+    "translation": "воробей"
+  },
+  {
+    "id": 9991,
+    "word": "squeamish",
+    "translation": "брезгливый, щепетильный, привередливый"
+  },
+  {
+    "id": 9992,
+    "word": "stifle",
+    "translation": "подавлять, заглушать, душить; (не choke, suffocate, smother, strangle)"
+  },
+  {
+    "id": 9993,
+    "word": "taint",
+    "translation": "пятно, позор"
+  },
+  {
+    "id": 9994,
+    "word": "tapestry",
+    "translation": "гобелен"
+  },
+  {
+    "id": 9995,
+    "word": "ultimatum",
+    "translation": "ультиматум"
+  },
+  {
+    "id": 9996,
+    "word": "underpants",
+    "translation": "кальсоны, трусы"
+  },
+  {
+    "id": 9997,
+    "word": "veal",
+    "translation": "телятина"
+  },
+  {
+    "id": 9998,
+    "word": "vouch",
+    "translation": "поручаться, ручаться"
+  },
+  {
+    "id": 9999,
+    "word": "warp",
+    "translation": "основа, искривлять, коробление, перекос, деформироваться, верповать, верповаться, коробиться, коробить, перекашиваться"
+  },
+  {
+    "id": 10000,
+    "word": "acumen",
+    "translation": "сообразительность"
+  }
+]

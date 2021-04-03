@@ -1,0 +1,502 @@
+[
+  {
+    "id": 10201,
+    "word": "doorbell",
+    "translation": "дверной звонок"
+  },
+  {
+    "id": 10202,
+    "word": "duet",
+    "translation": "дуэт"
+  },
+  {
+    "id": 10203,
+    "word": "ebony",
+    "translation": "черное дерево, эбеновый, эбеновое дерево, черный как смоль"
+  },
+  {
+    "id": 10204,
+    "word": "fatuous",
+    "translation": "глупый"
+  },
+  {
+    "id": 10205,
+    "word": "gentile",
+    "translation": "язычник, нееврей"
+  },
+  {
+    "id": 10206,
+    "word": "heretic",
+    "translation": "еретик"
+  },
+  {
+    "id": 10207,
+    "word": "indelible",
+    "translation": "несмываемый, неизгладимый, нестираемый, нестирающийся"
+  },
+  {
+    "id": 10208,
+    "word": "keynote",
+    "translation": "основная идея доклада, политики"
+  },
+  {
+    "id": 10209,
+    "word": "kiosk",
+    "translation": "киоск, будка, ларек"
+  },
+  {
+    "id": 10210,
+    "word": "lunacy",
+    "translation": "сумасшествие, помешательство, умопомешательство, лунатизм, психоз; (не insanity, madness, frenzy)"
+  },
+  {
+    "id": 10211,
+    "word": "maniac",
+    "translation": "маньяк, помешанный"
+  },
+  {
+    "id": 10212,
+    "word": "mime",
+    "translation": "пантомима, мим, мимика, имитировать"
+  },
+  {
+    "id": 10213,
+    "word": "munch",
+    "translation": "жевать, чавкать, шамкать"
+  },
+  {
+    "id": 10214,
+    "word": "orchestrate",
+    "translation": "оркестровать"
+  },
+  {
+    "id": 10215,
+    "word": "orchid",
+    "translation": "орхидея"
+  },
+  {
+    "id": 10216,
+    "word": "ordinance",
+    "translation": "постановление, указ, таинство, ордонанс"
+  },
+  {
+    "id": 10217,
+    "word": "otter",
+    "translation": "выдра"
+  },
+  {
+    "id": 10218,
+    "word": "overcast",
+    "translation": "пасмурный"
+  },
+  {
+    "id": 10219,
+    "word": "passover",
+    "translation": "еврейская пасха; пасхальный агнец"
+  },
+  {
+    "id": 10220,
+    "word": "polystyrene",
+    "translation": "полистирол"
+  },
+  {
+    "id": 10221,
+    "word": "posthumous",
+    "translation": "посмертный"
+  },
+  {
+    "id": 10222,
+    "word": "prefix",
+    "translation": "префикс, префиксный, приставка"
+  },
+  {
+    "id": 10223,
+    "word": "pseudonym",
+    "translation": "псевдоним"
+  },
+  {
+    "id": 10224,
+    "word": "quadrant",
+    "translation": "квадрант, сектор, четверть, квадрантный"
+  },
+  {
+    "id": 10225,
+    "word": "quadratic",
+    "translation": "квадратичный, квадратный, квадратное уравнение, квадратический"
+  },
+  {
+    "id": 10226,
+    "word": "quadruple",
+    "translation": "четверка, учетверенный, учетверять, четверной"
+  },
+  {
+    "id": 10227,
+    "word": "quip",
+    "translation": "острота"
+  },
+  {
+    "id": 10228,
+    "word": "redress",
+    "translation": "возмещение, исправлять, удовлетворение, возмещать"
+  },
+  {
+    "id": 10229,
+    "word": "rejoin",
+    "translation": "возражать"
+  },
+  {
+    "id": 10230,
+    "word": "scum",
+    "translation": "подонок, накипь, пена, мразь, пенка, тина"
+  },
+  {
+    "id": 10231,
+    "word": "shag",
+    "translation": "жёсткая, лохматая шевелюра, грубый ворс; чаща, густые заросли молодых деревьев; крепкий, грубый табак, махорка; баклан хохлатый длинноносый; сексуальный контакт, половой акт, сексуальный партнер; делать косматым, лохматым, взлохмачивать, делать грубым, ше"
+  },
+  {
+    "id": 10232,
+    "word": "silica",
+    "translation": "силикатный, кварц, кремнезем, кварцевый, двуокись кремния"
+  },
+  {
+    "id": 10233,
+    "word": "strident",
+    "translation": "пронзительный"
+  },
+  {
+    "id": 10234,
+    "word": "theologian",
+    "translation": "богослов, теолог"
+  },
+  {
+    "id": 10235,
+    "word": "topography",
+    "translation": "топография"
+  },
+  {
+    "id": 10236,
+    "word": "truce",
+    "translation": "перемирие"
+  },
+  {
+    "id": 10237,
+    "word": "wield",
+    "translation": "орудовать"
+  },
+  {
+    "id": 10238,
+    "word": "wreak",
+    "translation": "давать выход, волю; мстить; причинять вред, ущерб"
+  },
+  {
+    "id": 10239,
+    "word": "aback",
+    "translation": "назад, задом, сзади"
+  },
+  {
+    "id": 10240,
+    "word": "abrasive",
+    "translation": "абразивный, шлифовальный, абразив, абразивный материал, шлифовальный материал"
+  },
+  {
+    "id": 10241,
+    "word": "alibi",
+    "translation": "алиби"
+  },
+  {
+    "id": 10242,
+    "word": "artisan",
+    "translation": "ремесленник, мастеровой"
+  },
+  {
+    "id": 10243,
+    "word": "asterisk",
+    "translation": "звездочка"
+  },
+  {
+    "id": 10244,
+    "word": "attenuate",
+    "translation": "ослаблять, затухать"
+  },
+  {
+    "id": 10245,
+    "word": "bonanza",
+    "translation": "бонанца"
+  },
+  {
+    "id": 10246,
+    "word": "boob",
+    "translation": "болван, олух, дуралей; сиська"
+  },
+  {
+    "id": 10247,
+    "word": "circuitry",
+    "translation": "график, диаграмма, схема"
+  },
+  {
+    "id": 10248,
+    "word": "copious",
+    "translation": "обильный"
+  },
+  {
+    "id": 10249,
+    "word": "dynamite",
+    "translation": "динамит, динамитный"
+  },
+  {
+    "id": 10250,
+    "word": "emeritus",
+    "translation": "заслуженный деятель в отставке; заслуженный, имеющий почётное звание"
+  },
+  {
+    "id": 10251,
+    "word": "enamel",
+    "translation": "эмаль, эмалировать, эмалевый, финифть, зубная эмаль"
+  },
+  {
+    "id": 10252,
+    "word": "epilepsy",
+    "translation": "эпилепсия"
+  },
+  {
+    "id": 10253,
+    "word": "forestall",
+    "translation": "опережать, предупреждать, предвосхищать"
+  },
+  {
+    "id": 10254,
+    "word": "grapefruit",
+    "translation": "грейпфрут"
+  },
+  {
+    "id": 10255,
+    "word": "gravely",
+    "translation": "серьезно"
+  },
+  {
+    "id": 10256,
+    "word": "heartbreak",
+    "translation": "большое горе"
+  },
+  {
+    "id": 10257,
+    "word": "hermitage",
+    "translation": "Эрмитаж; сорт французского вина; хижина отшельника, уединенное жилище"
+  },
+  {
+    "id": 10258,
+    "word": "hippo",
+    "translation": "гиппопотам"
+  },
+  {
+    "id": 10259,
+    "word": "hone",
+    "translation": "оселок, точильный камень"
+  },
+  {
+    "id": 10260,
+    "word": "impart",
+    "translation": "придавать, сообщать, передавать"
+  },
+  {
+    "id": 10261,
+    "word": "indebted",
+    "translation": "обязанный, находящийся в долгу"
+  },
+  {
+    "id": 10262,
+    "word": "inset",
+    "translation": "вставка, врезка, вкладка"
+  },
+  {
+    "id": 10263,
+    "word": "jest",
+    "translation": "шутка, шутить"
+  },
+  {
+    "id": 10264,
+    "word": "loony",
+    "translation": "(сл.) псих, рехнувшийся, чокнутый, полоумный; (не nutter, psycho, crazy, nut, nutcase)"
+  },
+  {
+    "id": 10265,
+    "word": "luscious",
+    "translation": "ароматный, сладкий; приторный; надоедливый; соблазнительный, привлекательный; богатый, пышный, роскошный; перегруженный, изобилующий украшениями"
+  },
+  {
+    "id": 10266,
+    "word": "misogyny",
+    "translation": "женоненавистничество"
+  },
+  {
+    "id": 10267,
+    "word": "mouthpiece",
+    "translation": "мундштук, загубник, рупор, амбушюр, выразитель"
+  },
+  {
+    "id": 10268,
+    "word": "panda",
+    "translation": "панда"
+  },
+  {
+    "id": 10269,
+    "word": "plywood",
+    "translation": "фанера, клееная фанера"
+  },
+  {
+    "id": 10270,
+    "word": "postscript",
+    "translation": "постскриптум"
+  },
+  {
+    "id": 10271,
+    "word": "preside",
+    "translation": "председательствовать, быть председателем; осуществлять контроль, руководство; сидеть за музыкальным инструментом"
+  },
+  {
+    "id": 10272,
+    "word": "prod",
+    "translation": "тыкать, тычок"
+  },
+  {
+    "id": 10273,
+    "word": "psychoanalytic",
+    "translation": "психоаналитический"
+  },
+  {
+    "id": 10274,
+    "word": "rapture",
+    "translation": "восхищение, восторг, вознесение, экстаз"
+  },
+  {
+    "id": 10275,
+    "word": "rename",
+    "translation": "переименовывать"
+  },
+  {
+    "id": 10276,
+    "word": "retake",
+    "translation": "снова взять, занять захватить; пересдавать экзамен; пересъемка, переснятый кадр; повторная запись музыки; переделка"
+  },
+  {
+    "id": 10277,
+    "word": "shingle",
+    "translation": "галька, дранка, галечник"
+  },
+  {
+    "id": 10278,
+    "word": "sideline",
+    "translation": "побочная работа, вторая;побочная профессия; дополнительные товары; боковая ветка; боковая линия игрового поля; стреножить; вывести из игры; ограничивать возможности"
+  },
+  {
+    "id": 10279,
+    "word": "siesta",
+    "translation": "сиеста"
+  },
+  {
+    "id": 10280,
+    "word": "silverware",
+    "translation": "изделия из серебра, столовое серебро"
+  },
+  {
+    "id": 10281,
+    "word": "renegade",
+    "translation": "ренегат, отступник, вероотступник, отщепенец"
+  },
+  {
+    "id": 10282,
+    "word": "resolute",
+    "translation": "решительный, твердый"
+  },
+  {
+    "id": 10283,
+    "word": "rework",
+    "translation": "перерабатывать"
+  },
+  {
+    "id": 10284,
+    "word": "saucy",
+    "translation": "дерзкий, нахальный"
+  },
+  {
+    "id": 10285,
+    "word": "secretariat",
+    "translation": "секретариат"
+  },
+  {
+    "id": 10286,
+    "word": "sedate",
+    "translation": "спокойный, степенный"
+  },
+  {
+    "id": 10287,
+    "word": "sinful",
+    "translation": "грешный, греховный"
+  },
+  {
+    "id": 10288,
+    "word": "slush",
+    "translation": "слякоть, жижа, шуга"
+  },
+  {
+    "id": 10289,
+    "word": "testicle",
+    "translation": "яичко, семенник"
+  },
+  {
+    "id": 10290,
+    "word": "titan",
+    "translation": "Титаны; титан, колосс, исполин; бог Солнца, Солнце; Титан"
+  },
+  {
+    "id": 10291,
+    "word": "tripe",
+    "translation": "рубец"
+  },
+  {
+    "id": 10292,
+    "word": "vindictive",
+    "translation": "мстительный"
+  },
+  {
+    "id": 10293,
+    "word": "weighty",
+    "translation": "весомый, веский, увесистый; (не important, big, sizeable, massive, large, great)"
+  },
+  {
+    "id": 10294,
+    "word": "widget",
+    "translation": "штучка, штука, штуковина"
+  },
+  {
+    "id": 10295,
+    "word": "wrest",
+    "translation": "вырывать"
+  },
+  {
+    "id": 10296,
+    "word": "alchemy",
+    "translation": "алхимия"
+  },
+  {
+    "id": 10297,
+    "word": "amoral",
+    "translation": "аморальный, безнравственный"
+  },
+  {
+    "id": 10298,
+    "word": "apostrophe",
+    "translation": "апострофа, апостроф"
+  },
+  {
+    "id": 10299,
+    "word": "avenge",
+    "translation": "мстить"
+  },
+  {
+    "id": 10300,
+    "word": "baptism",
+    "translation": "крещение"
+  }
+]

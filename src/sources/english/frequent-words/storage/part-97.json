@@ -1,0 +1,502 @@
+[
+  {
+    "id": 9601,
+    "word": "bikini",
+    "translation": "бикини"
+  },
+  {
+    "id": 9602,
+    "word": "bison",
+    "translation": "зубр, бизон"
+  },
+  {
+    "id": 9603,
+    "word": "bloodshed",
+    "translation": "кровопролитие"
+  },
+  {
+    "id": 9604,
+    "word": "bloodstream",
+    "translation": "кровоток, ток крови"
+  },
+  {
+    "id": 9605,
+    "word": "bravado",
+    "translation": "бравада"
+  },
+  {
+    "id": 9606,
+    "word": "callous",
+    "translation": "черствый, мозолистый, бессердечный, огрубелый"
+  },
+  {
+    "id": 9607,
+    "word": "chuckle",
+    "translation": "посмеиваться, смеяться"
+  },
+  {
+    "id": 9608,
+    "word": "coil",
+    "translation": "катушка, бухта, рулон, виток, спираль, змеевик, обмотка, наматывать, намотка, катушка индуктивности; (не spool, bobbin, reel)"
+  },
+  {
+    "id": 9609,
+    "word": "dissolution",
+    "translation": "растворение, расторжение, роспуск, ликвидация, разложение"
+  },
+  {
+    "id": 9610,
+    "word": "divinity",
+    "translation": "божество, божественность, богословие"
+  },
+  {
+    "id": 9611,
+    "word": "entice",
+    "translation": "соблазнять, заманивать, сманивать, переманивать"
+  },
+  {
+    "id": 9612,
+    "word": "exacerbate",
+    "translation": "усугублять, обострять"
+  },
+  {
+    "id": 9613,
+    "word": "extravaganza",
+    "translation": "феерия"
+  },
+  {
+    "id": 9614,
+    "word": "impediment",
+    "translation": "препятствие, помеха, затруднение, задержка, препона; (не obstacle, obstruction, barrier, hindrance, disorder, disability, disturbance, interference, hurdle, intercept, interrupt, retardation)"
+  },
+  {
+    "id": 9615,
+    "word": "lard",
+    "translation": "лярд, свиное сало, шпиговать"
+  },
+  {
+    "id": 9616,
+    "word": "lull",
+    "translation": "затишье, убаюкивать"
+  },
+  {
+    "id": 9617,
+    "word": "mingle",
+    "translation": "смешивать"
+  },
+  {
+    "id": 9618,
+    "word": "moat",
+    "translation": "ров (с водой); крепостной ров; обносить рвом; (не ditch, trench, fosse)"
+  },
+  {
+    "id": 9619,
+    "word": "mod",
+    "translation": "ультрасовременный, стильный, утонченный; модник, модница, стиляга"
+  },
+  {
+    "id": 9620,
+    "word": "nectar",
+    "translation": "нектар"
+  },
+  {
+    "id": 9621,
+    "word": "nestle",
+    "translation": "гнездиться, ютиться"
+  },
+  {
+    "id": 9622,
+    "word": "nirvana",
+    "translation": "нирвана"
+  },
+  {
+    "id": 9623,
+    "word": "parable",
+    "translation": "притча, иносказание"
+  },
+  {
+    "id": 9624,
+    "word": "penthouse",
+    "translation": "навес"
+  },
+  {
+    "id": 9625,
+    "word": "platonic",
+    "translation": "платонический"
+  },
+  {
+    "id": 9626,
+    "word": "recapture",
+    "translation": "взятие обратно; поимка; то, что взято обратно; брать обратно; ловить"
+  },
+  {
+    "id": 9627,
+    "word": "restate",
+    "translation": "переформулировать"
+  },
+  {
+    "id": 9628,
+    "word": "rumble",
+    "translation": "грохот, рокот, гул, грохотать, громыхать, урчать, громыхание"
+  },
+  {
+    "id": 9629,
+    "word": "staid",
+    "translation": "степенный"
+  },
+  {
+    "id": 9630,
+    "word": "tweed",
+    "translation": "твид; костюм из твида"
+  },
+  {
+    "id": 9631,
+    "word": "underclass",
+    "translation": "низшие слои общества"
+  },
+  {
+    "id": 9632,
+    "word": "wont",
+    "translation": "обыкновение"
+  },
+  {
+    "id": 9633,
+    "word": "adversary",
+    "translation": "противник, враг, оппонент"
+  },
+  {
+    "id": 9634,
+    "word": "afoot",
+    "translation": "пешком"
+  },
+  {
+    "id": 9635,
+    "word": "airfield",
+    "translation": "аэродром, аэродромный, летное поле"
+  },
+  {
+    "id": 9636,
+    "word": "altruism",
+    "translation": "альтруизм"
+  },
+  {
+    "id": 9637,
+    "word": "calamity",
+    "translation": "бедствие, катастрофа, беда"
+  },
+  {
+    "id": 9638,
+    "word": "cello",
+    "translation": "виолончель"
+  },
+  {
+    "id": 9639,
+    "word": "chamberlain",
+    "translation": "камергер"
+  },
+  {
+    "id": 9640,
+    "word": "choral",
+    "translation": "хоровой, хорал"
+  },
+  {
+    "id": 9641,
+    "word": "courtship",
+    "translation": "ухаживание"
+  },
+  {
+    "id": 9642,
+    "word": "crotch",
+    "translation": "развилка"
+  },
+  {
+    "id": 9643,
+    "word": "din",
+    "translation": "шум, грохот, гул, вдалбливать"
+  },
+  {
+    "id": 9644,
+    "word": "encore",
+    "translation": "вызов на бис"
+  },
+  {
+    "id": 9645,
+    "word": "facet",
+    "translation": "фасет, аспект, грань, фаска, гранить, фасетка"
+  },
+  {
+    "id": 9646,
+    "word": "finesse",
+    "translation": "тонкость, искусность"
+  },
+  {
+    "id": 9647,
+    "word": "fruitful",
+    "translation": "плодотворный, плодородный, продуктивный, плодовитый, плодоносный"
+  },
+  {
+    "id": 9648,
+    "word": "galore",
+    "translation": "в изобилии. в достатке; достаток, изобилие"
+  },
+  {
+    "id": 9649,
+    "word": "garish",
+    "translation": "очень яркий, ослепительный; чрезмерно пестрый, кричаще яркий; блестящий, показной"
+  },
+  {
+    "id": 9650,
+    "word": "granule",
+    "translation": "гранула, зерно, крупинка"
+  },
+  {
+    "id": 9651,
+    "word": "husky",
+    "translation": "сиплый, лайка"
+  },
+  {
+    "id": 9652,
+    "word": "juggernaut",
+    "translation": "Джаггернаут; мощное транспортное средство, мощный военный корабль, многотонный грузовик"
+  },
+  {
+    "id": 9653,
+    "word": "laborious",
+    "translation": "трудоемкий"
+  },
+  {
+    "id": 9654,
+    "word": "liqueur",
+    "translation": "ликер"
+  },
+  {
+    "id": 9655,
+    "word": "macro",
+    "translation": "макрос, макрокоманда"
+  },
+  {
+    "id": 9656,
+    "word": "malt",
+    "translation": "солод, солодовый"
+  },
+  {
+    "id": 9657,
+    "word": "mango",
+    "translation": "манго, манговое дерево"
+  },
+  {
+    "id": 9658,
+    "word": "mercenary",
+    "translation": "наемник, наемный, корыстный, торгашеский, наймит, наемный убийца"
+  },
+  {
+    "id": 9659,
+    "word": "mirage",
+    "translation": "мираж"
+  },
+  {
+    "id": 9660,
+    "word": "nocturnal",
+    "translation": "ночной"
+  },
+  {
+    "id": 9661,
+    "word": "oblivion",
+    "translation": "забвение, забытье"
+  },
+  {
+    "id": 9662,
+    "word": "oust",
+    "translation": "вытеснять"
+  },
+  {
+    "id": 9663,
+    "word": "overlay",
+    "translation": "наложение, оверлей, совмещение"
+  },
+  {
+    "id": 9664,
+    "word": "painstaking",
+    "translation": "кропотливый, тщательный, старательный, усердный"
+  },
+  {
+    "id": 9665,
+    "word": "patronage",
+    "translation": "покровительство, патронат, патронаж, шефство"
+  },
+  {
+    "id": 9666,
+    "word": "pedantic",
+    "translation": "педантичный"
+  },
+  {
+    "id": 9667,
+    "word": "pendulum",
+    "translation": "маятник, маятниковый"
+  },
+  {
+    "id": 9668,
+    "word": "perceptive",
+    "translation": "восприимчивый, воспринимающий"
+  },
+  {
+    "id": 9669,
+    "word": "piracy",
+    "translation": "пиратство"
+  },
+  {
+    "id": 9670,
+    "word": "quay",
+    "translation": "набережная, причал, пристань"
+  },
+  {
+    "id": 9671,
+    "word": "reimburse",
+    "translation": "возмещать, возвращать, компенсировать"
+  },
+  {
+    "id": 9672,
+    "word": "repress",
+    "translation": "подавлять"
+  },
+  {
+    "id": 9673,
+    "word": "tote",
+    "translation": "нести, везти, перевозить, транспортировать; груз; перевозка, транспортирование, транспортировка"
+  },
+  {
+    "id": 9674,
+    "word": "wail",
+    "translation": "выть, вопль, вопить, завывание"
+  },
+  {
+    "id": 9675,
+    "word": "anorexic",
+    "translation": "страдающий отсутствием аппетита; испытывающий отвращение к пище, страдающий анорексией"
+  },
+  {
+    "id": 9676,
+    "word": "antelope",
+    "translation": "антилопа"
+  },
+  {
+    "id": 9677,
+    "word": "arduous",
+    "translation": "трудный"
+  },
+  {
+    "id": 9678,
+    "word": "armenia",
+    "translation": "Армения"
+  },
+  {
+    "id": 9679,
+    "word": "aroma",
+    "translation": "аромат"
+  },
+  {
+    "id": 9680,
+    "word": "bandit",
+    "translation": "бандит, разбойник"
+  },
+  {
+    "id": 9681,
+    "word": "brood",
+    "translation": "выводок, высиживать"
+  },
+  {
+    "id": 9682,
+    "word": "semblance",
+    "translation": "подобие, видимость, сходство"
+  },
+  {
+    "id": 9683,
+    "word": "sheen",
+    "translation": "блеск, блистание, сияние, яркость; пышное одеяние, блестящий, сверкающий наряд; зрачок глаза; тонкая жировая пленка, жировое пятно; прекрасный, красивый; блестящий, сверкающий, сияющий, яркий; искриться, сиять, блестеть, сверкать; фальшивая монета; автома"
+  },
+  {
+    "id": 9684,
+    "word": "sketchy",
+    "translation": "схематичный, эскизный"
+  },
+  {
+    "id": 9685,
+    "word": "skew",
+    "translation": "косой, перекос, искажать, сдвиг, асимметричный, скос, скошенный, искажение, отклоняться"
+  },
+  {
+    "id": 9686,
+    "word": "tangent",
+    "translation": "касательный, касательная, тангенс, касающийся"
+  },
+  {
+    "id": 9687,
+    "word": "tweak",
+    "translation": "щипок; дергать, ущипнуть, щипать; стрелять из рогатки; налаживать (механизм)"
+  },
+  {
+    "id": 9688,
+    "word": "vie",
+    "translation": "соперничать"
+  },
+  {
+    "id": 9689,
+    "word": "abreast",
+    "translation": "в ряд"
+  },
+  {
+    "id": 9690,
+    "word": "afar",
+    "translation": "вдалеке, далеко"
+  },
+  {
+    "id": 9691,
+    "word": "amiable",
+    "translation": "любезный"
+  },
+  {
+    "id": 9692,
+    "word": "antiquity",
+    "translation": "древность, античность, старина"
+  },
+  {
+    "id": 9693,
+    "word": "brevity",
+    "translation": "краткость"
+  },
+  {
+    "id": 9694,
+    "word": "cache",
+    "translation": "кэш, кэшировать, тайник"
+  },
+  {
+    "id": 9695,
+    "word": "cadre",
+    "translation": "кадры, кадровый состав"
+  },
+  {
+    "id": 9696,
+    "word": "complacency",
+    "translation": "самодовольство, самоуспокоенность, благодушие"
+  },
+  {
+    "id": 9697,
+    "word": "coy",
+    "translation": "робкий, застенчивый, стеснительный, не отвечающий на заигрывание; сдержанный, недемонстративный; трусливый, осторожный; недоступный, недосягаемый, неприступный, укромный; нерасположенный, несклонный, уклончивый; западня, ловушка"
+  },
+  {
+    "id": 9698,
+    "word": "cucumber",
+    "translation": "огурец"
+  },
+  {
+    "id": 9699,
+    "word": "denim",
+    "translation": "грубая хлопчатобумажная ткань"
+  },
+  {
+    "id": 9700,
+    "word": "drab",
+    "translation": "серый, тускло-коричневый, желтовато-серый"
+  }
+]

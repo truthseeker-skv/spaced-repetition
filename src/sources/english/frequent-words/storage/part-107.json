@@ -1,0 +1,502 @@
+[
+  {
+    "id": 10601,
+    "word": "ostentatious",
+    "translation": "показной"
+  },
+  {
+    "id": 10602,
+    "word": "peddle",
+    "translation": "торговать вразнос; заниматься пустяками, размениваться по пустякам"
+  },
+  {
+    "id": 10603,
+    "word": "personage",
+    "translation": "персонаж, особа, действующее лицо"
+  },
+  {
+    "id": 10604,
+    "word": "preconceived",
+    "translation": "предвзятый"
+  },
+  {
+    "id": 10605,
+    "word": "psalm",
+    "translation": "псалом"
+  },
+  {
+    "id": 10606,
+    "word": "pylon",
+    "translation": "пилон"
+  },
+  {
+    "id": 10607,
+    "word": "quartz",
+    "translation": "кварцевый, кварц"
+  },
+  {
+    "id": 10608,
+    "word": "quench",
+    "translation": "закалка, утолять, гасить, заливать, тушить, закаливать"
+  },
+  {
+    "id": 10609,
+    "word": "rector",
+    "translation": "ректор, пастор, приходский священник"
+  },
+  {
+    "id": 10610,
+    "word": "regatta",
+    "translation": "регата"
+  },
+  {
+    "id": 10611,
+    "word": "reprieve",
+    "translation": "отсрочка приведения в исполнение (смертного) приговора; помилование приговоренного к смертной казни; передышка, временное облегчение; откладывать приведение в исполнение (смертного) приговора; помиловать приговоренного к смертной казни; дать человеку пере"
+  },
+  {
+    "id": 10612,
+    "word": "ringleader",
+    "translation": "главарь, зачинщик"
+  },
+  {
+    "id": 10613,
+    "word": "saffron",
+    "translation": "шафран, шафрановый"
+  },
+  {
+    "id": 10614,
+    "word": "sanitary",
+    "translation": "санитарный, гигиенический"
+  },
+  {
+    "id": 10615,
+    "word": "scotsman",
+    "translation": "шотландец; коммивояжер, разносчик, торговец"
+  },
+  {
+    "id": 10616,
+    "word": "screech",
+    "translation": "визг, визжать, скрип"
+  },
+  {
+    "id": 10617,
+    "word": "scurry",
+    "translation": "быстрый бег, стремительное движение; беготня, суета, спешка; бег, скачки на короткую дистанцию; бежать стремглав, нестись; сновать, суетиться; торопить, гнать, заставлять быстро двигаться; (не run, dash, dart, tear, charge, sprint, trot, bound, jog, scamper, scuttle)"
+  },
+  {
+    "id": 10618,
+    "word": "seaboard",
+    "translation": "побережье"
+  },
+  {
+    "id": 10619,
+    "word": "seaweed",
+    "translation": "морская водоросль"
+  },
+  {
+    "id": 10620,
+    "word": "sensuous",
+    "translation": "чувственный"
+  },
+  {
+    "id": 10621,
+    "word": "spasm",
+    "translation": "спазма, спазм, судорога"
+  },
+  {
+    "id": 10622,
+    "word": "swivel",
+    "translation": "поворотный, вертлюг, шарнирное соединение, шарнир"
+  },
+  {
+    "id": 10623,
+    "word": "tenacity",
+    "translation": "упорство, настойчивость, тягучесть, цепкость"
+  },
+  {
+    "id": 10624,
+    "word": "tracer",
+    "translation": "индикатор, трассер"
+  },
+  {
+    "id": 10625,
+    "word": "tripod",
+    "translation": "тренога, штатив, треногий, треножник"
+  },
+  {
+    "id": 10626,
+    "word": "turnip",
+    "translation": "репа, турнепс"
+  },
+  {
+    "id": 10627,
+    "word": "waistband",
+    "translation": "пояс"
+  },
+  {
+    "id": 10628,
+    "word": "yap",
+    "translation": "тявкать"
+  },
+  {
+    "id": 10629,
+    "word": "abate",
+    "translation": "утихать, ослабевать, стихать, уменьшаться, уменьшать, успокаиваться, снижать, умерять"
+  },
+  {
+    "id": 10630,
+    "word": "acquit",
+    "translation": "оправдывать, признавать невиновным"
+  },
+  {
+    "id": 10631,
+    "word": "antiseptic",
+    "translation": "антисептик, антисептический, антисептическое средство"
+  },
+  {
+    "id": 10632,
+    "word": "ballerina",
+    "translation": "балерина"
+  },
+  {
+    "id": 10633,
+    "word": "banish",
+    "translation": "изгонять, прогонять, высылать, ссылать, отгонять"
+  },
+  {
+    "id": 10634,
+    "word": "barricade",
+    "translation": "баррикада, баррикадировать"
+  },
+  {
+    "id": 10635,
+    "word": "barter",
+    "translation": "бартер, мена, обменивать, договор мены, менять, товарообмен, меновая торговля; (не haggle, bargain, negotiate, dicker, quibble, wrangle)"
+  },
+  {
+    "id": 10636,
+    "word": "bridesmaid",
+    "translation": "подружка невесты"
+  },
+  {
+    "id": 10637,
+    "word": "bushel",
+    "translation": "бушель"
+  },
+  {
+    "id": 10638,
+    "word": "chassis",
+    "translation": "шасси, корпус, рама, ходовая часть"
+  },
+  {
+    "id": 10639,
+    "word": "clique",
+    "translation": "клика"
+  },
+  {
+    "id": 10640,
+    "word": "crescendo",
+    "translation": "крещендо"
+  },
+  {
+    "id": 10641,
+    "word": "crystalline",
+    "translation": "кристаллический"
+  },
+  {
+    "id": 10642,
+    "word": "deathbed",
+    "translation": "смертное ложе"
+  },
+  {
+    "id": 10643,
+    "word": "decoy",
+    "translation": "манок"
+  },
+  {
+    "id": 10644,
+    "word": "depose",
+    "translation": "низлагать, свергать"
+  },
+  {
+    "id": 10645,
+    "word": "disparage",
+    "translation": "принижать, умалять, порочить"
+  },
+  {
+    "id": 10646,
+    "word": "divisional",
+    "translation": "дивизионный"
+  },
+  {
+    "id": 10647,
+    "word": "exemplify",
+    "translation": "служить примером, приводить пример"
+  },
+  {
+    "id": 10648,
+    "word": "falter",
+    "translation": "запинаться"
+  },
+  {
+    "id": 10649,
+    "word": "ferment",
+    "translation": "брожение, бродить, фермент, ферментировать, сбраживать, закваска"
+  },
+  {
+    "id": 10650,
+    "word": "fiend",
+    "translation": "изверг"
+  },
+  {
+    "id": 10651,
+    "word": "flippant",
+    "translation": "легкомысленный"
+  },
+  {
+    "id": 10652,
+    "word": "forceps",
+    "translation": "пинцет, щипцы, зажим, хирургические щипцы; (не tweezers)"
+  },
+  {
+    "id": 10653,
+    "word": "fractious",
+    "translation": "беспокойный, капризный, раздражительный"
+  },
+  {
+    "id": 10654,
+    "word": "gleam",
+    "translation": "мерцать, светиться, отблеск, проблеск"
+  },
+  {
+    "id": 10655,
+    "word": "grist",
+    "translation": "зерно; нажива, прибыль; солод; большое количество, масса, заначка, запас; молоть (зерно); размер, толщина"
+  },
+  {
+    "id": 10656,
+    "word": "groggy",
+    "translation": "любящий выпить, пропустить рюмочку, хмельной; слабо или нетвердо стоящий на ногах, неустойчивый, пошатывающийся, припадающий на передние ноги; шаткий, непрочный, расшатанный"
+  },
+  {
+    "id": 10657,
+    "word": "grouse",
+    "translation": "ворчать, шотландская куропатка"
+  },
+  {
+    "id": 10658,
+    "word": "grunt",
+    "translation": "хрюкать, хрюканье"
+  },
+  {
+    "id": 10659,
+    "word": "gush",
+    "translation": "хлестать, изливаться"
+  },
+  {
+    "id": 10660,
+    "word": "hangar",
+    "translation": "ангар, ангарный"
+  },
+  {
+    "id": 10661,
+    "word": "huddle",
+    "translation": "группа, кучка, скопление, куча, нагромождение; спешка, суета, беспорядок, неразбериха, суматоха; совещание, встреча, совещание футбольных игроков на поле; делать что-л. в спешке, небрежно, состряпать; валить в одну кучу, сбивать в кучу, перемешивать; толп"
+  },
+  {
+    "id": 10662,
+    "word": "impregnable",
+    "translation": "неприступный"
+  },
+  {
+    "id": 10663,
+    "word": "incursion",
+    "translation": "вторжение, набег"
+  },
+  {
+    "id": 10664,
+    "word": "indigo",
+    "translation": "индиго"
+  },
+  {
+    "id": 10665,
+    "word": "interrogate",
+    "translation": "допрашивать, опрашивать, запрашивать"
+  },
+  {
+    "id": 10666,
+    "word": "jibe",
+    "translation": "соглашаться; согласоваться, соответствовать"
+  },
+  {
+    "id": 10667,
+    "word": "llama",
+    "translation": "лама"
+  },
+  {
+    "id": 10668,
+    "word": "marinate",
+    "translation": "мариновать"
+  },
+  {
+    "id": 10669,
+    "word": "measles",
+    "translation": "корь"
+  },
+  {
+    "id": 10670,
+    "word": "mite",
+    "translation": "клещ, лепта, полушка"
+  },
+  {
+    "id": 10671,
+    "word": "mutton",
+    "translation": "баранина"
+  },
+  {
+    "id": 10672,
+    "word": "noose",
+    "translation": "петля, силок"
+  },
+  {
+    "id": 10673,
+    "word": "outmoded",
+    "translation": "вышедший из моды; старомодный; устаревший; отживший; (не outdated, old-fashioned, obsolete, archaic, antiquated)"
+  },
+  {
+    "id": 10674,
+    "word": "pare",
+    "translation": "подрезать; срезать корку, кожуру, чистить, обчищать; сокращать, уменьшать, урезывать"
+  },
+  {
+    "id": 10675,
+    "word": "pasty",
+    "translation": "мазеобразный, тестообразный"
+  },
+  {
+    "id": 10676,
+    "word": "pendant",
+    "translation": "кулон, подвеска, вымпел, подвесной"
+  },
+  {
+    "id": 10677,
+    "word": "pewter",
+    "translation": "оловянная посуда"
+  },
+  {
+    "id": 10678,
+    "word": "polypropylene",
+    "translation": "полипропилен"
+  },
+  {
+    "id": 10679,
+    "word": "procure",
+    "translation": "доставать, добывать, приобретать, раздобывать, доставлять"
+  },
+  {
+    "id": 10680,
+    "word": "prostrate",
+    "translation": "распростертый, падать ниц, поверженный, обессиленный"
+  },
+  {
+    "id": 10681,
+    "word": "proviso",
+    "translation": "условие, оговорка"
+  },
+  {
+    "id": 10682,
+    "word": "quack",
+    "translation": "шарлатан, крякать"
+  },
+  {
+    "id": 10683,
+    "word": "reassert",
+    "translation": "заново подтверждать, вновь заявлять, повторно заверять"
+  },
+  {
+    "id": 10684,
+    "word": "reconstitute",
+    "translation": "воссоздавать"
+  },
+  {
+    "id": 10685,
+    "word": "reshape",
+    "translation": "восстанавливать форму"
+  },
+  {
+    "id": 10686,
+    "word": "respirator",
+    "translation": "респиратор, противогаз"
+  },
+  {
+    "id": 10687,
+    "word": "sabre",
+    "translation": "сабля, шашка"
+  },
+  {
+    "id": 10688,
+    "word": "sikh",
+    "translation": "сикх"
+  },
+  {
+    "id": 10689,
+    "word": "skirmish",
+    "translation": "стычка, схватка, перестрелка, перепалка"
+  },
+  {
+    "id": 10690,
+    "word": "sledgehammer",
+    "translation": "кувалда"
+  },
+  {
+    "id": 10691,
+    "word": "sleet",
+    "translation": "крупа, гололед"
+  },
+  {
+    "id": 10692,
+    "word": "stanza",
+    "translation": "строфа, станс"
+  },
+  {
+    "id": 10693,
+    "word": "tarnish",
+    "translation": "потускнение"
+  },
+  {
+    "id": 10694,
+    "word": "tartan",
+    "translation": "шотландка"
+  },
+  {
+    "id": 10695,
+    "word": "torpedo",
+    "translation": "торпеда, торпедный, торпедировать, торпедо"
+  },
+  {
+    "id": 10696,
+    "word": "transitory",
+    "translation": "преходящий, переходный, кратковременный, скоропреходящий"
+  },
+  {
+    "id": 10697,
+    "word": "trepidation",
+    "translation": "трепет, тревога, дрожь, беспокойство"
+  },
+  {
+    "id": 10698,
+    "word": "unanimity",
+    "translation": "единодушие, единогласие, единство"
+  },
+  {
+    "id": 10699,
+    "word": "upholstery",
+    "translation": "обивка"
+  },
+  {
+    "id": 10700,
+    "word": "uptight",
+    "translation": "встревоженный, взволнованный; напряжённый, скованный, настороженный; злой, озлобленный"
+  }
+]

@@ -1,0 +1,502 @@
+[
+  {
+    "id": 10501,
+    "word": "shawl",
+    "translation": "шаль, платок"
+  },
+  {
+    "id": 10502,
+    "word": "sheath",
+    "translation": "ножны, оболочка, футляр"
+  },
+  {
+    "id": 10503,
+    "word": "snippet",
+    "translation": "отрезок, лоскут; обломок, осколок, кусок, часть, малая порция; место, фрагмент, отрывок; обрывки"
+  },
+  {
+    "id": 10504,
+    "word": "sorcerer",
+    "translation": "колдун, чародей, волшебник, кудесник"
+  },
+  {
+    "id": 10505,
+    "word": "soundly",
+    "translation": "обоснованно, беспробудно"
+  },
+  {
+    "id": 10506,
+    "word": "squabble",
+    "translation": "ссора, перебранка, пререкание, препираться"
+  },
+  {
+    "id": 10507,
+    "word": "strut",
+    "translation": "распорка, стойка, раскос"
+  },
+  {
+    "id": 10508,
+    "word": "suburbia",
+    "translation": "предместья и их жители, пригороды"
+  },
+  {
+    "id": 10509,
+    "word": "supple",
+    "translation": "гибкий"
+  },
+  {
+    "id": 10510,
+    "word": "tantrum",
+    "translation": "вспышка раздражения"
+  },
+  {
+    "id": 10511,
+    "word": "taper",
+    "translation": "конический, конус, конусность, сужение, заострять, заостренный, остроносый"
+  },
+  {
+    "id": 10512,
+    "word": "tempest",
+    "translation": "буря"
+  },
+  {
+    "id": 10513,
+    "word": "viola",
+    "translation": "альт"
+  },
+  {
+    "id": 10514,
+    "word": "wane",
+    "translation": "убывать, обзол, спад"
+  },
+  {
+    "id": 10515,
+    "word": "wham",
+    "translation": "удар, звук удара;взрыва; столкновение; потрясающий успех; попытка, проба; бить, ударять; проноситься со скоростью, свистом, толкать, пихать"
+  },
+  {
+    "id": 10516,
+    "word": "adage",
+    "translation": "изречение"
+  },
+  {
+    "id": 10517,
+    "word": "audacity",
+    "translation": "дерзость, смелость"
+  },
+  {
+    "id": 10518,
+    "word": "auspices",
+    "translation": "эгида"
+  },
+  {
+    "id": 10519,
+    "word": "begrudge",
+    "translation": "жадничать, жалеть что-л., скупиться; завидовать"
+  },
+  {
+    "id": 10520,
+    "word": "cadet",
+    "translation": "кадет, курсант, младший брат"
+  },
+  {
+    "id": 10521,
+    "word": "clitoris",
+    "translation": "клитор"
+  },
+  {
+    "id": 10522,
+    "word": "cocoon",
+    "translation": "кокон"
+  },
+  {
+    "id": 10523,
+    "word": "colt",
+    "translation": "жеребчик, жеребёнок, ослёнок или верблюжонок (до 4 лет); (сл.) новичок (особ. в игре в крикет); (название револьвера или пистолета)"
+  },
+  {
+    "id": 10524,
+    "word": "confetti",
+    "translation": "конфетти"
+  },
+  {
+    "id": 10525,
+    "word": "connoisseur",
+    "translation": "знаток, ценитель"
+  },
+  {
+    "id": 10526,
+    "word": "coop",
+    "translation": "клетка"
+  },
+  {
+    "id": 10527,
+    "word": "coroner",
+    "translation": "коронер"
+  },
+  {
+    "id": 10528,
+    "word": "draconian",
+    "translation": "драконовский, суровый, жестокий"
+  },
+  {
+    "id": 10529,
+    "word": "ebb",
+    "translation": "отлив"
+  },
+  {
+    "id": 10530,
+    "word": "edict",
+    "translation": "указ, эдикт"
+  },
+  {
+    "id": 10531,
+    "word": "environs",
+    "translation": "окружение"
+  },
+  {
+    "id": 10532,
+    "word": "extradite",
+    "translation": "выдавать"
+  },
+  {
+    "id": 10533,
+    "word": "gaunt",
+    "translation": "изможденный, костлявый, сухопарый, исхудалый"
+  },
+  {
+    "id": 10534,
+    "word": "glide",
+    "translation": "скользить, планировать, скольжение, планирование, глиссировать"
+  },
+  {
+    "id": 10535,
+    "word": "glitzy",
+    "translation": "блестящий, притягательный"
+  },
+  {
+    "id": 10536,
+    "word": "greenfield",
+    "translation": "не использовавшийся ранее для строительства"
+  },
+  {
+    "id": 10537,
+    "word": "hearsay",
+    "translation": "слух"
+  },
+  {
+    "id": 10538,
+    "word": "heathen",
+    "translation": "язычник, языческий"
+  },
+  {
+    "id": 10539,
+    "word": "illusory",
+    "translation": "иллюзорный, призрачный"
+  },
+  {
+    "id": 10540,
+    "word": "impolite",
+    "translation": "невежливый, неучтивый"
+  },
+  {
+    "id": 10541,
+    "word": "incite",
+    "translation": "побуждать, подстрекать, возбуждать, стимулировать"
+  },
+  {
+    "id": 10542,
+    "word": "inimitable",
+    "translation": "неподражаемый, неповторимый"
+  },
+  {
+    "id": 10543,
+    "word": "lanky",
+    "translation": "долговязый"
+  },
+  {
+    "id": 10544,
+    "word": "legalistic",
+    "translation": "правовой, юридический"
+  },
+  {
+    "id": 10545,
+    "word": "loathsome",
+    "translation": "омерзительный, тошнотворный"
+  },
+  {
+    "id": 10546,
+    "word": "mace",
+    "translation": "булава, жезл"
+  },
+  {
+    "id": 10547,
+    "word": "manger",
+    "translation": "ясли, кормушка"
+  },
+  {
+    "id": 10548,
+    "word": "menial",
+    "translation": "слуга"
+  },
+  {
+    "id": 10549,
+    "word": "monotone",
+    "translation": "монотонный"
+  },
+  {
+    "id": 10550,
+    "word": "negate",
+    "translation": "отрицать, опровергать"
+  },
+  {
+    "id": 10551,
+    "word": "outrun",
+    "translation": "опередить, обогнать; выбегать; убежать (от кого-л.);  преступать пределы или границы; заходить дальше (в действиях); (не outstrip, outpace)"
+  },
+  {
+    "id": 10552,
+    "word": "oversized",
+    "translation": "негабаритный"
+  },
+  {
+    "id": 10553,
+    "word": "palatial",
+    "translation": "дворцовый; богатый, великолепный, пышный, роскошный"
+  },
+  {
+    "id": 10554,
+    "word": "pall",
+    "translation": "покров"
+  },
+  {
+    "id": 10555,
+    "word": "palladium",
+    "translation": "палладий"
+  },
+  {
+    "id": 10556,
+    "word": "pelvis",
+    "translation": "таз"
+  },
+  {
+    "id": 10557,
+    "word": "penultimate",
+    "translation": "предпоследний"
+  },
+  {
+    "id": 10558,
+    "word": "predominate",
+    "translation": "преобладать, доминировать, господствовать"
+  },
+  {
+    "id": 10559,
+    "word": "presumptuous",
+    "translation": "самонадеянный, слишком самонадеянный"
+  },
+  {
+    "id": 10560,
+    "word": "rectum",
+    "translation": "прямая кишка"
+  },
+  {
+    "id": 10561,
+    "word": "redirect",
+    "translation": "переадресовывать, переориентировать, переориентироваться, переназначать"
+  },
+  {
+    "id": 10562,
+    "word": "regroup",
+    "translation": "перегруппировывать"
+  },
+  {
+    "id": 10563,
+    "word": "repent",
+    "translation": "раскаиваться, каяться"
+  },
+  {
+    "id": 10564,
+    "word": "retort",
+    "translation": "возражать, парировать, реторта, возражение; (не answer, reply, respond; object, mind)"
+  },
+  {
+    "id": 10565,
+    "word": "scoff",
+    "translation": "насмешка, издевка; посмешище, страшилище, предмет издевок; насмехаться, осмеивать, поднимать на смех; еда, корм, питание, пища; пожирать, поглощать; хватать, грабить"
+  },
+  {
+    "id": 10566,
+    "word": "scooter",
+    "translation": "мотороллер, скутер"
+  },
+  {
+    "id": 10567,
+    "word": "scuttle",
+    "translation": "люк; бегать, бежать, удирать, поспешно убегать, драпать, отступать, убегать в беспорядке, улепетывать; (не run, dash, dart, tear, charge, sprint, trot, bound, jog, scurry, scamper)"
+  },
+  {
+    "id": 10568,
+    "word": "shipyard",
+    "translation": "верфь, судостроительная верфь, судостроительный завод"
+  },
+  {
+    "id": 10569,
+    "word": "slay",
+    "translation": "(книжн.) убивать, умерщвлять; сразить; подавлять, душить (чувство); (не murder, assassinate, kill, killing)"
+  },
+  {
+    "id": 10570,
+    "word": "slumber",
+    "translation": "сон, спать, дремать, дремота"
+  },
+  {
+    "id": 10571,
+    "word": "snout",
+    "translation": "морда, рыло"
+  },
+  {
+    "id": 10572,
+    "word": "snowman",
+    "translation": "снеговик"
+  },
+  {
+    "id": 10573,
+    "word": "stockbroker",
+    "translation": "биржевой маклер"
+  },
+  {
+    "id": 10574,
+    "word": "subdue",
+    "translation": "подавлять, подчинять, покорять, смирять"
+  },
+  {
+    "id": 10575,
+    "word": "submissive",
+    "translation": "покорный, послушный, смиренный"
+  },
+  {
+    "id": 10576,
+    "word": "succulent",
+    "translation": "сочный, суккулент"
+  },
+  {
+    "id": 10577,
+    "word": "suction",
+    "translation": "всасывание, отсос, всасывающий, отсасывание, отсасывающий, аспирация, засасывающий, сосание, засасывание"
+  },
+  {
+    "id": 10578,
+    "word": "telepathy",
+    "translation": "телепатия"
+  },
+  {
+    "id": 10579,
+    "word": "testimonial",
+    "translation": "аттестат, характеристика, свидетельский, аттестация"
+  },
+  {
+    "id": 10580,
+    "word": "toad",
+    "translation": "жаба"
+  },
+  {
+    "id": 10581,
+    "word": "footwork",
+    "translation": "работа ног"
+  },
+  {
+    "id": 10582,
+    "word": "fruition",
+    "translation": "пользование какими-л. благами; осуществление, выполнение, реализация; плодоношение"
+  },
+  {
+    "id": 10583,
+    "word": "guillotine",
+    "translation": "гильотина, гильотинировать"
+  },
+  {
+    "id": 10584,
+    "word": "hellenic",
+    "translation": "греческий, эллинский; греческий язык; труды по греческой филологии"
+  },
+  {
+    "id": 10585,
+    "word": "hoe",
+    "translation": "мотыга, мотыжить, разрыхлять"
+  },
+  {
+    "id": 10586,
+    "word": "huff",
+    "translation": "фук, фуканье"
+  },
+  {
+    "id": 10587,
+    "word": "improvise",
+    "translation": "импровизировать"
+  },
+  {
+    "id": 10588,
+    "word": "incarnate",
+    "translation": "воплощенный, воплощать, реализовывать"
+  },
+  {
+    "id": 10589,
+    "word": "irksome",
+    "translation": "надоедливый"
+  },
+  {
+    "id": 10590,
+    "word": "kilogram",
+    "translation": "килограмм"
+  },
+  {
+    "id": 10591,
+    "word": "lettering",
+    "translation": "буквенное обозначение"
+  },
+  {
+    "id": 10592,
+    "word": "meek",
+    "translation": "кроткий, смиренный"
+  },
+  {
+    "id": 10593,
+    "word": "memento",
+    "translation": "церковное поминание; напоминание; сувенир"
+  },
+  {
+    "id": 10594,
+    "word": "midget",
+    "translation": "карлик, лилипут, миниатюрный"
+  },
+  {
+    "id": 10595,
+    "word": "misrepresent",
+    "translation": "искажать"
+  },
+  {
+    "id": 10596,
+    "word": "molest",
+    "translation": "приставать"
+  },
+  {
+    "id": 10597,
+    "word": "negotiable",
+    "translation": "оборотный"
+  },
+  {
+    "id": 10598,
+    "word": "noodle",
+    "translation": "дурень"
+  },
+  {
+    "id": 10599,
+    "word": "nugget",
+    "translation": "самородок"
+  },
+  {
+    "id": 10600,
+    "word": "ostensible",
+    "translation": "очевидный"
+  }
+]

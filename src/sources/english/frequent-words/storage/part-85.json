@@ -1,0 +1,502 @@
+[
+  {
+    "id": 8401,
+    "word": "conquest",
+    "translation": "завоевание, победа, покорение"
+  },
+  {
+    "id": 8402,
+    "word": "dell",
+    "translation": "лесистая долина, лощина"
+  },
+  {
+    "id": 8403,
+    "word": "underway",
+    "translation": "дорожный, путевой; двигающийся; начиная движение; в процессе разработки, реализации"
+  },
+  {
+    "id": 8404,
+    "word": "uprising",
+    "translation": "восстание, бунт"
+  },
+  {
+    "id": 8405,
+    "word": "vengeance",
+    "translation": "месть, мщение, отмщение, возмездие"
+  },
+  {
+    "id": 8406,
+    "word": "dialysis",
+    "translation": "диализ"
+  },
+  {
+    "id": 8407,
+    "word": "elicit",
+    "translation": "вызывать, извлекать"
+  },
+  {
+    "id": 8408,
+    "word": "mesh",
+    "translation": "сетка, ячейка, сеть, сетчатый, петля, ячея, меш, зацеплять, зацепление, клетка"
+  },
+  {
+    "id": 8409,
+    "word": "chaotic",
+    "translation": "хаотический, хаотичный, беспорядочный"
+  },
+  {
+    "id": 8410,
+    "word": "covert",
+    "translation": "тайный, скрытый, завуалированный"
+  },
+  {
+    "id": 8411,
+    "word": "inverse",
+    "translation": "обратный, обращение, обратный элемент, обратная величина, обращенный, противоположный, перевернутый; (не reverse, converse)"
+  },
+  {
+    "id": 8412,
+    "word": "kuwait",
+    "translation": "Кувейт; Кувейт"
+  },
+  {
+    "id": 8413,
+    "word": "rampant",
+    "translation": "свирепствующий"
+  },
+  {
+    "id": 8414,
+    "word": "telex",
+    "translation": "телекс"
+  },
+  {
+    "id": 8415,
+    "word": "tentative",
+    "translation": "предварительный, пробный, экспериментальный, временный, опытный, гипотетический"
+  },
+  {
+    "id": 8416,
+    "word": "clubhouse",
+    "translation": "помещение, занимаемое клубом; раздевалка для спортсменов"
+  },
+  {
+    "id": 8417,
+    "word": "mediocre",
+    "translation": "посредственный, заурядный"
+  },
+  {
+    "id": 8418,
+    "word": "indie",
+    "translation": "инди"
+  },
+  {
+    "id": 8419,
+    "word": "paradigm",
+    "translation": "парадигма, образец"
+  },
+  {
+    "id": 8420,
+    "word": "physiology",
+    "translation": "физиология"
+  },
+  {
+    "id": 8421,
+    "word": "relentless",
+    "translation": "неослабевающий"
+  },
+  {
+    "id": 8422,
+    "word": "intern",
+    "translation": "стажер, интерн, интернировать"
+  },
+  {
+    "id": 8423,
+    "word": "pact",
+    "translation": "пакт, договор"
+  },
+  {
+    "id": 8424,
+    "word": "proxy",
+    "translation": "прокси-сервер, доверенность, доверенный, доверенное лицо, полномочие"
+  },
+  {
+    "id": 8425,
+    "word": "triplicate",
+    "translation": "одна из трех копий, три одинаковых предмета; тройной, тройственный, состоящий из трех частей, относящийся к трем частям; в трех экземплярах; утраивать, составлять в трех экземплярах; повторять три раза"
+  },
+  {
+    "id": 8426,
+    "word": "charisma",
+    "translation": "харизма, божий дар"
+  },
+  {
+    "id": 8427,
+    "word": "diocese",
+    "translation": "епархия"
+  },
+  {
+    "id": 8428,
+    "word": "excerpt",
+    "translation": "выдержка, отрывок, выборка"
+  },
+  {
+    "id": 8429,
+    "word": "exposition",
+    "translation": "экспозиция, изложение, выставка, описание, толкование, показ"
+  },
+  {
+    "id": 8430,
+    "word": "groove",
+    "translation": "канавка, паз, желобок, борозда, бороздка, выемка, выточка, штрих, нарез, прорезь"
+  },
+  {
+    "id": 8431,
+    "word": "repertoire",
+    "translation": "репертуар"
+  },
+  {
+    "id": 8432,
+    "word": "souvenir",
+    "translation": "сувенир"
+  },
+  {
+    "id": 8433,
+    "word": "compassionate",
+    "translation": "сострадательный, жалостливый"
+  },
+  {
+    "id": 8434,
+    "word": "pyramid",
+    "translation": "пирамида"
+  },
+  {
+    "id": 8435,
+    "word": "tangible",
+    "translation": "ощутимый, осязаемый"
+  },
+  {
+    "id": 8436,
+    "word": "bliss",
+    "translation": "блаженство"
+  },
+  {
+    "id": 8437,
+    "word": "indifference",
+    "translation": "безразличие, равнодушие, индифферентность"
+  },
+  {
+    "id": 8438,
+    "word": "mimic",
+    "translation": "передразнивать, имитировать, копировать, мнемосхема, имитатор"
+  },
+  {
+    "id": 8439,
+    "word": "precipitate",
+    "translation": "осадок, ускорять, осаждать, осаждаться, низвергать, выпадать, опрометчивый, выделяться, преципитат"
+  },
+  {
+    "id": 8440,
+    "word": "tubular",
+    "translation": "трубчатый, цилиндрический"
+  },
+  {
+    "id": 8441,
+    "word": "vertebrate",
+    "translation": "позвоночное"
+  },
+  {
+    "id": 8442,
+    "word": "paranoia",
+    "translation": "паранойя"
+  },
+  {
+    "id": 8443,
+    "word": "sequel",
+    "translation": "продолжение, последствие"
+  },
+  {
+    "id": 8444,
+    "word": "upbeat",
+    "translation": "неударный звук в такте; анакруса, анакруза; арсис, ударный слог стопы; оптимистическое настроение, приятный случай"
+  },
+  {
+    "id": 8445,
+    "word": "affluent",
+    "translation": "изобильный, обильный, богатый; полноводный; свободно текущий; приток (реки); (собир. употр. с гл. во мн. ч.) богачи, богатеи"
+  },
+  {
+    "id": 8446,
+    "word": "crusade",
+    "translation": "крестовый поход"
+  },
+  {
+    "id": 8447,
+    "word": "dementia",
+    "translation": "слабоумие, помешательство, деменция"
+  },
+  {
+    "id": 8448,
+    "word": "feat",
+    "translation": "подвиг; мастерство, ловкость, искусство"
+  },
+  {
+    "id": 8449,
+    "word": "garland",
+    "translation": "гирлянда, венок"
+  },
+  {
+    "id": 8450,
+    "word": "tertiary",
+    "translation": "третичный"
+  },
+  {
+    "id": 8451,
+    "word": "toxin",
+    "translation": "токсин, яд"
+  },
+  {
+    "id": 8452,
+    "word": "dj",
+    "translation": "ди-джей"
+  },
+  {
+    "id": 8453,
+    "word": "evangelical",
+    "translation": "евангелический"
+  },
+  {
+    "id": 8454,
+    "word": "lobster",
+    "translation": "омар"
+  },
+  {
+    "id": 8455,
+    "word": "plantation",
+    "translation": "плантация, насаждение, посадка"
+  },
+  {
+    "id": 8456,
+    "word": "satire",
+    "translation": "сатира"
+  },
+  {
+    "id": 8457,
+    "word": "tibet",
+    "translation": "Тибет"
+  },
+  {
+    "id": 8458,
+    "word": "bilingual",
+    "translation": "двуязычный"
+  },
+  {
+    "id": 8459,
+    "word": "demise",
+    "translation": "кончина"
+  },
+  {
+    "id": 8460,
+    "word": "eddy",
+    "translation": "водоворот, вихревой, вихрь, завихрение"
+  },
+  {
+    "id": 8461,
+    "word": "lest",
+    "translation": "чтобы не, как бы не; что"
+  },
+  {
+    "id": 8462,
+    "word": "playboy",
+    "translation": "гуляка"
+  },
+  {
+    "id": 8463,
+    "word": "rebound",
+    "translation": "отскакивать, отскок, рикошет, отлетать, отдача"
+  },
+  {
+    "id": 8464,
+    "word": "beck",
+    "translation": "кивок, приветствие рукой, манящий жест; приказ, приказание, распоряжение; манить к себе, кивать, делать знаки рукой, подзывать кивком головы; ручей"
+  },
+  {
+    "id": 8465,
+    "word": "humid",
+    "translation": "влажный"
+  },
+  {
+    "id": 8466,
+    "word": "mundane",
+    "translation": "мирской, светский; земной; обыденный"
+  },
+  {
+    "id": 8467,
+    "word": "promenade",
+    "translation": "прогуливаться"
+  },
+  {
+    "id": 8468,
+    "word": "vulgar",
+    "translation": "вульгарный, пошлый, грубый, простонародный"
+  },
+  {
+    "id": 8469,
+    "word": "whine",
+    "translation": "вой, скулить, ныть, подвывать"
+  },
+  {
+    "id": 8470,
+    "word": "foil",
+    "translation": "фольга, рапира, расстраивать, разрушать"
+  },
+  {
+    "id": 8471,
+    "word": "kernel",
+    "translation": "ядро, зерно, ядерный, сердцевина"
+  },
+  {
+    "id": 8472,
+    "word": "neon",
+    "translation": "неоновый, неон"
+  },
+  {
+    "id": 8473,
+    "word": "prognosis",
+    "translation": "прогноз, предсказание"
+  },
+  {
+    "id": 8474,
+    "word": "radioactive",
+    "translation": "радиоактивный"
+  },
+  {
+    "id": 8475,
+    "word": "smallpox",
+    "translation": "оспа"
+  },
+  {
+    "id": 8476,
+    "word": "encyclopedia",
+    "translation": "энциклопедия"
+  },
+  {
+    "id": 8477,
+    "word": "feminism",
+    "translation": "феминизм"
+  },
+  {
+    "id": 8478,
+    "word": "godfather",
+    "translation": "крестный отец; покровитель, попечитель, вдохновитель; главарь мафии; быть крестным отцом, брать под свою опеку; давать (свое) имя чему-л"
+  },
+  {
+    "id": 8479,
+    "word": "mythology",
+    "translation": "мифология"
+  },
+  {
+    "id": 8480,
+    "word": "needy",
+    "translation": "нуждающийся, бедный"
+  },
+  {
+    "id": 8481,
+    "word": "oatmeal",
+    "translation": "овсянка"
+  },
+  {
+    "id": 8482,
+    "word": "pharmacy",
+    "translation": "аптека"
+  },
+  {
+    "id": 8483,
+    "word": "quaint",
+    "translation": "привлекательно причудливый; привлекательно старомодный; (не strange, queer, odd)"
+  },
+  {
+    "id": 8484,
+    "word": "alkaline",
+    "translation": "щелочной"
+  },
+  {
+    "id": 8485,
+    "word": "memorabilia",
+    "translation": "воспоминания; памятные вещи, реликвии, сувениры"
+  },
+  {
+    "id": 8486,
+    "word": "migrant",
+    "translation": "мигрант, переселенец, мигрирующий"
+  },
+  {
+    "id": 8487,
+    "word": "negligible",
+    "translation": "незначительный, ничтожный, пренебрежимо малый, несущественный"
+  },
+  {
+    "id": 8488,
+    "word": "nostalgic",
+    "translation": "ностальгический"
+  },
+  {
+    "id": 8489,
+    "word": "overthrow",
+    "translation": "свергать, свержение, опрокидывать, ниспровержение, ниспровергать, низвергать"
+  },
+  {
+    "id": 8490,
+    "word": "petroleum",
+    "translation": "нефтепродукт, нефтяной, нефть, керосин"
+  },
+  {
+    "id": 8491,
+    "word": "anonymity",
+    "translation": "анонимность"
+  },
+  {
+    "id": 8492,
+    "word": "caption",
+    "translation": "подпись, титр"
+  },
+  {
+    "id": 8493,
+    "word": "crackdown",
+    "translation": "закручивание гаек"
+  },
+  {
+    "id": 8494,
+    "word": "excursion",
+    "translation": "экскурсия, поездка; отклонение; (не travel, journey, trip, voyage, drive, ride, tour, cruise)"
+  },
+  {
+    "id": 8495,
+    "word": "ouch",
+    "translation": "пряжка, брошка, ожерелье, браслет; оправа драгоценного камня; ай!, ой!"
+  },
+  {
+    "id": 8496,
+    "word": "pore",
+    "translation": "пора, отверстие"
+  },
+  {
+    "id": 8497,
+    "word": "preface",
+    "translation": "предисловие, вступление, введение, вводная часть, предпосылать"
+  },
+  {
+    "id": 8498,
+    "word": "rosa",
+    "translation": "Роза"
+  },
+  {
+    "id": 8499,
+    "word": "superstar",
+    "translation": "звезда первой величины, светило"
+  },
+  {
+    "id": 8500,
+    "word": "valentine",
+    "translation": "валентинка"
+  }
+]

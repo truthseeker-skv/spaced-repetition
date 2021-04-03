@@ -1,0 +1,502 @@
+[
+  {
+    "id": 8801,
+    "word": "venom",
+    "translation": "яд"
+  },
+  {
+    "id": 8802,
+    "word": "aerospace",
+    "translation": "аэрокосмический, авиакосмический"
+  },
+  {
+    "id": 8803,
+    "word": "anatomical",
+    "translation": "анатомический"
+  },
+  {
+    "id": 8804,
+    "word": "anthem",
+    "translation": "гимн"
+  },
+  {
+    "id": 8805,
+    "word": "arcane",
+    "translation": "тайный, скрытый, тёмный, загадочный, потайной, секретный, сокровенный"
+  },
+  {
+    "id": 8806,
+    "word": "asymptomatic",
+    "translation": "бессимптомный"
+  },
+  {
+    "id": 8807,
+    "word": "cinnamon",
+    "translation": "корица"
+  },
+  {
+    "id": 8808,
+    "word": "doctorate",
+    "translation": "докторская степень"
+  },
+  {
+    "id": 8809,
+    "word": "drake",
+    "translation": "селезень"
+  },
+  {
+    "id": 8810,
+    "word": "exodus",
+    "translation": "Исход, массовый отъезд"
+  },
+  {
+    "id": 8811,
+    "word": "horseradish",
+    "translation": "хрен"
+  },
+  {
+    "id": 8812,
+    "word": "inception",
+    "translation": "начало, отправная точка; получение ученой степени"
+  },
+  {
+    "id": 8813,
+    "word": "lofty",
+    "translation": "высокий, возвышенный, благородный, величественный, высокомерный, надменный; (не high, tall)"
+  },
+  {
+    "id": 8814,
+    "word": "pulpit",
+    "translation": "кафедра"
+  },
+  {
+    "id": 8815,
+    "word": "repeal",
+    "translation": "отменять, отмена, аннулировать"
+  },
+  {
+    "id": 8816,
+    "word": "sedan",
+    "translation": "седан, портшез, носилки"
+  },
+  {
+    "id": 8817,
+    "word": "sly",
+    "translation": "хитрый, лукавый"
+  },
+  {
+    "id": 8818,
+    "word": "vantage",
+    "translation": "преимущество; превосходство в соревновании, выгодное положение, выигрышная позиция"
+  },
+  {
+    "id": 8819,
+    "word": "windsurfing",
+    "translation": "виндсерфинг"
+  },
+  {
+    "id": 8820,
+    "word": "adhesive",
+    "translation": "клей, клеящий, липкий, адгезив, клейкий, адгезивный, клейкое вещество"
+  },
+  {
+    "id": 8821,
+    "word": "arcade",
+    "translation": "аркада, пассаж"
+  },
+  {
+    "id": 8822,
+    "word": "avert",
+    "translation": "предотвращать, отводить, отвращать, отвлекать"
+  },
+  {
+    "id": 8823,
+    "word": "bohemian",
+    "translation": "богемский; богемный; богемец; представитель богемы; цыган"
+  },
+  {
+    "id": 8824,
+    "word": "boogie",
+    "translation": "танцевать буги-вуги"
+  },
+  {
+    "id": 8825,
+    "word": "conducive",
+    "translation": "способствующий"
+  },
+  {
+    "id": 8826,
+    "word": "congenital",
+    "translation": "врожденный"
+  },
+  {
+    "id": 8827,
+    "word": "dismay",
+    "translation": "испуг, беспокойство, волнение, смятение; лишать мужества, силы духа, решимости, пугать, ужасать, приводить в смятение"
+  },
+  {
+    "id": 8828,
+    "word": "equitable",
+    "translation": "справедливый, равноправный, беспристрастный"
+  },
+  {
+    "id": 8829,
+    "word": "exhaustion",
+    "translation": "истощение, изнеможение, исчерпание, утомление, изнурение; (не fatigue, tiredness)"
+  },
+  {
+    "id": 8830,
+    "word": "fleece",
+    "translation": "руно"
+  },
+  {
+    "id": 8831,
+    "word": "flurry",
+    "translation": "шквал, налетевший ливень снегопад, сильный порыв ветра; волнение, суета, суматоха, вспышка или волна возбуждения; кратковременный рост акций; волновать, будоражить, вызывать возбуждение, суету и т.п.; (не gust, blow, blast)"
+  },
+  {
+    "id": 8832,
+    "word": "hiatus",
+    "translation": "зияние, щель"
+  },
+  {
+    "id": 8833,
+    "word": "ketchup",
+    "translation": "кетчуп"
+  },
+  {
+    "id": 8834,
+    "word": "mayhem",
+    "translation": "нанесение увечья"
+  },
+  {
+    "id": 8835,
+    "word": "pedigree",
+    "translation": "родословная, племенной, породистый"
+  },
+  {
+    "id": 8836,
+    "word": "puberty",
+    "translation": "половое созревание, период полового созревания, половая зрелость"
+  },
+  {
+    "id": 8837,
+    "word": "sabotage",
+    "translation": "саботаж, диверсия, саботировать, вредительство"
+  },
+  {
+    "id": 8838,
+    "word": "theorem",
+    "translation": "теорема"
+  },
+  {
+    "id": 8839,
+    "word": "vault",
+    "translation": "свод, хранилище, сейф, склеп, подвал, погреб; прыгать, опираясь на что-либо; (не jump, hop, leap, skip, bounce, spring, dive, bound)"
+  },
+  {
+    "id": 8840,
+    "word": "barefoot",
+    "translation": "босиком"
+  },
+  {
+    "id": 8841,
+    "word": "barren",
+    "translation": "бесплодный, бесплодная земля, лишенный, безрудный"
+  },
+  {
+    "id": 8842,
+    "word": "blizzard",
+    "translation": "буран, пурга, снежная буря"
+  },
+  {
+    "id": 8843,
+    "word": "boon",
+    "translation": "благо, благодеяние"
+  },
+  {
+    "id": 8844,
+    "word": "brisk",
+    "translation": "оживленный, проворный, живой"
+  },
+  {
+    "id": 8845,
+    "word": "conceit",
+    "translation": "тщеславие, самомнение, зазнайство"
+  },
+  {
+    "id": 8846,
+    "word": "continuum",
+    "translation": "континуум, сплошная среда"
+  },
+  {
+    "id": 8847,
+    "word": "garrison",
+    "translation": "гарнизон"
+  },
+  {
+    "id": 8848,
+    "word": "intermittent",
+    "translation": "прерывистый, периодический, перемежающийся, неустойчивый, пульсирующий"
+  },
+  {
+    "id": 8849,
+    "word": "ionic",
+    "translation": "ионный"
+  },
+  {
+    "id": 8850,
+    "word": "lieu",
+    "translation": "место"
+  },
+  {
+    "id": 8851,
+    "word": "magnolia",
+    "translation": "магнолия"
+  },
+  {
+    "id": 8852,
+    "word": "mantle",
+    "translation": "мантия, покров, ореол"
+  },
+  {
+    "id": 8853,
+    "word": "ponce",
+    "translation": "сутенер; гомосексуалист; жиголо, мужчина-проститутка для женщин; быть сутенёром, жить на средства проститутки; щеголять, броско одеваться, шиковать"
+  },
+  {
+    "id": 8854,
+    "word": "populace",
+    "translation": "население"
+  },
+  {
+    "id": 8855,
+    "word": "prowess",
+    "translation": "доблесть"
+  },
+  {
+    "id": 8856,
+    "word": "quilt",
+    "translation": "стеганое одеяло, простегивать, стегать"
+  },
+  {
+    "id": 8857,
+    "word": "rainfall",
+    "translation": "ливень, количество осадков"
+  },
+  {
+    "id": 8858,
+    "word": "sclerosis",
+    "translation": "склероз"
+  },
+  {
+    "id": 8859,
+    "word": "snoop",
+    "translation": "тот, кто подглядывает, подсматривает, сует нос в чужие дела; детектив, сыщик; подглядывание, подсматривание, слежка, осмотр; совать повсюду свой нос, подглядывать, подсматривать; шпионить, выслеживать; воровать, незаконно присваивать, прикарманивать"
+  },
+  {
+    "id": 8860,
+    "word": "ascent",
+    "translation": "подъем, восхождение"
+  },
+  {
+    "id": 8861,
+    "word": "belated",
+    "translation": "запоздалый, поздний"
+  },
+  {
+    "id": 8862,
+    "word": "birch",
+    "translation": "береза, березовый, розга"
+  },
+  {
+    "id": 8863,
+    "word": "bourbon",
+    "translation": "бурбон"
+  },
+  {
+    "id": 8864,
+    "word": "canton",
+    "translation": "кантон, округ"
+  },
+  {
+    "id": 8865,
+    "word": "circumference",
+    "translation": "окружность, обхват, периферия"
+  },
+  {
+    "id": 8866,
+    "word": "diminutive",
+    "translation": "миниатюрный, уменьшительный, маленький, крохотный"
+  },
+  {
+    "id": 8867,
+    "word": "fad",
+    "translation": "причуда, прихоть, фантазия"
+  },
+  {
+    "id": 8868,
+    "word": "fiasco",
+    "translation": "фиаско"
+  },
+  {
+    "id": 8869,
+    "word": "humility",
+    "translation": "смирение, скромность, покорность"
+  },
+  {
+    "id": 8870,
+    "word": "intrusion",
+    "translation": "вторжение, проникновение, внедрение, интрузия"
+  },
+  {
+    "id": 8871,
+    "word": "kangaroo",
+    "translation": "кенгуру"
+  },
+  {
+    "id": 8872,
+    "word": "mania",
+    "translation": "мания, помешательство"
+  },
+  {
+    "id": 8873,
+    "word": "marquis",
+    "translation": "маркиз"
+  },
+  {
+    "id": 8874,
+    "word": "mute",
+    "translation": "немой, безмолвный"
+  },
+  {
+    "id": 8875,
+    "word": "opium",
+    "translation": "опиум, опий"
+  },
+  {
+    "id": 8876,
+    "word": "optimum",
+    "translation": "оптимальный, оптимум, наилучший"
+  },
+  {
+    "id": 8877,
+    "word": "orgy",
+    "translation": "оргия"
+  },
+  {
+    "id": 8878,
+    "word": "panorama",
+    "translation": "панорама"
+  },
+  {
+    "id": 8879,
+    "word": "relativity",
+    "translation": "относительность, теория относительности, принцип относительности, релятивизм"
+  },
+  {
+    "id": 8880,
+    "word": "shrewd",
+    "translation": "проницательный"
+  },
+  {
+    "id": 8881,
+    "word": "suffix",
+    "translation": "суффикс, прибавлять"
+  },
+  {
+    "id": 8882,
+    "word": "triumphant",
+    "translation": "торжествующий, триумфальный, победоносный, победный, ликующий"
+  },
+  {
+    "id": 8883,
+    "word": "unilateral",
+    "translation": "односторонний"
+  },
+  {
+    "id": 8884,
+    "word": "zimbabwe",
+    "translation": "Зимбабве"
+  },
+  {
+    "id": 8885,
+    "word": "antagonism",
+    "translation": "антагонизм"
+  },
+  {
+    "id": 8886,
+    "word": "archaic",
+    "translation": "архаический, устаревший"
+  },
+  {
+    "id": 8887,
+    "word": "ark",
+    "translation": "ковчег"
+  },
+  {
+    "id": 8888,
+    "word": "brat",
+    "translation": "надоедливый ребенок, плохо воспитанный ребенок; плащ; лоскут, тряпка; тонкий пласт угля с пиритом"
+  },
+  {
+    "id": 8889,
+    "word": "chlorine",
+    "translation": "хлор"
+  },
+  {
+    "id": 8890,
+    "word": "cohesion",
+    "translation": "сплоченность, единство, связность, сцепление, согласие, сила сцепления"
+  },
+  {
+    "id": 8891,
+    "word": "cubicle",
+    "translation": "кабина, отсек, ячейка"
+  },
+  {
+    "id": 8892,
+    "word": "dusk",
+    "translation": "сумерки, сумрак, сумеречный"
+  },
+  {
+    "id": 8893,
+    "word": "esquire",
+    "translation": "эсквайр"
+  },
+  {
+    "id": 8894,
+    "word": "foe",
+    "translation": "враг, недруг"
+  },
+  {
+    "id": 8895,
+    "word": "freelance",
+    "translation": "внештатный"
+  },
+  {
+    "id": 8896,
+    "word": "fugitive",
+    "translation": "беглец, беглый, дезертир, летучий"
+  },
+  {
+    "id": 8897,
+    "word": "havoc",
+    "translation": "разрушение"
+  },
+  {
+    "id": 8898,
+    "word": "incomprehensible",
+    "translation": "непонятный, непостижимый"
+  },
+  {
+    "id": 8899,
+    "word": "intellect",
+    "translation": "интеллект, ум, разум, рассудок, умственные способности"
+  },
+  {
+    "id": 8900,
+    "word": "miraculous",
+    "translation": "удивительный, чудодейственный"
+  }
+]

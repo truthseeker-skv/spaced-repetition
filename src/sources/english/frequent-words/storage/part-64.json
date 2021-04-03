@@ -1,0 +1,502 @@
+[
+  {
+    "id": 6301,
+    "word": "donate",
+    "translation": "жертвовать"
+  },
+  {
+    "id": 6302,
+    "word": "co-operative",
+    "translation": "совместный, объединенный, кооперативный"
+  },
+  {
+    "id": 6303,
+    "word": "sarcastic",
+    "translation": "саркастический, язвительный"
+  },
+  {
+    "id": 6304,
+    "word": "nicely",
+    "translation": "приятно, красиво, любезно, деликатно"
+  },
+  {
+    "id": 6305,
+    "word": "innocence",
+    "translation": "невинность, невиновность, наивность, чистота, простодушие, целомудрие, девственность, безвредность"
+  },
+  {
+    "id": 6306,
+    "word": "shampoo",
+    "translation": "шампунь"
+  },
+  {
+    "id": 6307,
+    "word": "housewife",
+    "translation": "домохозяйка, домашняя хозяйка; (не director, manager, main, chief, principle, major, landlord, landlady, host, hostess, master, mistress, owner, employer, boss, head, supervisor, principal)"
+  },
+  {
+    "id": 6308,
+    "word": "disguise",
+    "translation": "скрывать, переодевать, маскировка, маскировать, переодевание"
+  },
+  {
+    "id": 6309,
+    "word": "sponge",
+    "translation": "губка, губчатый"
+  },
+  {
+    "id": 6310,
+    "word": "demolish",
+    "translation": "разрушать, сносить, разбирать, разбивать, разваливать"
+  },
+  {
+    "id": 6311,
+    "word": "counsel",
+    "translation": "адвокат, совет, советовать, рекомендация, совещание"
+  },
+  {
+    "id": 6312,
+    "word": "cord",
+    "translation": "шнур, веревка, корд, корда, спинной мозг, связка, шпагат, хорда"
+  },
+  {
+    "id": 6313,
+    "word": "vent",
+    "translation": "вентиляционный, отверстие, выход, клапан, вентиляционное отверстие, выпускать, отдушина, газоотвод, проход, разрез"
+  },
+  {
+    "id": 6314,
+    "word": "semi-final",
+    "translation": "полуфинал"
+  },
+  {
+    "id": 6315,
+    "word": "reasoning",
+    "translation": "рассуждение, обоснование, аргументация, мышление, умозаключение, доказательство, продуманность"
+  },
+  {
+    "id": 6316,
+    "word": "litre",
+    "translation": "литр"
+  },
+  {
+    "id": 6317,
+    "word": "inclined",
+    "translation": "склоненный, склонный, наклоненный, наклонный, расположенный, предрасположенный"
+  },
+  {
+    "id": 6318,
+    "word": "thirsty",
+    "translation": "жаждущий"
+  },
+  {
+    "id": 6319,
+    "word": "evoke",
+    "translation": "вызывать"
+  },
+  {
+    "id": 6320,
+    "word": "courtyard",
+    "translation": "двор, внутренний двор"
+  },
+  {
+    "id": 6321,
+    "word": "claw",
+    "translation": "коготь, клешня, лапа, скрести, ноготок, клещи, захват, зуб"
+  },
+  {
+    "id": 6322,
+    "word": "arena",
+    "translation": "арена, сцена"
+  },
+  {
+    "id": 6323,
+    "word": "compost",
+    "translation": "компост"
+  },
+  {
+    "id": 6324,
+    "word": "simplicity",
+    "translation": "простота, несложность"
+  },
+  {
+    "id": 6325,
+    "word": "inhibition",
+    "translation": "торможение, запрет, подавление, ингибирование, сдерживание, задержка, запрещение"
+  },
+  {
+    "id": 6326,
+    "word": "crank",
+    "translation": "рукоятка, кулисный, кривошип, заводная ручка"
+  },
+  {
+    "id": 6327,
+    "word": "frozen",
+    "translation": "застывший, замороженный, замерзший, мерзлый"
+  },
+  {
+    "id": 6328,
+    "word": "vacuum",
+    "translation": "вакуум, вакуумный, пустота, разрежение, безвоздушный, безвоздушное пространство, чистить пылесосом; (не hoover)"
+  },
+  {
+    "id": 6329,
+    "word": "fiesta",
+    "translation": "фиеста"
+  },
+  {
+    "id": 6330,
+    "word": "immigrant",
+    "translation": "иммигрант, мигрант, иммигрантский, переселенец, переселяющийся"
+  },
+  {
+    "id": 6331,
+    "word": "revenge",
+    "translation": "месть, реванш, мщение, отмщение"
+  },
+  {
+    "id": 6332,
+    "word": "flop",
+    "translation": "плюхаться, провал"
+  },
+  {
+    "id": 6333,
+    "word": "helmet",
+    "translation": "шлем, каска"
+  },
+  {
+    "id": 6334,
+    "word": "unclear",
+    "translation": "неясный, сомневающийся; (не uncertain, unsure)"
+  },
+  {
+    "id": 6335,
+    "word": "jerk",
+    "translation": "рывок, дергать, толчок, резкое движение, подергивание, двигаться рывками, рефлекс"
+  },
+  {
+    "id": 6336,
+    "word": "intercept",
+    "translation": "перехватывать, перехват, пересечение, отрезок, пересекать; (не obstacle, obstruction, impediment, barrier, hindrance, disorder, disability, disturbance, interference, hurdle, interrupt, retardation)"
+  },
+  {
+    "id": 6337,
+    "word": "disruption",
+    "translation": "нарушение, срыв, разрушение, разрыв, подрыв, крушение, распад"
+  },
+  {
+    "id": 6338,
+    "word": "outgoing",
+    "translation": "исходящий, уходящий, выходящий, отходящий, отбывающий, издержки"
+  },
+  {
+    "id": 6339,
+    "word": "attainment",
+    "translation": "достижение, приобретение; навыки, знания; квалификация; (не achievement, accomplishment)"
+  },
+  {
+    "id": 6340,
+    "word": "sip",
+    "translation": "глоток, потягивать, прихлебывать"
+  },
+  {
+    "id": 6341,
+    "word": "thirst",
+    "translation": "жажда, жаждать"
+  },
+  {
+    "id": 6342,
+    "word": "lunchtime",
+    "translation": "обеденный перерыв"
+  },
+  {
+    "id": 6343,
+    "word": "cult",
+    "translation": "культ"
+  },
+  {
+    "id": 6344,
+    "word": "congestion",
+    "translation": "застой, скопление, перегруженность, затор"
+  },
+  {
+    "id": 6345,
+    "word": "supposedly",
+    "translation": "предположительно; (не clearly, obviously, evidently, reportedly, seemingly, apparently)"
+  },
+  {
+    "id": 6346,
+    "word": "vocation",
+    "translation": "призвание, профессия"
+  },
+  {
+    "id": 6347,
+    "word": "offering",
+    "translation": "жертва, жертвоприношение, пожертвование, подношение; (не sacrifice, casualty, victim)"
+  },
+  {
+    "id": 6348,
+    "word": "secular",
+    "translation": "светский, мирской, вековой, секулярный"
+  },
+  {
+    "id": 6349,
+    "word": "overwhelm",
+    "translation": "подавлять"
+  },
+  {
+    "id": 6350,
+    "word": "intolerance",
+    "translation": "нетерпимость, непереносимость"
+  },
+  {
+    "id": 6351,
+    "word": "momentum",
+    "translation": "импульс, количество движения, движущая сила, толчок, кинетическая энергия, импульс силы"
+  },
+  {
+    "id": 6352,
+    "word": "infinite",
+    "translation": "бесконечный, бесконечность, безграничный, неограниченный, беспредельный, бесконечное пространство, бесконечно большой, безграничность"
+  },
+  {
+    "id": 6353,
+    "word": "floppy",
+    "translation": "болтающийся"
+  },
+  {
+    "id": 6354,
+    "word": "manipulation",
+    "translation": "манипуляция, манипулирование, обращение"
+  },
+  {
+    "id": 6355,
+    "word": "inquest",
+    "translation": "дознание, следствие, расследование"
+  },
+  {
+    "id": 6356,
+    "word": "cellar",
+    "translation": "подвал, погреб, винный погреб"
+  },
+  {
+    "id": 6357,
+    "word": "goo",
+    "translation": "(разг.) что-л. клейкое, липкое; (разг.) сентиментальность; (не tacky)"
+  },
+  {
+    "id": 6358,
+    "word": "counsellor",
+    "translation": "советник; (не lawyer, attorney, barrister, solicitor, advocate, proponent)"
+  },
+  {
+    "id": 6359,
+    "word": "hoop",
+    "translation": "обруч, кольцо, обод"
+  },
+  {
+    "id": 6360,
+    "word": "avenue",
+    "translation": "проспект, аллея; (не path, way, route, road, track)"
+  },
+  {
+    "id": 6361,
+    "word": "rubber",
+    "translation": "резиновый, резина, резинка, каучук, роббер, каучуковый"
+  },
+  {
+    "id": 6362,
+    "word": "labourer",
+    "translation": "рабочий, неквалифицированный рабочий"
+  },
+  {
+    "id": 6363,
+    "word": "papa",
+    "translation": "папа; (не daddy, dad, guv)"
+  },
+  {
+    "id": 6364,
+    "word": "lab",
+    "translation": "лаборатория"
+  },
+  {
+    "id": 6365,
+    "word": "discreet",
+    "translation": "сдержанный"
+  },
+  {
+    "id": 6366,
+    "word": "damn",
+    "translation": "проклинать"
+  },
+  {
+    "id": 6367,
+    "word": "comfortably",
+    "translation": "уютно"
+  },
+  {
+    "id": 6368,
+    "word": "slant",
+    "translation": "косой, наклонный, скос"
+  },
+  {
+    "id": 6369,
+    "word": "tense",
+    "translation": "напряженный, напрягать, натянутый, тугой"
+  },
+  {
+    "id": 6370,
+    "word": "socket",
+    "translation": "разъем, гнездо, розетка, впадина, патрон, углубление, штепсельная розетка, патрубок, раструб, муфта"
+  },
+  {
+    "id": 6371,
+    "word": "subconscious",
+    "translation": "подсознательный"
+  },
+  {
+    "id": 6372,
+    "word": "par",
+    "translation": "нормальное состояние, номинальная стоимость"
+  },
+  {
+    "id": 6373,
+    "word": "scenario",
+    "translation": "сценарий"
+  },
+  {
+    "id": 6374,
+    "word": "banquet",
+    "translation": "банкет, пиршество, пировать"
+  },
+  {
+    "id": 6375,
+    "word": "frankly",
+    "translation": "откровенно, прямо, открыто"
+  },
+  {
+    "id": 6376,
+    "word": "slap",
+    "translation": "хлопать, шлепать, шлепок, хлопок; (не hit, beat, pound, strike, knock)"
+  },
+  {
+    "id": 6377,
+    "word": "recreation",
+    "translation": "отдых, развлечение, рекреация, воссоздание, восстановление сил"
+  },
+  {
+    "id": 6378,
+    "word": "digit",
+    "translation": "цифра, разряд, знак, символ"
+  },
+  {
+    "id": 6379,
+    "word": "spy",
+    "translation": "шпион, шпионить, следить"
+  },
+  {
+    "id": 6380,
+    "word": "clearance",
+    "translation": "зазор, разрешение, очистка, просвет, клиренс, выведение, распродажа, сброс, люфт, габарит"
+  },
+  {
+    "id": 6381,
+    "word": "graveyard",
+    "translation": "кладбище; место захоронения (опасных отходов); (амер. полит. разг.) тайна, большой секрет; потолок (в продвижении по службе); (не cemetery)"
+  },
+  {
+    "id": 6382,
+    "word": "blessing",
+    "translation": "благословение, благо"
+  },
+  {
+    "id": 6383,
+    "word": "embryo",
+    "translation": "эмбрион, зародыш"
+  },
+  {
+    "id": 6384,
+    "word": "lyric",
+    "translation": "лирический"
+  },
+  {
+    "id": 6385,
+    "word": "varied",
+    "translation": "разнообразный, различный"
+  },
+  {
+    "id": 6386,
+    "word": "pastry",
+    "translation": "тесто, выпечка"
+  },
+  {
+    "id": 6387,
+    "word": "predictable",
+    "translation": "предсказуемый, прогнозируемый"
+  },
+  {
+    "id": 6388,
+    "word": "mutation",
+    "translation": "мутация, мутирование"
+  },
+  {
+    "id": 6389,
+    "word": "retrieve",
+    "translation": "извлекать, восстанавливать, отыскать, отыскивать, реабилитировать"
+  },
+  {
+    "id": 6390,
+    "word": "elder",
+    "translation": "старший, старец, старейшина, бузина"
+  },
+  {
+    "id": 6391,
+    "word": "rehearsal",
+    "translation": "репетиция, повторение"
+  },
+  {
+    "id": 6392,
+    "word": "cabbage",
+    "translation": "капуста"
+  },
+  {
+    "id": 6393,
+    "word": "optical",
+    "translation": "оптический, видимый, зрительный"
+  },
+  {
+    "id": 6394,
+    "word": "combat",
+    "translation": "борьба, боевой, бой, бороться, сражаться"
+  },
+  {
+    "id": 6395,
+    "word": "loom",
+    "translation": "маячить, ткацкий станок"
+  },
+  {
+    "id": 6396,
+    "word": "absorption",
+    "translation": "поглощение, абсорбция, всасывание"
+  },
+  {
+    "id": 6397,
+    "word": "override",
+    "translation": "перекрывать, действовать вопреки"
+  },
+  {
+    "id": 6398,
+    "word": "ion",
+    "translation": "ион, ионный"
+  },
+  {
+    "id": 6399,
+    "word": "heroin",
+    "translation": "героин"
+  },
+  {
+    "id": 6400,
+    "word": "bake",
+    "translation": "печь, печься, запекаться, выпекать, обжигать"
+  }
+]

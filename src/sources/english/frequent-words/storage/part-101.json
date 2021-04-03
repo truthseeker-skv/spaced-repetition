@@ -1,0 +1,502 @@
+[
+  {
+    "id": 10001,
+    "word": "aggrieved",
+    "translation": "огорченный, пострадавший, оскорбленный"
+  },
+  {
+    "id": 10002,
+    "word": "allegory",
+    "translation": "аллегория"
+  },
+  {
+    "id": 10003,
+    "word": "atrocity",
+    "translation": "зверство, жестокость, злодеяние"
+  },
+  {
+    "id": 10004,
+    "word": "babble",
+    "translation": "болтать, лепет, лепетать, журчать, журчание; (не prattle, chatter)"
+  },
+  {
+    "id": 10005,
+    "word": "bimbo",
+    "translation": "баба, девка"
+  },
+  {
+    "id": 10006,
+    "word": "braid",
+    "translation": "коса, сплетать, оплетка, тесьма, галун, заплетать, жгут, плести, оплетать"
+  },
+  {
+    "id": 10007,
+    "word": "cactus",
+    "translation": "кактус"
+  },
+  {
+    "id": 10008,
+    "word": "canny",
+    "translation": "хитрый, осторожный, себе на уме, умный, проницательный, практичный; спокойный, неторопливый, сдерживаемый; уютный"
+  },
+  {
+    "id": 10009,
+    "word": "chute",
+    "translation": "желоб, лоток, стремнина, горка"
+  },
+  {
+    "id": 10010,
+    "word": "cobra",
+    "translation": "кобра"
+  },
+  {
+    "id": 10011,
+    "word": "drone",
+    "translation": "гудеть, жужжать, гудение, трутень, жужжание, беспилотный самолет; (не whir, buzz, hum, noise)"
+  },
+  {
+    "id": 10012,
+    "word": "emphatic",
+    "translation": "подчеркнутый"
+  },
+  {
+    "id": 10013,
+    "word": "forlorn",
+    "translation": "покинутый"
+  },
+  {
+    "id": 10014,
+    "word": "formative",
+    "translation": "образующий, формирующий"
+  },
+  {
+    "id": 10015,
+    "word": "hue",
+    "translation": "оттенок, цвет, тон, цветовой тон"
+  },
+  {
+    "id": 10016,
+    "word": "hypothermia",
+    "translation": "гипотермия"
+  },
+  {
+    "id": 10017,
+    "word": "intersect",
+    "translation": "пересекать, пересекаться, перекрещиваться, скрещиваться, перерезать"
+  },
+  {
+    "id": 10018,
+    "word": "irate",
+    "translation": "гневный"
+  },
+  {
+    "id": 10019,
+    "word": "lan",
+    "translation": "локальная сеть"
+  },
+  {
+    "id": 10020,
+    "word": "lollipop",
+    "translation": "леденец на палочке, сласти; любовница; приторное литературное произведение"
+  },
+  {
+    "id": 10021,
+    "word": "mascot",
+    "translation": "талисман"
+  },
+  {
+    "id": 10022,
+    "word": "microchip",
+    "translation": "чип, кристаллик с интегральной (микро)схемой"
+  },
+  {
+    "id": 10023,
+    "word": "newsprint",
+    "translation": "газетная бумага"
+  },
+  {
+    "id": 10024,
+    "word": "orchard",
+    "translation": "фруктовый сад"
+  },
+  {
+    "id": 10025,
+    "word": "ovation",
+    "translation": "овация"
+  },
+  {
+    "id": 10026,
+    "word": "peeve",
+    "translation": "раздражение, раздраженное состояние; жалоба; докучать, надоедать, раздражать"
+  },
+  {
+    "id": 10027,
+    "word": "placate",
+    "translation": "умиротворять, унимать, успокаивать"
+  },
+  {
+    "id": 10028,
+    "word": "provost",
+    "translation": "провост"
+  },
+  {
+    "id": 10029,
+    "word": "regent",
+    "translation": "регент, правитель"
+  },
+  {
+    "id": 10030,
+    "word": "relapse",
+    "translation": "рецидив, возврат болезни"
+  },
+  {
+    "id": 10031,
+    "word": "reticence",
+    "translation": "сдержанность, скрытность, умолчание, замкнутость"
+  },
+  {
+    "id": 10032,
+    "word": "rut",
+    "translation": "колея, рытвина, гон, след, борозда, выбоина на дороге"
+  },
+  {
+    "id": 10033,
+    "word": "sine",
+    "translation": "синус, синусоидальный, синусный"
+  },
+  {
+    "id": 10034,
+    "word": "spaceship",
+    "translation": "космический корабль"
+  },
+  {
+    "id": 10035,
+    "word": "splinter",
+    "translation": "щепка, осколок, заноза, расщеплять, раскалывать, лучина"
+  },
+  {
+    "id": 10036,
+    "word": "supplant",
+    "translation": "вытеснять"
+  },
+  {
+    "id": 10037,
+    "word": "swipe",
+    "translation": "сильный удар; тот, кто наносит сильный удар; ворот, коромысло; конюх, грум; пенис; мерзкий человек, мразь, подонки; быстро и много пить, выпивать одним глотком; ударять с силой; красть"
+  },
+  {
+    "id": 10038,
+    "word": "tango",
+    "translation": "танго"
+  },
+  {
+    "id": 10039,
+    "word": "transatlantic",
+    "translation": "трансатлантический, заокеанский"
+  },
+  {
+    "id": 10040,
+    "word": "typhoon",
+    "translation": "тайфун"
+  },
+  {
+    "id": 10041,
+    "word": "valiant",
+    "translation": "доблестный, храбрый, отважный"
+  },
+  {
+    "id": 10042,
+    "word": "veneer",
+    "translation": "шпон, фанера, фанерный, фанеровать"
+  },
+  {
+    "id": 10043,
+    "word": "adrift",
+    "translation": "по течению, по воле волн"
+  },
+  {
+    "id": 10044,
+    "word": "appraise",
+    "translation": "оценивать; (не judge, evaluate, assess, appreciate, estimate, value)"
+  },
+  {
+    "id": 10045,
+    "word": "archetype",
+    "translation": "архетип, образец"
+  },
+  {
+    "id": 10046,
+    "word": "beau",
+    "translation": "денди, франт, щеголь; кавалер, бойфренд"
+  },
+  {
+    "id": 10047,
+    "word": "boisterous",
+    "translation": "шумный, бурный"
+  },
+  {
+    "id": 10048,
+    "word": "bulgaria",
+    "translation": "Болгария"
+  },
+  {
+    "id": 10049,
+    "word": "bystander",
+    "translation": "свидетель, зритель, наблюдатель; (не eyewitness, witness, attestor)"
+  },
+  {
+    "id": 10050,
+    "word": "cameraman",
+    "translation": "кинооператор, телеоператор"
+  },
+  {
+    "id": 10051,
+    "word": "chariot",
+    "translation": "колесница"
+  },
+  {
+    "id": 10052,
+    "word": "cholera",
+    "translation": "холера"
+  },
+  {
+    "id": 10053,
+    "word": "decadence",
+    "translation": "упадок, декаданс, декадентство"
+  },
+  {
+    "id": 10054,
+    "word": "deplete",
+    "translation": "обеднять, истощать"
+  },
+  {
+    "id": 10055,
+    "word": "deplore",
+    "translation": "сожалеть, оплакивать"
+  },
+  {
+    "id": 10056,
+    "word": "dredge",
+    "translation": "драга, драгировать, землечерпалка"
+  },
+  {
+    "id": 10057,
+    "word": "electrode",
+    "translation": "электрод, электродный"
+  },
+  {
+    "id": 10058,
+    "word": "equivocal",
+    "translation": "двусмысленный, сомнительный"
+  },
+  {
+    "id": 10059,
+    "word": "gloat",
+    "translation": "тайно злорадствовать, торжествовать; пожирать глазами; злорадство; взгляд полный злорадства"
+  },
+  {
+    "id": 10060,
+    "word": "grimace",
+    "translation": "гримаса, гримасничать, ужимка"
+  },
+  {
+    "id": 10061,
+    "word": "hamstring",
+    "translation": "подколенное сухожилие"
+  },
+  {
+    "id": 10062,
+    "word": "hinterland",
+    "translation": "районы, расположенные вглубь от прибрежной полосы;границы; пригород, удаленный от города район; район, удаленный от промышленных и культурных центров; глубокий тыл"
+  },
+  {
+    "id": 10063,
+    "word": "hubbub",
+    "translation": "шум, гам"
+  },
+  {
+    "id": 10064,
+    "word": "masonry",
+    "translation": "кладка, масонство, каменная кладка"
+  },
+  {
+    "id": 10065,
+    "word": "medley",
+    "translation": "мешанина"
+  },
+  {
+    "id": 10066,
+    "word": "meridian",
+    "translation": "меридиан, меридиональный, меридианный"
+  },
+  {
+    "id": 10067,
+    "word": "nightingale",
+    "translation": "соловей"
+  },
+  {
+    "id": 10068,
+    "word": "olympia",
+    "translation": "Олимпия; Олимпия; Олимпия"
+  },
+  {
+    "id": 10069,
+    "word": "pander",
+    "translation": "потворствовать, сводник, сводничать"
+  },
+  {
+    "id": 10070,
+    "word": "pivot",
+    "translation": "поворачиваться, опорная точка, точка опоры, цапфа, стержень, ведущий элемент, шкворень, шарнирный, точка вращения, шарнир"
+  },
+  {
+    "id": 10071,
+    "word": "pout",
+    "translation": "надутые губы, недовольная гримаса; выпячивание; надуть губы; говорить что-л. с недовольной гримасой; высовывать(ся), выдаваться, торчать"
+  },
+  {
+    "id": 10072,
+    "word": "quotient",
+    "translation": "частное, отношение, коэффициент, дробь, доля"
+  },
+  {
+    "id": 10073,
+    "word": "resuscitate",
+    "translation": "воскрешать, оживлять, реанимировать, воскресать"
+  },
+  {
+    "id": 10074,
+    "word": "ruff",
+    "translation": "ерш"
+  },
+  {
+    "id": 10075,
+    "word": "screwdriver",
+    "translation": "отвертка"
+  },
+  {
+    "id": 10076,
+    "word": "shrapnel",
+    "translation": "шрапнель"
+  },
+  {
+    "id": 10077,
+    "word": "silo",
+    "translation": "бункер, силосная башня, силосохранилище"
+  },
+  {
+    "id": 10078,
+    "word": "speck",
+    "translation": "пятнышко, точка, пятно, крупинка, крапинка"
+  },
+  {
+    "id": 10079,
+    "word": "stash",
+    "translation": "утаивать, припрятывать, копить; прекращать, завязывать, покидать; запас, скрытые запасы; запасы, тайник наркотиков; убежище, укрытие, тайник, малина. притон"
+  },
+  {
+    "id": 10080,
+    "word": "stench",
+    "translation": "вонь, зловоние, смрад"
+  },
+  {
+    "id": 10081,
+    "word": "stoop",
+    "translation": "наклонять, наклоняться, нагибаться, опускаться, сутулиться, унижаться, горбиться"
+  },
+  {
+    "id": 10082,
+    "word": "sizeable",
+    "translation": "значительный, немалый; (не important, big, massive, weighty, large, great)"
+  },
+  {
+    "id": 10083,
+    "word": "snub",
+    "translation": "притормаживание"
+  },
+  {
+    "id": 10084,
+    "word": "steadfast",
+    "translation": "твердый, стойкий, пристальный, устойчивый, непреклонный"
+  },
+  {
+    "id": 10085,
+    "word": "toil",
+    "translation": "трудиться, тяжелый труд"
+  },
+  {
+    "id": 10086,
+    "word": "tortuous",
+    "translation": "извилистый"
+  },
+  {
+    "id": 10087,
+    "word": "totem",
+    "translation": "тотем"
+  },
+  {
+    "id": 10088,
+    "word": "utopia",
+    "translation": "утопия"
+  },
+  {
+    "id": 10089,
+    "word": "weir",
+    "translation": "запруда, плотина"
+  },
+  {
+    "id": 10090,
+    "word": "actuary",
+    "translation": "актуарий"
+  },
+  {
+    "id": 10091,
+    "word": "afield",
+    "translation": "в поле, на поле; вдали от дома, за границей; в стороне от пути"
+  },
+  {
+    "id": 10092,
+    "word": "anagram",
+    "translation": "анаграмма"
+  },
+  {
+    "id": 10093,
+    "word": "angular",
+    "translation": "угловой, угловатый"
+  },
+  {
+    "id": 10094,
+    "word": "ascribe",
+    "translation": "приписывать"
+  },
+  {
+    "id": 10095,
+    "word": "astray",
+    "translation": "заблудившись, сбившись с пути"
+  },
+  {
+    "id": 10096,
+    "word": "batty",
+    "translation": "сумасшедший, тронутый"
+  },
+  {
+    "id": 10097,
+    "word": "bicarbonate",
+    "translation": "двууглекислый, бикарбонат"
+  },
+  {
+    "id": 10098,
+    "word": "covet",
+    "translation": "домогаться"
+  },
+  {
+    "id": 10099,
+    "word": "cranberry",
+    "translation": "клюква"
+  },
+  {
+    "id": 10100,
+    "word": "delinquent",
+    "translation": "преступник, правонарушитель"
+  }
+]

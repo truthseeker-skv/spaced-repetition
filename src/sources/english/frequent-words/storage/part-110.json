@@ -1,0 +1,502 @@
+[
+  {
+    "id": 10901,
+    "word": "gruff",
+    "translation": "резкий, грубоватый, грубый, хриплый; (не rude, rough, coarse, prickly, scaly, crude, flagrant, gross, rugged)"
+  },
+  {
+    "id": 10902,
+    "word": "gusto",
+    "translation": "смак"
+  },
+  {
+    "id": 10903,
+    "word": "harmonic",
+    "translation": "гармонический, гармоника, гармоническая функция, гармоничный, синусоидальный, обертон"
+  },
+  {
+    "id": 10904,
+    "word": "humbug",
+    "translation": "обманщик, мошенник, плут, притворщик; обман, жульничество, уловка, подлог; чушь, вздор, ерунда, нелепица; мятная конфета; обманывать, надувать, вводить в заблуждение, дезориентировать; заниматься мошенничеством, быть жуликом, плутом"
+  },
+  {
+    "id": 10905,
+    "word": "hutch",
+    "translation": "клетка для кроликов и т. п.; сундук; комод; буфет; закром; (разг.) хижина, хибарка; (тех.) бункер"
+  },
+  {
+    "id": 10906,
+    "word": "jacuzzi",
+    "translation": "джакуззи"
+  },
+  {
+    "id": 10907,
+    "word": "lather",
+    "translation": "пена, мыло, мыльная пена"
+  },
+  {
+    "id": 10908,
+    "word": "laud",
+    "translation": "хвала"
+  },
+  {
+    "id": 10909,
+    "word": "lilac",
+    "translation": "сирень, сиреневый"
+  },
+  {
+    "id": 10910,
+    "word": "mane",
+    "translation": "грива"
+  },
+  {
+    "id": 10911,
+    "word": "meteorite",
+    "translation": "метеорит, метеоритный"
+  },
+  {
+    "id": 10912,
+    "word": "mousse",
+    "translation": "мусс"
+  },
+  {
+    "id": 10913,
+    "word": "mumble",
+    "translation": "бормотать, бормотание, бурчать"
+  },
+  {
+    "id": 10914,
+    "word": "mush",
+    "translation": "густая каша из кукурузной муки, маисовая каша; кашеобразная масса; абсурд, вздор, чепуха; слащавость, сентиментальность; рот, лицо; пена; шумы, радиопомехи; погрузиться в густую массу; путешествие на собаках по снегу; путешествовать по снегу с помощью соб"
+  },
+  {
+    "id": 10915,
+    "word": "nutmeg",
+    "translation": "мускатный орех, мускат"
+  },
+  {
+    "id": 10916,
+    "word": "outflow",
+    "translation": "отток, истечение, вытекание, выход, сток, вытекать, выпуск"
+  },
+  {
+    "id": 10917,
+    "word": "peacemaker",
+    "translation": "миротворец, примиритель"
+  },
+  {
+    "id": 10918,
+    "word": "peppermint",
+    "translation": "перечная мята; мятное масло; мятная лепешка"
+  },
+  {
+    "id": 10919,
+    "word": "perm",
+    "translation": "перманент"
+  },
+  {
+    "id": 10920,
+    "word": "polity",
+    "translation": "общественный строй, государственный строй, государство; церковная иерархия"
+  },
+  {
+    "id": 10921,
+    "word": "probate",
+    "translation": "утверждение завещания"
+  },
+  {
+    "id": 10922,
+    "word": "prodigal",
+    "translation": "мот, расточительный, транжира"
+  },
+  {
+    "id": 10923,
+    "word": "psychosis",
+    "translation": "психоз"
+  },
+  {
+    "id": 10924,
+    "word": "quiver",
+    "translation": "дрожать, колчан, трепетать, дрожь, подрагивать, трепет; (не shiver, tremble, shudder, tremor, shake, quake)"
+  },
+  {
+    "id": 10925,
+    "word": "rascal",
+    "translation": "шельмец"
+  },
+  {
+    "id": 10926,
+    "word": "rectory",
+    "translation": "доход приходского священника, пастора; дом приходского священника, пастора"
+  },
+  {
+    "id": 10927,
+    "word": "relent",
+    "translation": "смягчаться"
+  },
+  {
+    "id": 10928,
+    "word": "renegotiate",
+    "translation": "проводить повторные переговоры, пересматривать, перезаключать"
+  },
+  {
+    "id": 10929,
+    "word": "reversion",
+    "translation": "обращение, возвращение, возврат, реверсия, реверс"
+  },
+  {
+    "id": 10930,
+    "word": "romanticism",
+    "translation": "романтизм"
+  },
+  {
+    "id": 10931,
+    "word": "rosette",
+    "translation": "розетка"
+  },
+  {
+    "id": 10932,
+    "word": "rump",
+    "translation": "зад, огузок"
+  },
+  {
+    "id": 10933,
+    "word": "scour",
+    "translation": "рыскать, чистка"
+  },
+  {
+    "id": 10934,
+    "word": "scowl",
+    "translation": "хмурый вид, сердитый взгляд; хмуриться, хмурить брови; смотреть сердито, бросать сердитый взгляд"
+  },
+  {
+    "id": 10935,
+    "word": "scrawny",
+    "translation": "костлявый, сухопарый"
+  },
+  {
+    "id": 10936,
+    "word": "sheepish",
+    "translation": "застенчивый, робкий, скромный; глуповатый"
+  },
+  {
+    "id": 10937,
+    "word": "snare",
+    "translation": "ловушка, силок, западня, петля"
+  },
+  {
+    "id": 10938,
+    "word": "squelch",
+    "translation": "хлюпать, хлюпанье"
+  },
+  {
+    "id": 10939,
+    "word": "surety",
+    "translation": "поручительство, поручитель, порука, гарантия, ручательство, обеспечение, гарант"
+  },
+  {
+    "id": 10940,
+    "word": "talkative",
+    "translation": "разговорчивый, болтливый, словоохотливый"
+  },
+  {
+    "id": 10941,
+    "word": "tunisia",
+    "translation": "Тунис"
+  },
+  {
+    "id": 10942,
+    "word": "turntable",
+    "translation": "проигрыватель, диск, поворотный круг, вертушка"
+  },
+  {
+    "id": 10943,
+    "word": "understate",
+    "translation": "занижать, недооценивать, преуменьшать"
+  },
+  {
+    "id": 10944,
+    "word": "workaholic",
+    "translation": "трудоголик"
+  },
+  {
+    "id": 10945,
+    "word": "yardstick",
+    "translation": "критерий, мерка, мерило"
+  },
+  {
+    "id": 10946,
+    "word": "agrarian",
+    "translation": "аграрный, аграрий"
+  },
+  {
+    "id": 10947,
+    "word": "aground",
+    "translation": "на мели"
+  },
+  {
+    "id": 10948,
+    "word": "antiquarian",
+    "translation": "антикварный"
+  },
+  {
+    "id": 10949,
+    "word": "auspicious",
+    "translation": "благоприятный"
+  },
+  {
+    "id": 10950,
+    "word": "bedlam",
+    "translation": "Бедлам"
+  },
+  {
+    "id": 10951,
+    "word": "bloodshot",
+    "translation": "налитый кровью"
+  },
+  {
+    "id": 10952,
+    "word": "brooch",
+    "translation": "брошь"
+  },
+  {
+    "id": 10953,
+    "word": "cagey",
+    "translation": "уклончивый в ответах, скрытный"
+  },
+  {
+    "id": 10954,
+    "word": "chalet",
+    "translation": "шале"
+  },
+  {
+    "id": 10955,
+    "word": "chandelier",
+    "translation": "люстра"
+  },
+  {
+    "id": 10956,
+    "word": "clergyman",
+    "translation": "священник, духовное лицо"
+  },
+  {
+    "id": 10957,
+    "word": "colic",
+    "translation": "колика, колики, резь"
+  },
+  {
+    "id": 10958,
+    "word": "commotion",
+    "translation": "смятение"
+  },
+  {
+    "id": 10959,
+    "word": "custodian",
+    "translation": "хранитель, смотритель, опекун, попечитель"
+  },
+  {
+    "id": 10960,
+    "word": "cyst",
+    "translation": "киста, циста"
+  },
+  {
+    "id": 10961,
+    "word": "dainty",
+    "translation": "изысканный, лакомство, лакомый, деликатес"
+  },
+  {
+    "id": 10962,
+    "word": "detest",
+    "translation": "ненавидеть; (не dislike, hate, loathe, abhor)"
+  },
+  {
+    "id": 10963,
+    "word": "discontinuous",
+    "translation": "разрывный, прерывистый, дискретный, прерывный, скачкообразный"
+  },
+  {
+    "id": 10964,
+    "word": "dynamism",
+    "translation": "динамизм"
+  },
+  {
+    "id": 10965,
+    "word": "elongate",
+    "translation": "удлинять, вытянутый, растягивать"
+  },
+  {
+    "id": 10966,
+    "word": "emotive",
+    "translation": "волнующий, возбуждающий; эмоциональный, связанный с эмоциями, чувствами, выражающий эмоции, насыщенный эмоциями; эмотивный, экспрессивный"
+  },
+  {
+    "id": 10967,
+    "word": "enumerate",
+    "translation": "перечислять, пересчитывать, нумеровать"
+  },
+  {
+    "id": 10968,
+    "word": "exonerate",
+    "translation": "оправданный, реабилитировать, освобождать"
+  },
+  {
+    "id": 10969,
+    "word": "extol",
+    "translation": "превозносить, восхвалять"
+  },
+  {
+    "id": 10970,
+    "word": "fallible",
+    "translation": "подверженный ошибкам"
+  },
+  {
+    "id": 10971,
+    "word": "flinch",
+    "translation": "вздрагивать, передернуться"
+  },
+  {
+    "id": 10972,
+    "word": "forerunner",
+    "translation": "предтеча, предшественник, предвестник; (не forebear, ancestor, forefather, progenitor)"
+  },
+  {
+    "id": 10973,
+    "word": "fumble",
+    "translation": "нащупывать; мять, теребить, вертеть в руках; неумело обращаться с чем-л.; мычать, мямлить, невнятно говорить; неуклюжее, неловкое обращение"
+  },
+  {
+    "id": 10974,
+    "word": "gladiator",
+    "translation": "гладиатор"
+  },
+  {
+    "id": 10975,
+    "word": "gnaw",
+    "translation": "грызть, глодать"
+  },
+  {
+    "id": 10976,
+    "word": "grievous",
+    "translation": "печальный"
+  },
+  {
+    "id": 10977,
+    "word": "haddock",
+    "translation": "пикша"
+  },
+  {
+    "id": 10978,
+    "word": "hammock",
+    "translation": "гамак"
+  },
+  {
+    "id": 10979,
+    "word": "heartache",
+    "translation": "душевная боль, страдание"
+  },
+  {
+    "id": 10980,
+    "word": "hock",
+    "translation": "рейнвейн, закладывать"
+  },
+  {
+    "id": 10981,
+    "word": "stubble",
+    "translation": "щетина, стерня, жнивье"
+  },
+  {
+    "id": 10982,
+    "word": "stylus",
+    "translation": "перо, стиль, игла"
+  },
+  {
+    "id": 10983,
+    "word": "teapot",
+    "translation": "чайник; (не kettle)"
+  },
+  {
+    "id": 10984,
+    "word": "temerity",
+    "translation": "безрассудная смелость"
+  },
+  {
+    "id": 10985,
+    "word": "tether",
+    "translation": "привязать, привязывать, привязь"
+  },
+  {
+    "id": 10986,
+    "word": "thermostat",
+    "translation": "термостат"
+  },
+  {
+    "id": 10987,
+    "word": "tuba",
+    "translation": "туба"
+  },
+  {
+    "id": 10988,
+    "word": "tumult",
+    "translation": "смятение чувств, буйство"
+  },
+  {
+    "id": 10989,
+    "word": "unearth",
+    "translation": "раскапывать, выкапывать"
+  },
+  {
+    "id": 10990,
+    "word": "unicorn",
+    "translation": "единорог"
+  },
+  {
+    "id": 10991,
+    "word": "vertebra",
+    "translation": "позвонок"
+  },
+  {
+    "id": 10992,
+    "word": "voluptuous",
+    "translation": "сладострастный, чувственный, сластолюбивый"
+  },
+  {
+    "id": 10993,
+    "word": "watchman",
+    "translation": "ночной сторож; страж, дозорный; караульный, вахтенный"
+  },
+  {
+    "id": 10994,
+    "word": "whitewash",
+    "translation": "белить, обелять, побелка, обеление"
+  },
+  {
+    "id": 10995,
+    "word": "yon",
+    "translation": "вон тот; вон там, в ту сторону, туда"
+  },
+  {
+    "id": 10996,
+    "word": "abominable",
+    "translation": "гнусный, омерзительный"
+  },
+  {
+    "id": 10997,
+    "word": "aerodynamic",
+    "translation": "аэродинамический"
+  },
+  {
+    "id": 10998,
+    "word": "alderman",
+    "translation": "олдермен"
+  },
+  {
+    "id": 10999,
+    "word": "alight",
+    "translation": "выходить, зажженный, сходить, садиться, высаживаться, освещенный"
+  },
+  {
+    "id": 11000,
+    "word": "blurt",
+    "translation": "сболтнуть, выпалить, выдавать, проговариваться"
+  }
+]

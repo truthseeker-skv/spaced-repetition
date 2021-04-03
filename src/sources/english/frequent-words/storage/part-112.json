@@ -1,0 +1,502 @@
+[
+  {
+    "id": 11101,
+    "word": "supersonic",
+    "translation": "сверхзвуковой"
+  },
+  {
+    "id": 11102,
+    "word": "swish",
+    "translation": "свист, взмах со свистом, всплеск; шелест, шуршание, шипение; гомосексуалист, женоподобный мужчина; рассекать воздух со свистом; размахивать; шелестеть, шуршать; сечь; роскошный, шикарный, модный"
+  },
+  {
+    "id": 11103,
+    "word": "thence",
+    "translation": "оттуда"
+  },
+  {
+    "id": 11104,
+    "word": "tiptoe",
+    "translation": "кончики пальцев ног, цыпочки; ходить на цыпочках, стоять на цыпочках, подниматься на цыпочки; красться, подкрадываться"
+  },
+  {
+    "id": 11105,
+    "word": "transistor",
+    "translation": "транзистор, транзисторный"
+  },
+  {
+    "id": 11106,
+    "word": "tremor",
+    "translation": "дрожь, дрожание, сотрясение; (не shiver, tremble, quiver, shudder, shake, quake)"
+  },
+  {
+    "id": 11107,
+    "word": "underside",
+    "translation": "нижняя сторона, обратная сторона, подошва, днище кузова"
+  },
+  {
+    "id": 11108,
+    "word": "vulture",
+    "translation": "гриф"
+  },
+  {
+    "id": 11109,
+    "word": "wavy",
+    "translation": "волнистый, волнообразный, рифленый"
+  },
+  {
+    "id": 11110,
+    "word": "wench",
+    "translation": "девка"
+  },
+  {
+    "id": 11111,
+    "word": "zigzag",
+    "translation": "зигзаг, зигзагообразный, зигзагообразно"
+  },
+  {
+    "id": 11112,
+    "word": "anon",
+    "translation": "скоро, вскоре, в скором времени, в ближайшее время; тотчас, сейчас"
+  },
+  {
+    "id": 11113,
+    "word": "apricot",
+    "translation": "абрикос, абрикосовый цвет, абрикосовое дерево"
+  },
+  {
+    "id": 11114,
+    "word": "aural",
+    "translation": "звуковой, слуховой"
+  },
+  {
+    "id": 11115,
+    "word": "bullion",
+    "translation": "слиток"
+  },
+  {
+    "id": 11116,
+    "word": "chaff",
+    "translation": "мякина, подтрунивать, подшучивать, сечка"
+  },
+  {
+    "id": 11117,
+    "word": "changeover",
+    "translation": "переключение"
+  },
+  {
+    "id": 11118,
+    "word": "coupe",
+    "translation": "купе"
+  },
+  {
+    "id": 11119,
+    "word": "daydream",
+    "translation": "мечта, фантазия"
+  },
+  {
+    "id": 11120,
+    "word": "deodorant",
+    "translation": "дезодорант"
+  },
+  {
+    "id": 11121,
+    "word": "dowdy",
+    "translation": "непривлекательно, неброско, безвкусно одетая женщина девушка; без блеска, щегольства, убого одетый; некрасивый, немодный, неэлегантный"
+  },
+  {
+    "id": 11122,
+    "word": "ellipse",
+    "translation": "эллипс"
+  },
+  {
+    "id": 11123,
+    "word": "ethnography",
+    "translation": "этнография"
+  },
+  {
+    "id": 11124,
+    "word": "eucharist",
+    "translation": "евхаристия, причастие"
+  },
+  {
+    "id": 11125,
+    "word": "exemplar",
+    "translation": "образец, экземпляр"
+  },
+  {
+    "id": 11126,
+    "word": "femur",
+    "translation": "бедренная кость"
+  },
+  {
+    "id": 11127,
+    "word": "fen",
+    "translation": "топь"
+  },
+  {
+    "id": 11128,
+    "word": "fester",
+    "translation": "гноиться"
+  },
+  {
+    "id": 11129,
+    "word": "florist",
+    "translation": "флорист"
+  },
+  {
+    "id": 11130,
+    "word": "fount",
+    "translation": "источник"
+  },
+  {
+    "id": 11131,
+    "word": "foursome",
+    "translation": "игра в гольф между двумя парами; группа, компания из четырех человек, четверка; состоящий из четырех человек; выполняемый, исполняемый четырьмя участниками"
+  },
+  {
+    "id": 11132,
+    "word": "friar",
+    "translation": "монах нищенствующего ордена; непропечатавшееся место на странице"
+  },
+  {
+    "id": 11133,
+    "word": "fuzz",
+    "translation": "пух"
+  },
+  {
+    "id": 11134,
+    "word": "gable",
+    "translation": "фронтон, щипец"
+  },
+  {
+    "id": 11135,
+    "word": "godsend",
+    "translation": "находка"
+  },
+  {
+    "id": 11136,
+    "word": "grime",
+    "translation": "глубоко въевшаяся грязь, сажа; грязь; грязнить, загрязнять, марать, пачкать"
+  },
+  {
+    "id": 11137,
+    "word": "gypsum",
+    "translation": "гипс, гипсовый"
+  },
+  {
+    "id": 11138,
+    "word": "handset",
+    "translation": "телефонная гарнитура, головная гарнитура; телефонная трубка, микротелефонная трубка"
+  },
+  {
+    "id": 11139,
+    "word": "hatchback",
+    "translation": "задняя часть автомобиля с открывающейся вверх дверью; автомобиль с открывающейся вверх задней дверью"
+  },
+  {
+    "id": 11140,
+    "word": "hologram",
+    "translation": "голограмма"
+  },
+  {
+    "id": 11141,
+    "word": "horoscope",
+    "translation": "гороскоп"
+  },
+  {
+    "id": 11142,
+    "word": "indestructible",
+    "translation": "неразрушимый, неуничтожаемый"
+  },
+  {
+    "id": 11143,
+    "word": "infidel",
+    "translation": "неверный, неверующий, язычник, атеист"
+  },
+  {
+    "id": 11144,
+    "word": "jiggle",
+    "translation": "покачивание, тряска; покачивать(ся), трясти(сь), подбрасывать"
+  },
+  {
+    "id": 11145,
+    "word": "kurd",
+    "translation": "курд, курдка"
+  },
+  {
+    "id": 11146,
+    "word": "leotard",
+    "translation": "трико"
+  },
+  {
+    "id": 11147,
+    "word": "leprosy",
+    "translation": "проказа, лепра"
+  },
+  {
+    "id": 11148,
+    "word": "liken",
+    "translation": "уподоблять"
+  },
+  {
+    "id": 11149,
+    "word": "listless",
+    "translation": "вялый, апатичный, равнодушный"
+  },
+  {
+    "id": 11150,
+    "word": "locust",
+    "translation": "саранча"
+  },
+  {
+    "id": 11151,
+    "word": "malta",
+    "translation": "Мальта"
+  },
+  {
+    "id": 11152,
+    "word": "masturbate",
+    "translation": "заниматься мастурбацией"
+  },
+  {
+    "id": 11153,
+    "word": "matron",
+    "translation": "матрона"
+  },
+  {
+    "id": 11154,
+    "word": "monogamous",
+    "translation": "моногамный"
+  },
+  {
+    "id": 11155,
+    "word": "nutritious",
+    "translation": "питательный"
+  },
+  {
+    "id": 11156,
+    "word": "osmosis",
+    "translation": "осмос"
+  },
+  {
+    "id": 11157,
+    "word": "pail",
+    "translation": "ведро, бадья; (амер.) посуда, в которой рабочий носит свой обед; судок; (не bucket)"
+  },
+  {
+    "id": 11158,
+    "word": "parenthesis",
+    "translation": "круглые скобки, круглая скобка"
+  },
+  {
+    "id": 11159,
+    "word": "peacetime",
+    "translation": "мирное время"
+  },
+  {
+    "id": 11160,
+    "word": "peruse",
+    "translation": "внимательно прочитывать; внимательно рассматривать"
+  },
+  {
+    "id": 11161,
+    "word": "pessimist",
+    "translation": "пессимист"
+  },
+  {
+    "id": 11162,
+    "word": "physique",
+    "translation": "телосложение"
+  },
+  {
+    "id": 11163,
+    "word": "pittance",
+    "translation": "жалкие гроши"
+  },
+  {
+    "id": 11164,
+    "word": "pliable",
+    "translation": "гибкий, податливый, мягкий"
+  },
+  {
+    "id": 11165,
+    "word": "prim",
+    "translation": "чопорный"
+  },
+  {
+    "id": 11166,
+    "word": "prowl",
+    "translation": "рыскать, красться"
+  },
+  {
+    "id": 11167,
+    "word": "pulley",
+    "translation": "шкив, блок"
+  },
+  {
+    "id": 11168,
+    "word": "putty",
+    "translation": "шпатлевка, замазка, шпаклевка, мастика"
+  },
+  {
+    "id": 11169,
+    "word": "rafter",
+    "translation": "стропило, стропильная нога"
+  },
+  {
+    "id": 11170,
+    "word": "reinstate",
+    "translation": "восстанавливать, возобновлять"
+  },
+  {
+    "id": 11171,
+    "word": "revolver",
+    "translation": "револьвер"
+  },
+  {
+    "id": 11172,
+    "word": "rhinoceros",
+    "translation": "носорог"
+  },
+  {
+    "id": 11173,
+    "word": "sacrosanct",
+    "translation": "(книжн.) священный и неприкосновенный; (не sacred)"
+  },
+  {
+    "id": 11174,
+    "word": "sandal",
+    "translation": "сандалия"
+  },
+  {
+    "id": 11175,
+    "word": "searchlight",
+    "translation": "прожектор"
+  },
+  {
+    "id": 11176,
+    "word": "shamrock",
+    "translation": "трилистник"
+  },
+  {
+    "id": 11177,
+    "word": "shoemaker",
+    "translation": "сапожник, башмачник"
+  },
+  {
+    "id": 11178,
+    "word": "snug",
+    "translation": "аккуратный"
+  },
+  {
+    "id": 11179,
+    "word": "sonar",
+    "translation": "гидролокатор, сонар, гидролокация, гидроакустическая станция"
+  },
+  {
+    "id": 11180,
+    "word": "steeple",
+    "translation": "шпиль"
+  },
+  {
+    "id": 11181,
+    "word": "bulimia",
+    "translation": "булимия"
+  },
+  {
+    "id": 11182,
+    "word": "burrow",
+    "translation": "нора, рыться, рыть нору"
+  },
+  {
+    "id": 11183,
+    "word": "calico",
+    "translation": "миткаль, ситец, коленкоровый, миткалевый, коленкор"
+  },
+  {
+    "id": 11184,
+    "word": "capitulate",
+    "translation": "капитулировать"
+  },
+  {
+    "id": 11185,
+    "word": "cappuccino",
+    "translation": "капучино"
+  },
+  {
+    "id": 11186,
+    "word": "chancery",
+    "translation": "канцелярия"
+  },
+  {
+    "id": 11187,
+    "word": "chattel",
+    "translation": "движимое имущество; раб, крепостной, невольник"
+  },
+  {
+    "id": 11188,
+    "word": "cistern",
+    "translation": "цистерна, бак"
+  },
+  {
+    "id": 11189,
+    "word": "clasp",
+    "translation": "застежка, обнимать, пряжка, замок, застегивать"
+  },
+  {
+    "id": 11190,
+    "word": "clove",
+    "translation": "гвоздика, зубок чеснока, долька"
+  },
+  {
+    "id": 11191,
+    "word": "cordon",
+    "translation": "кордон, оцепление"
+  },
+  {
+    "id": 11192,
+    "word": "cranny",
+    "translation": "прорез, разрез, трещина, щель"
+  },
+  {
+    "id": 11193,
+    "word": "croquet",
+    "translation": "крокет"
+  },
+  {
+    "id": 11194,
+    "word": "dint",
+    "translation": "вмятина"
+  },
+  {
+    "id": 11195,
+    "word": "dumpy",
+    "translation": "подавленный, унылый, печальный, как в воду опущенный; коренастый; невысокий коренастый человек"
+  },
+  {
+    "id": 11196,
+    "word": "dynamo",
+    "translation": "динамо, динамомашина, динамо-машина"
+  },
+  {
+    "id": 11197,
+    "word": "eggshell",
+    "translation": "яичная скорлупа, нечто хрупкое; бледно-желтый цвет; хрупкий, тонкий; матовый; бледно-желтый"
+  },
+  {
+    "id": 11198,
+    "word": "encapsulate",
+    "translation": "инкапсулировать, герметизировать"
+  },
+  {
+    "id": 11199,
+    "word": "enema",
+    "translation": "клизма"
+  },
+  {
+    "id": 11200,
+    "word": "enunciate",
+    "translation": "формулировать"
+  }
+]

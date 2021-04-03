@@ -1,0 +1,502 @@
+[
+  {
+    "id": 6501,
+    "word": "approved",
+    "translation": "утвержденный, одобренный, санкционированный, апробированный, проверенный"
+  },
+  {
+    "id": 6502,
+    "word": "worrying",
+    "translation": "волнующий"
+  },
+  {
+    "id": 6503,
+    "word": "wireless",
+    "translation": "беспроводной, беспроволочный, радио, радиограмма, радиоприемник"
+  },
+  {
+    "id": 6504,
+    "word": "footstep",
+    "translation": "след, ступень"
+  },
+  {
+    "id": 6505,
+    "word": "denominator",
+    "translation": "знаменатель, делитель"
+  },
+  {
+    "id": 6506,
+    "word": "delete",
+    "translation": "удалять, исключать, уничтожать, стирать, вычеркивать"
+  },
+  {
+    "id": 6507,
+    "word": "lone",
+    "translation": "одинокий"
+  },
+  {
+    "id": 6508,
+    "word": "exceptionally",
+    "translation": "исключительно"
+  },
+  {
+    "id": 6509,
+    "word": "tar",
+    "translation": "смола, деготь, гудрон, смолить"
+  },
+  {
+    "id": 6510,
+    "word": "spider",
+    "translation": "паук, крестовина, водило"
+  },
+  {
+    "id": 6511,
+    "word": "skeptical",
+    "translation": "скептический"
+  },
+  {
+    "id": 6512,
+    "word": "hectare",
+    "translation": "гектар"
+  },
+  {
+    "id": 6513,
+    "word": "colonel",
+    "translation": "полковник"
+  },
+  {
+    "id": 6514,
+    "word": "swimming",
+    "translation": "плавающий, плавание, плавательный, залитый"
+  },
+  {
+    "id": 6515,
+    "word": "informative",
+    "translation": "информативный, информационный, содержательный"
+  },
+  {
+    "id": 6516,
+    "word": "realism",
+    "translation": "реализм"
+  },
+  {
+    "id": 6517,
+    "word": "insider",
+    "translation": "инсайдер"
+  },
+  {
+    "id": 6518,
+    "word": "barbecue",
+    "translation": "барбекю"
+  },
+  {
+    "id": 6519,
+    "word": "hobby",
+    "translation": "хобби, любимое занятие; (не pursuit, pastime)"
+  },
+  {
+    "id": 6520,
+    "word": "canon",
+    "translation": "канон, каноник, правило, закон"
+  },
+  {
+    "id": 6521,
+    "word": "computing",
+    "translation": "вычислительный, счетный"
+  },
+  {
+    "id": 6522,
+    "word": "infrastructure",
+    "translation": "инфраструктура"
+  },
+  {
+    "id": 6523,
+    "word": "stern",
+    "translation": "корма, суровый, строгий, кормовой, кормовая часть"
+  },
+  {
+    "id": 6524,
+    "word": "co-operate",
+    "translation": "кооперироваться"
+  },
+  {
+    "id": 6525,
+    "word": "cereal",
+    "translation": "каша, злак, злаковый"
+  },
+  {
+    "id": 6526,
+    "word": "boxing",
+    "translation": "бокс"
+  },
+  {
+    "id": 6527,
+    "word": "indictment",
+    "translation": "обвинительный акт, предъявление обвинения; (не prosecution, sueing)"
+  },
+  {
+    "id": 6528,
+    "word": "lick",
+    "translation": "облизывать, лизать, зализывать, облизывание"
+  },
+  {
+    "id": 6529,
+    "word": "constrain",
+    "translation": "ограничивать, сдерживать, вынуждать, принуждать, стеснять; (не restrain, restrict, confine, limit)"
+  },
+  {
+    "id": 6530,
+    "word": "puppet",
+    "translation": "марионетка, кукла"
+  },
+  {
+    "id": 6531,
+    "word": "clerical",
+    "translation": "канцелярский, церковный, духовный, клерикал"
+  },
+  {
+    "id": 6532,
+    "word": "purification",
+    "translation": "очистка, очищение, обряд очищения, ректификация"
+  },
+  {
+    "id": 6533,
+    "word": "contend",
+    "translation": "утверждать, бороться, соперничать, спорить, состязаться, оспаривать"
+  },
+  {
+    "id": 6534,
+    "word": "instrumental",
+    "translation": "инструментальный, способствующий, приборный"
+  },
+  {
+    "id": 6535,
+    "word": "lottery",
+    "translation": "лотерея, лотерейный"
+  },
+  {
+    "id": 6536,
+    "word": "electorate",
+    "translation": "электорат, избиратели, избирательный округ"
+  },
+  {
+    "id": 6537,
+    "word": "congratulate",
+    "translation": "поздравлять; (не wish)"
+  },
+  {
+    "id": 6538,
+    "word": "protestant",
+    "translation": "возражающий, протестующий; протестант; протестантский"
+  },
+  {
+    "id": 6539,
+    "word": "balanced",
+    "translation": "сбалансированный, уравновешенный, соразмерный, гармоничный"
+  },
+  {
+    "id": 6540,
+    "word": "domination",
+    "translation": "господство, доминирование, власть"
+  },
+  {
+    "id": 6541,
+    "word": "blink",
+    "translation": "мигать, моргать, мерцать, мигание, отблеск"
+  },
+  {
+    "id": 6542,
+    "word": "bleed",
+    "translation": "кровоточить, сочиться, отвод"
+  },
+  {
+    "id": 6543,
+    "word": "unlawful",
+    "translation": "незаконный, противоправный, неправомерный, противозаконный, запрещенный, недозволенный"
+  },
+  {
+    "id": 6544,
+    "word": "blotting",
+    "translation": "загрязнение; затемнение, заслонение; промокание; стирание написанного, уничтожение, вычеркивание, удаление; стирание, вычеркивание из памяти; бесчестие, опозоривание"
+  },
+  {
+    "id": 6545,
+    "word": "precedent",
+    "translation": "прецедент, предшествующий"
+  },
+  {
+    "id": 6546,
+    "word": "notorious",
+    "translation": "известный, пресловутый, отъявленный, общеизвестный"
+  },
+  {
+    "id": 6547,
+    "word": "flea",
+    "translation": "блоха"
+  },
+  {
+    "id": 6548,
+    "word": "indoor",
+    "translation": "закрытый, комнатный, внутренний; (не internal, interior, inner, inside, domestic)"
+  },
+  {
+    "id": 6549,
+    "word": "rum",
+    "translation": "ром, странный"
+  },
+  {
+    "id": 6550,
+    "word": "upgrade",
+    "translation": "обновление, модернизация, модернизировать, усовершенствование, подъем, повышать качество"
+  },
+  {
+    "id": 6551,
+    "word": "trench",
+    "translation": "траншея, окоп, канава, ров, борозда, котлован; (не moat, ditch, fosse)"
+  },
+  {
+    "id": 6552,
+    "word": "therapist",
+    "translation": "терапевт"
+  },
+  {
+    "id": 6553,
+    "word": "illuminate",
+    "translation": "освещать, озарять, облучать, иллюминировать"
+  },
+  {
+    "id": 6554,
+    "word": "meditation",
+    "translation": "медитация, размышление, раздумье, созерцание"
+  },
+  {
+    "id": 6555,
+    "word": "warranty",
+    "translation": "гарантия, ручательство, поручительство"
+  },
+  {
+    "id": 6556,
+    "word": "scar",
+    "translation": "шрам, рубец, зарубцовываться"
+  },
+  {
+    "id": 6557,
+    "word": "consortium",
+    "translation": "консорциум"
+  },
+  {
+    "id": 6558,
+    "word": "premiere",
+    "translation": "премьера"
+  },
+  {
+    "id": 6559,
+    "word": "insure",
+    "translation": "застраховывать, страховать; (не assure, ensure, guarantee, secure, verify, provide)"
+  },
+  {
+    "id": 6560,
+    "word": "lesbian",
+    "translation": "лесбиянка, лесбийский"
+  },
+  {
+    "id": 6561,
+    "word": "extensively",
+    "translation": "экстенсивно, в значительной степени"
+  },
+  {
+    "id": 6562,
+    "word": "appropriately",
+    "translation": "уместно"
+  },
+  {
+    "id": 6563,
+    "word": "spoon",
+    "translation": "ложка, ложечка"
+  },
+  {
+    "id": 6564,
+    "word": "singular",
+    "translation": "особый, сингулярный, странный, единственное число, вырожденный, особенный, своеобразный, необыкновенный, единичный, исключительный"
+  },
+  {
+    "id": 6565,
+    "word": "sideways",
+    "translation": "в сторону, боком"
+  },
+  {
+    "id": 6566,
+    "word": "tabloid",
+    "translation": "таблоид"
+  },
+  {
+    "id": 6567,
+    "word": "enhanced",
+    "translation": "повышенный, усиленный, усовершенствованный; (не increased)"
+  },
+  {
+    "id": 6568,
+    "word": "disrupt",
+    "translation": "нарушать, срывать, разрушать, разорванный, разрывать"
+  },
+  {
+    "id": 6569,
+    "word": "satisfied",
+    "translation": "удовлетворенный, довольный; (не content, pleased)"
+  },
+  {
+    "id": 6570,
+    "word": "oval",
+    "translation": "овальный, овал, яйцевидный"
+  },
+  {
+    "id": 6571,
+    "word": "volt",
+    "translation": "вольт"
+  },
+  {
+    "id": 6572,
+    "word": "precaution",
+    "translation": "предосторожность, мера предосторожности, предусмотрительность, профилактика"
+  },
+  {
+    "id": 6573,
+    "word": "kite",
+    "translation": "воздушный змей, коршун"
+  },
+  {
+    "id": 6574,
+    "word": "animated",
+    "translation": "оживленный"
+  },
+  {
+    "id": 6575,
+    "word": "gig",
+    "translation": "(разг.) концерт; ангажемент на одно выступление (особ. джаза); кабриолет; двуколка; подъёмная машина, лебёдка; работа, должность, занятие, (особ. скучное); соска-пустышка; (преим. амер.) двигаться вперёд и назад; командирская шлюпка; командирский моторный катер"
+  },
+  {
+    "id": 6576,
+    "word": "overweight",
+    "translation": "избыточный вес, перегружать"
+  },
+  {
+    "id": 6577,
+    "word": "continuously",
+    "translation": "непрерывно"
+  },
+  {
+    "id": 6578,
+    "word": "consolidate",
+    "translation": "консолидировать, объединять, укреплять"
+  },
+  {
+    "id": 6579,
+    "word": "cumulative",
+    "translation": "кумулятивный, совокупный, накопленный, суммарный"
+  },
+  {
+    "id": 6580,
+    "word": "fountain",
+    "translation": "фонтан, источник, фонтанчик, фонтанный"
+  },
+  {
+    "id": 6581,
+    "word": "gloom",
+    "translation": "мрак, сумрак, уныние, мрачность, хмуриться"
+  },
+  {
+    "id": 6582,
+    "word": "noun",
+    "translation": "существительное, имя существительное"
+  },
+  {
+    "id": 6583,
+    "word": "sheriff",
+    "translation": "шериф"
+  },
+  {
+    "id": 6584,
+    "word": "nomination",
+    "translation": "номинация, выдвижение, назначение"
+  },
+  {
+    "id": 6585,
+    "word": "armchair",
+    "translation": "кресло"
+  },
+  {
+    "id": 6586,
+    "word": "partition",
+    "translation": "раздел, разбиение, перегородка, разделение, разбивать, разделять, распределение, расчленение, переборка, распределять"
+  },
+  {
+    "id": 6587,
+    "word": "virtual",
+    "translation": "виртуальный, фактический, мнимый, возможный, действующий, эффективный"
+  },
+  {
+    "id": 6588,
+    "word": "leukemia",
+    "translation": "лейкемия, белокровие"
+  },
+  {
+    "id": 6589,
+    "word": "unprecedented",
+    "translation": "беспрецедентный, небывалый, беспримерный"
+  },
+  {
+    "id": 6590,
+    "word": "tumble",
+    "translation": "кувыркаться, падение, опрокидывать, переворачивать"
+  },
+  {
+    "id": 6591,
+    "word": "ski",
+    "translation": "лыжа"
+  },
+  {
+    "id": 6592,
+    "word": "rigorous",
+    "translation": "строгий, суровый, жесткий, точный, неукоснительный"
+  },
+  {
+    "id": 6593,
+    "word": "architectural",
+    "translation": "архитектурный"
+  },
+  {
+    "id": 6594,
+    "word": "violation",
+    "translation": "нарушение, изнасилование"
+  },
+  {
+    "id": 6595,
+    "word": "ss",
+    "translation": "а именно, то есть"
+  },
+  {
+    "id": 6596,
+    "word": "rocket",
+    "translation": "ракета, ракетный, ракетный двигатель, взмывать"
+  },
+  {
+    "id": 6597,
+    "word": "inject",
+    "translation": "вводить, впрыскивать, инжектировать, инъецировать, закачивать"
+  },
+  {
+    "id": 6598,
+    "word": "departmental",
+    "translation": "ведомственный"
+  },
+  {
+    "id": 6599,
+    "word": "sage",
+    "translation": "мудрец, мудрый, шалфей"
+  },
+  {
+    "id": 6600,
+    "word": "fax",
+    "translation": "факс, посылать по факсу"
+  }
+]

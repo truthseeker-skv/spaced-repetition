@@ -1,0 +1,502 @@
+[
+  {
+    "id": 10101,
+    "word": "despicable",
+    "translation": "презренный"
+  },
+  {
+    "id": 10102,
+    "word": "dilapidated",
+    "translation": "ветхий, полуразвалившийся, полуразрушенный, обветшалый"
+  },
+  {
+    "id": 10103,
+    "word": "disinterested",
+    "translation": "бескорыстный, незаинтересованный"
+  },
+  {
+    "id": 10104,
+    "word": "ensue",
+    "translation": "получаться в результате, происходить; следовать, последовательно случаться; стремиться достичь"
+  },
+  {
+    "id": 10105,
+    "word": "evergreen",
+    "translation": "вечнозеленый"
+  },
+  {
+    "id": 10106,
+    "word": "fearsome",
+    "translation": "грозный, зловещий, страшный"
+  },
+  {
+    "id": 10107,
+    "word": "fictitious",
+    "translation": "фиктивный, вымышленный, воображаемый"
+  },
+  {
+    "id": 10108,
+    "word": "fowl",
+    "translation": "дичь"
+  },
+  {
+    "id": 10109,
+    "word": "frugal",
+    "translation": "скромный, умеренный"
+  },
+  {
+    "id": 10110,
+    "word": "gunpowder",
+    "translation": "порох"
+  },
+  {
+    "id": 10111,
+    "word": "hellish",
+    "translation": "адский, дьявольский"
+  },
+  {
+    "id": 10112,
+    "word": "holler",
+    "translation": "кричать, орать; окликать; издавать характерные звуки; выкрик, вскрик; оклик; рабочая песня"
+  },
+  {
+    "id": 10113,
+    "word": "homely",
+    "translation": "некрасивый, невзрачный"
+  },
+  {
+    "id": 10114,
+    "word": "idiomatic",
+    "translation": "идиоматический, идиоматичный"
+  },
+  {
+    "id": 10115,
+    "word": "malevolent",
+    "translation": "злобный, злой"
+  },
+  {
+    "id": 10116,
+    "word": "melon",
+    "translation": "дыня"
+  },
+  {
+    "id": 10117,
+    "word": "mulch",
+    "translation": "мульча, мульчировать"
+  },
+  {
+    "id": 10118,
+    "word": "nebulous",
+    "translation": "туманный"
+  },
+  {
+    "id": 10119,
+    "word": "nigger",
+    "translation": "негр, черномазый; шоколадно-коричневый цвет"
+  },
+  {
+    "id": 10120,
+    "word": "obstetrics",
+    "translation": "акушерство"
+  },
+  {
+    "id": 10121,
+    "word": "outburst",
+    "translation": "вспышка, взрыв, прорыв"
+  },
+  {
+    "id": 10122,
+    "word": "panacea",
+    "translation": "панацея, универсальное средство"
+  },
+  {
+    "id": 10123,
+    "word": "patter",
+    "translation": "барабанить, скороговорка, шум, топотать"
+  },
+  {
+    "id": 10124,
+    "word": "quill",
+    "translation": "игла"
+  },
+  {
+    "id": 10125,
+    "word": "rote",
+    "translation": "шум прибоя; механическое запоминание"
+  },
+  {
+    "id": 10126,
+    "word": "rotor",
+    "translation": "ротор, роторный, несущий винт, якорь"
+  },
+  {
+    "id": 10127,
+    "word": "sash",
+    "translation": "пояс, кушак, оконная рама"
+  },
+  {
+    "id": 10128,
+    "word": "sectarian",
+    "translation": "сектантский, сектант"
+  },
+  {
+    "id": 10129,
+    "word": "serviceable",
+    "translation": "работоспособный, полезный"
+  },
+  {
+    "id": 10130,
+    "word": "shrill",
+    "translation": "пронзительный, резкий, визгливый"
+  },
+  {
+    "id": 10131,
+    "word": "simmer",
+    "translation": "медленное кипение, выкипание; кипячение, варка на медленном огне; кипеть на медленном огне; кипятить на медленном огне, варить, не доводя до кипения; бурлить, булькать; кипеть, еле сдерживать"
+  },
+  {
+    "id": 10132,
+    "word": "snarl",
+    "translation": "рычать, рычание, огрызаться, ворчать, ворчание"
+  },
+  {
+    "id": 10133,
+    "word": "spaniel",
+    "translation": "спаниель"
+  },
+  {
+    "id": 10134,
+    "word": "translucent",
+    "translation": "прозрачный, полупрозрачный, просвечивающий"
+  },
+  {
+    "id": 10135,
+    "word": "valet",
+    "translation": "камердинер"
+  },
+  {
+    "id": 10136,
+    "word": "vegetative",
+    "translation": "растительный, вегетативный"
+  },
+  {
+    "id": 10137,
+    "word": "whist",
+    "translation": "вист"
+  },
+  {
+    "id": 10138,
+    "word": "wicker",
+    "translation": "ивовый прут, лоза; прутья для плетения; плетение, плетеные изделия; плести из прутьев, оплетать"
+  },
+  {
+    "id": 10139,
+    "word": "wince",
+    "translation": "вздрагивать, морщиться"
+  },
+  {
+    "id": 10140,
+    "word": "workmanship",
+    "translation": "мастерство, качество работы, искусство, квалификация, качество изготовления"
+  },
+  {
+    "id": 10141,
+    "word": "yearn",
+    "translation": "жаждать, тосковать"
+  },
+  {
+    "id": 10142,
+    "word": "zambia",
+    "translation": "Замбия"
+  },
+  {
+    "id": 10143,
+    "word": "astrology",
+    "translation": "астрология"
+  },
+  {
+    "id": 10144,
+    "word": "beret",
+    "translation": "берет"
+  },
+  {
+    "id": 10145,
+    "word": "bookshelf",
+    "translation": "книжная полка"
+  },
+  {
+    "id": 10146,
+    "word": "brim",
+    "translation": "край"
+  },
+  {
+    "id": 10147,
+    "word": "carousel",
+    "translation": "карусель"
+  },
+  {
+    "id": 10148,
+    "word": "cataract",
+    "translation": "катаракта"
+  },
+  {
+    "id": 10149,
+    "word": "coax",
+    "translation": "убеждать, упрашивать, уговаривать; выманивать лестью, добиться чего-л. с помощью уговоров, лести; человек, который может убедить;уговорить; убедительная речь"
+  },
+  {
+    "id": 10150,
+    "word": "cogent",
+    "translation": "убедительный, неоспоримый"
+  },
+  {
+    "id": 10151,
+    "word": "collage",
+    "translation": "коллаж"
+  },
+  {
+    "id": 10152,
+    "word": "complexion",
+    "translation": "цвет лица"
+  },
+  {
+    "id": 10153,
+    "word": "decode",
+    "translation": "декодировать, расшифровывать, дешифровать, дешифрировать, раскодировать"
+  },
+  {
+    "id": 10154,
+    "word": "delve",
+    "translation": "копаться"
+  },
+  {
+    "id": 10155,
+    "word": "deport",
+    "translation": "депортировать, высылать, выдворять"
+  },
+  {
+    "id": 10156,
+    "word": "destitute",
+    "translation": "нищий"
+  },
+  {
+    "id": 10157,
+    "word": "ecclesiastical",
+    "translation": "церковный, духовный"
+  },
+  {
+    "id": 10158,
+    "word": "flagrant",
+    "translation": "грубый, вопиющий; (не rude, rough, coarse, prickly, scaly, crude, gruff, gross, rugged)"
+  },
+  {
+    "id": 10159,
+    "word": "fortuitous",
+    "translation": "случайный"
+  },
+  {
+    "id": 10160,
+    "word": "helium",
+    "translation": "гелий, гелиевый"
+  },
+  {
+    "id": 10161,
+    "word": "homophobia",
+    "translation": "ненависть к гомосексуалистам"
+  },
+  {
+    "id": 10162,
+    "word": "hurl",
+    "translation": "швырять"
+  },
+  {
+    "id": 10163,
+    "word": "inanimate",
+    "translation": "неодушевленный, неживой, безжизненный, вялый"
+  },
+  {
+    "id": 10164,
+    "word": "jp",
+    "translation": "реактивное движение"
+  },
+  {
+    "id": 10165,
+    "word": "khaki",
+    "translation": "защитный цвет, защитного цвета"
+  },
+  {
+    "id": 10166,
+    "word": "libido",
+    "translation": "либидо, половое влечение"
+  },
+  {
+    "id": 10167,
+    "word": "microbiology",
+    "translation": "микробиология"
+  },
+  {
+    "id": 10168,
+    "word": "mozambique",
+    "translation": "Мозамбик"
+  },
+  {
+    "id": 10169,
+    "word": "multilateral",
+    "translation": "многосторонний"
+  },
+  {
+    "id": 10170,
+    "word": "mutiny",
+    "translation": "бунт, мятеж, восстание, взбунтоваться"
+  },
+  {
+    "id": 10171,
+    "word": "mythological",
+    "translation": "мифологический"
+  },
+  {
+    "id": 10172,
+    "word": "necessitate",
+    "translation": "требовать, вынуждать, вызывать необходимость, делать необходимым"
+  },
+  {
+    "id": 10173,
+    "word": "observance",
+    "translation": "соблюдение, обряд"
+  },
+  {
+    "id": 10174,
+    "word": "oncoming",
+    "translation": "приближающийся, встречный, надвигающийся, приближение, набегающий"
+  },
+  {
+    "id": 10175,
+    "word": "overland",
+    "translation": "по суше, на суше"
+  },
+  {
+    "id": 10176,
+    "word": "overstate",
+    "translation": "преувеличивать, завышать"
+  },
+  {
+    "id": 10177,
+    "word": "panache",
+    "translation": "плюмаж, султан; фатовство, рисовка, щегольство; особый стиль, своеобразие"
+  },
+  {
+    "id": 10178,
+    "word": "playroom",
+    "translation": "детская комната, комната для игр"
+  },
+  {
+    "id": 10179,
+    "word": "postmaster",
+    "translation": "почтмейстер"
+  },
+  {
+    "id": 10180,
+    "word": "predispose",
+    "translation": "предрасполагать"
+  },
+  {
+    "id": 10181,
+    "word": "ravenous",
+    "translation": "жадный, алчный; прожорливый, ненасытный; очень голодный, изголодавшийся"
+  },
+  {
+    "id": 10182,
+    "word": "stout",
+    "translation": "полный, тучный, дородный; (не full, corpulent, chubby, portly, total, complete, fat, fleshy, plump)"
+  },
+  {
+    "id": 10183,
+    "word": "suffrage",
+    "translation": "избирательное право, право голоса"
+  },
+  {
+    "id": 10184,
+    "word": "swarm",
+    "translation": "рой, роиться, кишеть, толпиться"
+  },
+  {
+    "id": 10185,
+    "word": "tacit",
+    "translation": "молчаливый, подразумеваемый"
+  },
+  {
+    "id": 10186,
+    "word": "thud",
+    "translation": "порыв ветра, шквал; глухой звук, стук; сильный удар; тяжелый удар, горе; налетать; бухнуться, свалиться, сорваться, шлепнуться; ударяться с глухим стуком"
+  },
+  {
+    "id": 10187,
+    "word": "upkeep",
+    "translation": "содержание, ремонт"
+  },
+  {
+    "id": 10188,
+    "word": "vigilante",
+    "translation": "виджиланте, член «комитета бдительности»"
+  },
+  {
+    "id": 10189,
+    "word": "watchful",
+    "translation": "внимательный, бдительный, настороженный, наблюдательный, осторожный"
+  },
+  {
+    "id": 10190,
+    "word": "weirdo",
+    "translation": "человек со странностями; извращённая личность; половое извращение"
+  },
+  {
+    "id": 10191,
+    "word": "whereupon",
+    "translation": "после чего"
+  },
+  {
+    "id": 10192,
+    "word": "wither",
+    "translation": "увядать, высыхать, иссушать, засыхать, вянуть, чахнуть, сохнуть"
+  },
+  {
+    "id": 10193,
+    "word": "atone",
+    "translation": "искупать"
+  },
+  {
+    "id": 10194,
+    "word": "baboon",
+    "translation": "бабуин, павиан"
+  },
+  {
+    "id": 10195,
+    "word": "blight",
+    "translation": "приносить вред (растениям); оказывать губительное воздействие, разрушать (надежды, планы); отравлять (удовольствие и т. п.); упадок, гибель; деградация; разрушаться; портиться"
+  },
+  {
+    "id": 10196,
+    "word": "breakaway",
+    "translation": "отрыв"
+  },
+  {
+    "id": 10197,
+    "word": "bristle",
+    "translation": "щетина, щетинка, топорщиться"
+  },
+  {
+    "id": 10198,
+    "word": "churchyard",
+    "translation": "погост"
+  },
+  {
+    "id": 10199,
+    "word": "dispel",
+    "translation": "рассеивать, разгонять"
+  },
+  {
+    "id": 10200,
+    "word": "dissipate",
+    "translation": "рассеиваться, рассеивать, растрачивать, расточать, проматывать"
+  }
+]

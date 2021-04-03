@@ -1,33 +1,33 @@
 {
-  "compileOnSave": false,
   "compilerOptions": {
-    "target": "ES6",
-    "module": "CommonJS",
-    "moduleResolution": "Node",
-    "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "noUnusedLocals": true,
-    "noImplicitReturns": true,
+    "allowJs": false,
+    "baseUrl": "src",
+    "declaration": true,
+    "esModuleInterop": true,
+    "experimentalDecorators": true,
+    "incremental": true,
     "jsx": "react",
     "lib": [
       "ESNext",
       "DOM"
     ],
-    "esModuleInterop": true,
-    "experimentalDecorators": true,
-    "resolveJsonModule": true,
-    "sourceMap": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "skipLibCheck": true,
+    "outDir": "lib",
     "preserveConstEnums": true,
-    "typeRoots": ["./node_modules/@types", "./types"],
-    "baseUrl": "src",
-    "paths": {
-      "*": ["node_modules/*"],
-      "~/*": ["*"]
-    }
+    "rootDir": "src",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES5",
+    "tsBuildInfoFile": "lib/.tsbuildinfo",
+    "typeRoots": [
+      "./node_modules/@types",
+      "./types"
+    ]
   },
-  "include": ["./*.ts", "./**/*.ts"],
-  "atom": {
-    "rewriteTsconfig": false,
-    "formatOnSave": false
-  }
+  "include": ["./*.ts", "./**/*.ts", "./*.tsx", "./**/*.tsx"],
 }

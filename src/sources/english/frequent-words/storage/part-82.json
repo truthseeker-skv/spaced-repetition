@@ -1,0 +1,502 @@
+[
+  {
+    "id": 8101,
+    "word": "prudence",
+    "translation": "благоразумие, осторожность, осмотрительность, предусмотрительность, рассудительность; (не discretion)"
+  },
+  {
+    "id": 8102,
+    "word": "locus",
+    "translation": "место, геометрическое место точек, траектория, локус, годограф, местоположение"
+  },
+  {
+    "id": 8103,
+    "word": "algorithm",
+    "translation": "алгоритм"
+  },
+  {
+    "id": 8104,
+    "word": "pentagon",
+    "translation": "пентагон, пятиугольник"
+  },
+  {
+    "id": 8105,
+    "word": "iran",
+    "translation": "Иран"
+  },
+  {
+    "id": 8106,
+    "word": "median",
+    "translation": "срединный, средний, серединный; (не mid, midst, middle, mean, average)"
+  },
+  {
+    "id": 8107,
+    "word": "gp",
+    "translation": "врач общей практики, терапевт; Гран-При, Большой Приз"
+  },
+  {
+    "id": 8108,
+    "word": "null",
+    "translation": "нулевой, пустой, нуль, недействительный"
+  },
+  {
+    "id": 8109,
+    "word": "downstream",
+    "translation": "вниз по течению, ниже по течению, низовой"
+  },
+  {
+    "id": 8110,
+    "word": "template",
+    "translation": "шаблон, эталон, лекало"
+  },
+  {
+    "id": 8111,
+    "word": "amazon",
+    "translation": "всадница, амазонка; мужеподобная женщина"
+  },
+  {
+    "id": 8112,
+    "word": "oversight",
+    "translation": "надзор, контроль, недосмотр, оплошность, упущение, наблюдение"
+  },
+  {
+    "id": 8113,
+    "word": "vascular",
+    "translation": "сосудистый"
+  },
+  {
+    "id": 8114,
+    "word": "upstream",
+    "translation": "входной, восходящий поток, вверх по потоку"
+  },
+  {
+    "id": 8115,
+    "word": "randy",
+    "translation": "(сл.) распутный, похотливый, сексуально возбужденный, беспорядочный"
+  },
+  {
+    "id": 8116,
+    "word": "metabolism",
+    "translation": "метаболизм, обмен веществ"
+  },
+  {
+    "id": 8117,
+    "word": "catalytic",
+    "translation": "каталитический"
+  },
+  {
+    "id": 8118,
+    "word": "pulmonary",
+    "translation": "легочный"
+  },
+  {
+    "id": 8119,
+    "word": "porn",
+    "translation": "порнография"
+  },
+  {
+    "id": 8120,
+    "word": "cardiac",
+    "translation": "сердечный"
+  },
+  {
+    "id": 8121,
+    "word": "prostate",
+    "translation": "простата, предстательная железа"
+  },
+  {
+    "id": 8122,
+    "word": "phosphate",
+    "translation": "фосфат, фосфатовый, фосфорнокислый, фосфатный"
+  },
+  {
+    "id": 8123,
+    "word": "uptake",
+    "translation": "поглощение"
+  },
+  {
+    "id": 8124,
+    "word": "coefficient",
+    "translation": "коэффициент, множитель, показатель, фактор"
+  },
+  {
+    "id": 8125,
+    "word": "diagnostic",
+    "translation": "диагностический, диагностика"
+  },
+  {
+    "id": 8126,
+    "word": "holocaust",
+    "translation": "холокост"
+  },
+  {
+    "id": 8127,
+    "word": "renal",
+    "translation": "почечный"
+  },
+  {
+    "id": 8128,
+    "word": "delta",
+    "translation": "дельта"
+  },
+  {
+    "id": 8129,
+    "word": "neural",
+    "translation": "нервный, невральный, мозговой"
+  },
+  {
+    "id": 8130,
+    "word": "saline",
+    "translation": "соляной, физиологический раствор, солончак, солевой раствор, солевой, соленый, соль"
+  },
+  {
+    "id": 8131,
+    "word": "synthetic",
+    "translation": "синтетический, искусственный"
+  },
+  {
+    "id": 8132,
+    "word": "phoenix",
+    "translation": "феникс"
+  },
+  {
+    "id": 8133,
+    "word": "plaza",
+    "translation": "(рыночная) площадь; открытая площадка; место сбора пошлины за проезд; зона отдыха, сервиса; торговый комплекс"
+  },
+  {
+    "id": 8134,
+    "word": "millennium",
+    "translation": "тысячелетие"
+  },
+  {
+    "id": 8135,
+    "word": "en",
+    "translation": "ширина символа n, соответствующая половине ширины символа m"
+  },
+  {
+    "id": 8136,
+    "word": "biochemical",
+    "translation": "биохимический"
+  },
+  {
+    "id": 8137,
+    "word": "peninsula",
+    "translation": "полуостров"
+  },
+  {
+    "id": 8138,
+    "word": "spokeswoman",
+    "translation": "представитель, оратор"
+  },
+  {
+    "id": 8139,
+    "word": "terminus",
+    "translation": "вокзал, конечный пункт, конечная станция"
+  },
+  {
+    "id": 8140,
+    "word": "syndicate",
+    "translation": "синдицировать, синдикат"
+  },
+  {
+    "id": 8141,
+    "word": "awesome",
+    "translation": "устрашающий; благоговейный; (разг.) Классно! Круто! Здорово!; (не excellent, exceptional, superb, fantastic, brilliant, marvellous, terrific, wonderful, perfect)"
+  },
+  {
+    "id": 8142,
+    "word": "physiological",
+    "translation": "физиологический"
+  },
+  {
+    "id": 8143,
+    "word": "telegram",
+    "translation": "телеграмма"
+  },
+  {
+    "id": 8144,
+    "word": "newt",
+    "translation": "тритон"
+  },
+  {
+    "id": 8145,
+    "word": "cohort",
+    "translation": "когорта"
+  },
+  {
+    "id": 8146,
+    "word": "creek",
+    "translation": "бухточка, устье реки"
+  },
+  {
+    "id": 8147,
+    "word": "dynasty",
+    "translation": "династия"
+  },
+  {
+    "id": 8148,
+    "word": "cog",
+    "translation": "зуб, зубец"
+  },
+  {
+    "id": 8149,
+    "word": "laden",
+    "translation": "нагруженный, груженый"
+  },
+  {
+    "id": 8150,
+    "word": "indonesia",
+    "translation": "Индонезия"
+  },
+  {
+    "id": 8151,
+    "word": "affirmative",
+    "translation": "утвердительный, положительный"
+  },
+  {
+    "id": 8152,
+    "word": "judiciary",
+    "translation": "судебная система"
+  },
+  {
+    "id": 8153,
+    "word": "statesman",
+    "translation": "государственный деятель"
+  },
+  {
+    "id": 8154,
+    "word": "download",
+    "translation": "загружать, скачивать"
+  },
+  {
+    "id": 8155,
+    "word": "embryonic",
+    "translation": "эмбриональный, зародышевый"
+  },
+  {
+    "id": 8156,
+    "word": "beta",
+    "translation": "бета"
+  },
+  {
+    "id": 8157,
+    "word": "buffalo",
+    "translation": "буйвол"
+  },
+  {
+    "id": 8158,
+    "word": "ac",
+    "translation": "переменный ток"
+  },
+  {
+    "id": 8159,
+    "word": "scrappy",
+    "translation": "состоящий из остатков, обрывков; бессвязный, обрывочный, отрывочный, бессистемный, путаный"
+  },
+  {
+    "id": 8160,
+    "word": "beloved",
+    "translation": "возлюбленный, возлюбленная; очень любимый/любимая; (шутл., ирон.) излюбленный; милый сердцу"
+  },
+  {
+    "id": 8161,
+    "word": "upcoming",
+    "translation": "наступающий; развивающийся; подающий надежды; (не forthcomming)"
+  },
+  {
+    "id": 8162,
+    "word": "lateral",
+    "translation": "боковой, поперечный, латеральный, боковая часть"
+  },
+  {
+    "id": 8163,
+    "word": "oscar",
+    "translation": "Оскар"
+  },
+  {
+    "id": 8164,
+    "word": "pharmaceutical",
+    "translation": "фармацевтический, аптекарский"
+  },
+  {
+    "id": 8165,
+    "word": "tomb",
+    "translation": "гробница, могила"
+  },
+  {
+    "id": 8166,
+    "word": "morphology",
+    "translation": "морфология"
+  },
+  {
+    "id": 8167,
+    "word": "uk",
+    "translation": "Соединенное Королевство"
+  },
+  {
+    "id": 8168,
+    "word": "effluent",
+    "translation": "поток (лавы); сток (канализационный); сточные воды; вытекающий, просачивающийся; сточный"
+  },
+  {
+    "id": 8169,
+    "word": "replicate",
+    "translation": "повторять, воспроизводить, копировать, тиражировать"
+  },
+  {
+    "id": 8170,
+    "word": "subway",
+    "translation": "метро, подземка, метрополитен, подземный переход"
+  },
+  {
+    "id": 8171,
+    "word": "maternal",
+    "translation": "материнский"
+  },
+  {
+    "id": 8172,
+    "word": "surgical",
+    "translation": "хирургический"
+  },
+  {
+    "id": 8173,
+    "word": "marijuana",
+    "translation": "марихуана"
+  },
+  {
+    "id": 8174,
+    "word": "memoir",
+    "translation": "краткая (авто)биография; воспоминания, мемуары; научная статья, ученые записки; докладная записка"
+  },
+  {
+    "id": 8175,
+    "word": "rue",
+    "translation": "сожалеть; раскаиваться; (название растения)"
+  },
+  {
+    "id": 8176,
+    "word": "lame",
+    "translation": "хромой"
+  },
+  {
+    "id": 8177,
+    "word": "mart",
+    "translation": "ярмарка; рынок, базар, рыночная площадь; аукционный зал; крупный торговый центр, гипермаркет; магазин, лавка; животное, откормленное на убой; туша"
+  },
+  {
+    "id": 8178,
+    "word": "alas",
+    "translation": "увы!"
+  },
+  {
+    "id": 8179,
+    "word": "authentic",
+    "translation": "подлинный, аутентичный, настоящий, достоверный, неподдельный, верный; (не real, proper, actual, genuine, true, regular)"
+  },
+  {
+    "id": 8180,
+    "word": "placebo",
+    "translation": "плацебо"
+  },
+  {
+    "id": 8181,
+    "word": "afghan",
+    "translation": "афганский; афганец, афганка; афганский язык, пушту; вязаный шерстяной платок; ковер из грубой шерсти; жилет, безрукавка из кожи меховой частью наружу; афганская борзая"
+  },
+  {
+    "id": 8182,
+    "word": "finale",
+    "translation": "финал"
+  },
+  {
+    "id": 8183,
+    "word": "reproductive",
+    "translation": "репродуктивный"
+  },
+  {
+    "id": 8184,
+    "word": "vanity",
+    "translation": "тщеславие, суета, суетность, тщета"
+  },
+  {
+    "id": 8185,
+    "word": "semester",
+    "translation": "семестр"
+  },
+  {
+    "id": 8186,
+    "word": "coronary",
+    "translation": "коронарный, венечный"
+  },
+  {
+    "id": 8187,
+    "word": "transient",
+    "translation": "переходный, временный, переходный процесс, преходящий, мимолетный, кратковременный, неустановившийся, невозвратный, недолговечный, скоротечный"
+  },
+  {
+    "id": 8188,
+    "word": "skeletal",
+    "translation": "скелетный, скелетообразный"
+  },
+  {
+    "id": 8189,
+    "word": "chloride",
+    "translation": "хлористый, хлорид"
+  },
+  {
+    "id": 8190,
+    "word": "advocacy",
+    "translation": "пропаганда, защита, адвокатура"
+  },
+  {
+    "id": 8191,
+    "word": "olive",
+    "translation": "оливковый, олива, оливка, маслина"
+  },
+  {
+    "id": 8192,
+    "word": "tribune",
+    "translation": "трибун, трибуна"
+  },
+  {
+    "id": 8193,
+    "word": "malaysia",
+    "translation": "Малайзия"
+  },
+  {
+    "id": 8194,
+    "word": "tuberculosis",
+    "translation": "туберкулез"
+  },
+  {
+    "id": 8195,
+    "word": "soluble",
+    "translation": "растворимый, разрешимый, растворяемый"
+  },
+  {
+    "id": 8196,
+    "word": "invasive",
+    "translation": "инвазивный"
+  },
+  {
+    "id": 8197,
+    "word": "qualitative",
+    "translation": "качественный"
+  },
+  {
+    "id": 8198,
+    "word": "redemption",
+    "translation": "искупление, погашение, выкуп, спасение, освобождение, выплата, возвращение"
+  },
+  {
+    "id": 8199,
+    "word": "hierarchical",
+    "translation": "иерархический"
+  },
+  {
+    "id": 8200,
+    "word": "lynch",
+    "translation": "линчевать"
+  }
+]

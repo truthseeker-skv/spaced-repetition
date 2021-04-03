@@ -1,0 +1,502 @@
+[
+  {
+    "id": 8201,
+    "word": "prose",
+    "translation": "проза, прозаичность"
+  },
+  {
+    "id": 8202,
+    "word": "boulevard",
+    "translation": "бульвар"
+  },
+  {
+    "id": 8203,
+    "word": "epic",
+    "translation": "эпический, эпос, эпопея"
+  },
+  {
+    "id": 8204,
+    "word": "pundit",
+    "translation": "пандит"
+  },
+  {
+    "id": 8205,
+    "word": "partisan",
+    "translation": "партизан, партизанский, сторонник, партийный, пристрастный, приверженец, фанатик"
+  },
+  {
+    "id": 8206,
+    "word": "pornography",
+    "translation": "порнография"
+  },
+  {
+    "id": 8207,
+    "word": "hype",
+    "translation": "активная реклама, пускание пыли в глаза, очковтирательство; крикливо рекламировать, превозносить, расхваливать"
+  },
+  {
+    "id": 8208,
+    "word": "polar",
+    "translation": "полярный, поляра, полюсный"
+  },
+  {
+    "id": 8209,
+    "word": "biopsy",
+    "translation": "биопсия"
+  },
+  {
+    "id": 8210,
+    "word": "carcinoma",
+    "translation": "рак, карцинома"
+  },
+  {
+    "id": 8211,
+    "word": "precursor",
+    "translation": "прекурсор, предшественник, Предтеча, предвестник"
+  },
+  {
+    "id": 8212,
+    "word": "temporal",
+    "translation": "временный, временной, височный, светский, мирской, височная кость, преходящий, височная артерия"
+  },
+  {
+    "id": 8213,
+    "word": "alias",
+    "translation": "псевдоним, вымышленное имя, кличка, альтернативное имя"
+  },
+  {
+    "id": 8214,
+    "word": "baroque",
+    "translation": "барокко, барочный"
+  },
+  {
+    "id": 8215,
+    "word": "offshore",
+    "translation": "офшорный"
+  },
+  {
+    "id": 8216,
+    "word": "rationale",
+    "translation": "обоснование, логическое обоснование, разумное объяснение, основная причина"
+  },
+  {
+    "id": 8217,
+    "word": "veto",
+    "translation": "вето, право вето"
+  },
+  {
+    "id": 8218,
+    "word": "binary",
+    "translation": "двоичный, бинарный, двойной"
+  },
+  {
+    "id": 8219,
+    "word": "buddha",
+    "translation": "Будда"
+  },
+  {
+    "id": 8220,
+    "word": "proximity",
+    "translation": "близость, приближенность, родство"
+  },
+  {
+    "id": 8221,
+    "word": "verbatim",
+    "translation": "стенографический, стенографический отчет, дословный, дословно, буквально, стенограмма"
+  },
+  {
+    "id": 8222,
+    "word": "taiwan",
+    "translation": "Тайвань"
+  },
+  {
+    "id": 8223,
+    "word": "zinc",
+    "translation": "цинк, цинковый, оцинковывать"
+  },
+  {
+    "id": 8224,
+    "word": "seafood",
+    "translation": "морепродукты"
+  },
+  {
+    "id": 8225,
+    "word": "vibe",
+    "translation": "колебание; резонанс; колебание, дрожание, вибрация; колебание, сомнение, нерешительность; ассоциация, отзвук, резонанс"
+  },
+  {
+    "id": 8226,
+    "word": "gamma",
+    "translation": "гамма"
+  },
+  {
+    "id": 8227,
+    "word": "serbian",
+    "translation": "сербский; серб, сербка; сербский язык"
+  },
+  {
+    "id": 8228,
+    "word": "hindu",
+    "translation": "индус; индусский"
+  },
+  {
+    "id": 8229,
+    "word": "apocalypse",
+    "translation": "Апокалипсис"
+  },
+  {
+    "id": 8230,
+    "word": "martial",
+    "translation": "воинственный"
+  },
+  {
+    "id": 8231,
+    "word": "mediate",
+    "translation": "опосредованный, посредничать, промежуточный"
+  },
+  {
+    "id": 8232,
+    "word": "governance",
+    "translation": "управление, руководство, власть"
+  },
+  {
+    "id": 8233,
+    "word": "heterogeneity",
+    "translation": "неоднородность, разнородность, гетерогенность"
+  },
+  {
+    "id": 8234,
+    "word": "massacre",
+    "translation": "бойня, резня, массовое убийство, избиение"
+  },
+  {
+    "id": 8235,
+    "word": "liquor",
+    "translation": "напиток, жидкость, раствор"
+  },
+  {
+    "id": 8236,
+    "word": "soda",
+    "translation": "сода"
+  },
+  {
+    "id": 8237,
+    "word": "penis",
+    "translation": "пенис, половой член"
+  },
+  {
+    "id": 8238,
+    "word": "trump",
+    "translation": "козырь, козырять"
+  },
+  {
+    "id": 8239,
+    "word": "bunny",
+    "translation": "кролик; милый, милая, зайка, лапка; крошка, детка, куколка"
+  },
+  {
+    "id": 8240,
+    "word": "gradient",
+    "translation": "градиент, градиентный, уклон, крутизна"
+  },
+  {
+    "id": 8241,
+    "word": "nap",
+    "translation": "вздремнуть, ворс"
+  },
+  {
+    "id": 8242,
+    "word": "spam",
+    "translation": "консервированный колбасный фарш; спам"
+  },
+  {
+    "id": 8243,
+    "word": "apache",
+    "translation": "апаш, бомж; хулиган, бандит, головорез; апачи"
+  },
+  {
+    "id": 8244,
+    "word": "chemotherapy",
+    "translation": "химиотерапия"
+  },
+  {
+    "id": 8245,
+    "word": "excel",
+    "translation": "отличаться, превосходить, выделяться, выдаваться"
+  },
+  {
+    "id": 8246,
+    "word": "hybrid",
+    "translation": "гибридный, смешанный, гибрид, помесь"
+  },
+  {
+    "id": 8247,
+    "word": "perjury",
+    "translation": "лжесвидетельство, клятвопреступление"
+  },
+  {
+    "id": 8248,
+    "word": "surrogate",
+    "translation": "суррогатный, суррогат, заменять, заменитель, замещать, заместитель"
+  },
+  {
+    "id": 8249,
+    "word": "hepatitis",
+    "translation": "гепатит"
+  },
+  {
+    "id": 8250,
+    "word": "cartilage",
+    "translation": "хрящ"
+  },
+  {
+    "id": 8251,
+    "word": "acetate",
+    "translation": "ацетат"
+  },
+  {
+    "id": 8252,
+    "word": "exquisite",
+    "translation": "изысканный, тонкий"
+  },
+  {
+    "id": 8253,
+    "word": "fidelity",
+    "translation": "верность, преданность, точность, точность воспроизведения, лояльность"
+  },
+  {
+    "id": 8254,
+    "word": "cerebral",
+    "translation": "церебральный, мозговой"
+  },
+  {
+    "id": 8255,
+    "word": "encode",
+    "translation": "кодировать, закодировать, шифровать"
+  },
+  {
+    "id": 8256,
+    "word": "footage",
+    "translation": "длина пленки или фильма в футах, метраж; отснятый материал фильма"
+  },
+  {
+    "id": 8257,
+    "word": "piazza",
+    "translation": "пьяцца, (базарная) площадь; веранда"
+  },
+  {
+    "id": 8258,
+    "word": "sic",
+    "translation": "взять!; подстрекать, науськивать; помечать знаком «sic»"
+  },
+  {
+    "id": 8259,
+    "word": "tenure",
+    "translation": "пребывание, владение"
+  },
+  {
+    "id": 8260,
+    "word": "battalion",
+    "translation": "батальон"
+  },
+  {
+    "id": 8261,
+    "word": "gi",
+    "translation": "солдат; казенный, военного образца; армейский; оцинкованное железо"
+  },
+  {
+    "id": 8262,
+    "word": "coastline",
+    "translation": "береговая линия"
+  },
+  {
+    "id": 8263,
+    "word": "lush",
+    "translation": "пышный, сочный, буйный"
+  },
+  {
+    "id": 8264,
+    "word": "menopause",
+    "translation": "менопауза, климактерический период"
+  },
+  {
+    "id": 8265,
+    "word": "thai",
+    "translation": "представитель народа таи; тайский язык; тайский"
+  },
+  {
+    "id": 8266,
+    "word": "cascade",
+    "translation": "каскадный, каскад, водопад, каскадировать"
+  },
+  {
+    "id": 8267,
+    "word": "catalyst",
+    "translation": "катализатор"
+  },
+  {
+    "id": 8268,
+    "word": "sterile",
+    "translation": "стерильный, бесплодный, стерилизованный"
+  },
+  {
+    "id": 8269,
+    "word": "sudan",
+    "translation": "Судан"
+  },
+  {
+    "id": 8270,
+    "word": "syria",
+    "translation": "Сирия"
+  },
+  {
+    "id": 8271,
+    "word": "latent",
+    "translation": "скрытый, латентный, покоящийся, спящий"
+  },
+  {
+    "id": 8272,
+    "word": "obese",
+    "translation": "тучный"
+  },
+  {
+    "id": 8273,
+    "word": "folklore",
+    "translation": "фольклор"
+  },
+  {
+    "id": 8274,
+    "word": "halloween",
+    "translation": "Хэллоуин, канун Дня всех святых"
+  },
+  {
+    "id": 8275,
+    "word": "niche",
+    "translation": "ниша"
+  },
+  {
+    "id": 8276,
+    "word": "preamble",
+    "translation": "преамбула, вступление, введение"
+  },
+  {
+    "id": 8277,
+    "word": "vanilla",
+    "translation": "ваниль"
+  },
+  {
+    "id": 8278,
+    "word": "benign",
+    "translation": "мягкий (о климате); (мед.) доброкачественный (об опухоли); милостивый, милосердный; кроткий, ласковый"
+  },
+  {
+    "id": 8279,
+    "word": "notwithstanding",
+    "translation": "несмотря на то что; хотя; (книжн.) вопреки; (книжн.) тем не менее, однако, всё же, и всё-таки"
+  },
+  {
+    "id": 8280,
+    "word": "aftermath",
+    "translation": "последствие"
+  },
+  {
+    "id": 8281,
+    "word": "picturesque",
+    "translation": "живописный, колоритный, образный"
+  },
+  {
+    "id": 8282,
+    "word": "cockpit",
+    "translation": "кабина, кокпит, кубрик, арена борьбы"
+  },
+  {
+    "id": 8283,
+    "word": "fortress",
+    "translation": "крепость"
+  },
+  {
+    "id": 8284,
+    "word": "intrinsic",
+    "translation": "свойственный, внутренний, присущий; подлинный, истинный, действительный; (не inherent, innate)"
+  },
+  {
+    "id": 8285,
+    "word": "potassium",
+    "translation": "калий"
+  },
+  {
+    "id": 8286,
+    "word": "pathology",
+    "translation": "патология"
+  },
+  {
+    "id": 8287,
+    "word": "patriotic",
+    "translation": "патриотический"
+  },
+  {
+    "id": 8288,
+    "word": "canyon",
+    "translation": "каньон"
+  },
+  {
+    "id": 8289,
+    "word": "netherlands",
+    "translation": "Нидерланды"
+  },
+  {
+    "id": 8290,
+    "word": "nostalgia",
+    "translation": "ностальгия, тоска по родине"
+  },
+  {
+    "id": 8291,
+    "word": "drudge",
+    "translation": "человек, выполняющий тяжелую, нудную, монотонную работу; выполнять тяжелую, нудную, монотонную работу, заставлять делать тяжелую работу"
+  },
+  {
+    "id": 8292,
+    "word": "lesion",
+    "translation": "поражение, повреждение, рана"
+  },
+  {
+    "id": 8293,
+    "word": "nicotine",
+    "translation": "никотин"
+  },
+  {
+    "id": 8294,
+    "word": "rugged",
+    "translation": "неровный, грубый, пересеченный, прочный, шероховатый; (не rude, rough, coarse, prickly, scaly, crude, gruff, flagrant, gross)"
+  },
+  {
+    "id": 8295,
+    "word": "adultery",
+    "translation": "прелюбодеяние, адюльтер"
+  },
+  {
+    "id": 8296,
+    "word": "archer",
+    "translation": "лучник"
+  },
+  {
+    "id": 8297,
+    "word": "geometry",
+    "translation": "геометрия, конфигурация, расположение"
+  },
+  {
+    "id": 8298,
+    "word": "trademark",
+    "translation": "товарный знак, торговая марка"
+  },
+  {
+    "id": 8299,
+    "word": "intravenous",
+    "translation": "внутривенный"
+  },
+  {
+    "id": 8300,
+    "word": "kindergarten",
+    "translation": "детский сад"
+  }
+]

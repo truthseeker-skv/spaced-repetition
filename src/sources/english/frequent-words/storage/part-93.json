@@ -1,0 +1,502 @@
+[
+  {
+    "id": 9201,
+    "word": "whim",
+    "translation": "каприз, прихоть, причуда"
+  },
+  {
+    "id": 9202,
+    "word": "afloat",
+    "translation": "на плаву"
+  },
+  {
+    "id": 9203,
+    "word": "bellow",
+    "translation": "рев, реветь, мех, сильфон, мычать, мычание"
+  },
+  {
+    "id": 9204,
+    "word": "bibliography",
+    "translation": "библиография"
+  },
+  {
+    "id": 9205,
+    "word": "bloc",
+    "translation": "блок"
+  },
+  {
+    "id": 9206,
+    "word": "deity",
+    "translation": "божество, бог, божественность"
+  },
+  {
+    "id": 9207,
+    "word": "disarray",
+    "translation": "смятение"
+  },
+  {
+    "id": 9208,
+    "word": "edgy",
+    "translation": "заостренный, острый, режущий; имеющий резкий контур; раздраженный, раздражительный, несдержанный, нетерпеливый, нервный"
+  },
+  {
+    "id": 9209,
+    "word": "excruciating",
+    "translation": "мучительный"
+  },
+  {
+    "id": 9210,
+    "word": "felicity",
+    "translation": "блаженство"
+  },
+  {
+    "id": 9211,
+    "word": "flashy",
+    "translation": "крикливый"
+  },
+  {
+    "id": 9212,
+    "word": "fraught",
+    "translation": "полный, наполненный, преисполненный; нагруженный, наполненный; подавленный, удрученный, обремененный, удручающий, обременяющий"
+  },
+  {
+    "id": 9213,
+    "word": "groovy",
+    "translation": "отличный, превосходный"
+  },
+  {
+    "id": 9214,
+    "word": "lutheran",
+    "translation": "лютеранский; лютеранин, лютеранка"
+  },
+  {
+    "id": 9215,
+    "word": "mandarin",
+    "translation": "мандарин"
+  },
+  {
+    "id": 9216,
+    "word": "momentous",
+    "translation": "важный, имеющий важное значение, весомый, влиятельный; (не important, significant, considerable, essential, decisive, critical, substantial)"
+  },
+  {
+    "id": 9217,
+    "word": "plaid",
+    "translation": "плед, шотландка"
+  },
+  {
+    "id": 9218,
+    "word": "ponder",
+    "translation": "размышлять"
+  },
+  {
+    "id": 9219,
+    "word": "rife",
+    "translation": "изобилующий"
+  },
+  {
+    "id": 9220,
+    "word": "sob",
+    "translation": "всхлипывать, рыдание, рыдать; (не cry, weep)"
+  },
+  {
+    "id": 9221,
+    "word": "stairway",
+    "translation": "лестница, лестничная клетка; (не stairs, staircase, ladder)"
+  },
+  {
+    "id": 9222,
+    "word": "tendon",
+    "translation": "сухожилие"
+  },
+  {
+    "id": 9223,
+    "word": "watershed",
+    "translation": "водораздел, бассейн"
+  },
+  {
+    "id": 9224,
+    "word": "augment",
+    "translation": "увеличивать, пополнять, прибавлять, возрастать"
+  },
+  {
+    "id": 9225,
+    "word": "billboard",
+    "translation": "доска для объявлений, афиш, рекламный щит"
+  },
+  {
+    "id": 9226,
+    "word": "bustle",
+    "translation": "суета, суматоха, суетиться, турнюр"
+  },
+  {
+    "id": 9227,
+    "word": "compass",
+    "translation": "компас, буссоль, диапазон"
+  },
+  {
+    "id": 9228,
+    "word": "egalitarian",
+    "translation": "эгалитарный"
+  },
+  {
+    "id": 9229,
+    "word": "highland",
+    "translation": "нагорье"
+  },
+  {
+    "id": 9230,
+    "word": "impromptu",
+    "translation": "импровизированный, экспромтом, экспромт, импровизация"
+  },
+  {
+    "id": 9231,
+    "word": "lunatic",
+    "translation": "сумасшедший, безумный, помешанный, душевнобольной, умалишенный, невменяемый"
+  },
+  {
+    "id": 9232,
+    "word": "nurture",
+    "translation": "воспитание, воспитывать, питать, питание, обучение"
+  },
+  {
+    "id": 9233,
+    "word": "outlying",
+    "translation": "отдаленный, удаленный"
+  },
+  {
+    "id": 9234,
+    "word": "oyster",
+    "translation": "устрица"
+  },
+  {
+    "id": 9235,
+    "word": "pike",
+    "translation": "пика, щука"
+  },
+  {
+    "id": 9236,
+    "word": "plethora",
+    "translation": "полнокровие; изобилие, большой избыток"
+  },
+  {
+    "id": 9237,
+    "word": "poppy",
+    "translation": "мак, маковый"
+  },
+  {
+    "id": 9238,
+    "word": "python",
+    "translation": "питон, Пифон"
+  },
+  {
+    "id": 9239,
+    "word": "respiration",
+    "translation": "дыхание"
+  },
+  {
+    "id": 9240,
+    "word": "scripture",
+    "translation": "священное писание, священная книга"
+  },
+  {
+    "id": 9241,
+    "word": "venezuela",
+    "translation": "Венесуэла"
+  },
+  {
+    "id": 9242,
+    "word": "virulent",
+    "translation": "вирулентный, опасный, злобный, заразный"
+  },
+  {
+    "id": 9243,
+    "word": "wharf",
+    "translation": "пристань, причал, набережная"
+  },
+  {
+    "id": 9244,
+    "word": "wry",
+    "translation": "кривой, перекошенный"
+  },
+  {
+    "id": 9245,
+    "word": "algeria",
+    "translation": "Алжир"
+  },
+  {
+    "id": 9246,
+    "word": "anorexia",
+    "translation": "потеря аппетита, отсутствие аппетита, анорексия"
+  },
+  {
+    "id": 9247,
+    "word": "blush",
+    "translation": "краснеть, румянец, краска смущения"
+  },
+  {
+    "id": 9248,
+    "word": "defer",
+    "translation": "откладывать, отсрочивать"
+  },
+  {
+    "id": 9249,
+    "word": "deli",
+    "translation": "гастрономический магазин, магазин деликатесов, небольшая закусочная при таком гастрономе; какой-л. деликатес, деликатесное блюдо"
+  },
+  {
+    "id": 9250,
+    "word": "erratic",
+    "translation": "беспорядочный, неустойчивый, ошибочный, эрратический, случайный"
+  },
+  {
+    "id": 9251,
+    "word": "Flemish",
+    "translation": "Фламандский; складывать канат, веревку в виде плоской спирали; дрожать, виляя хвостом"
+  },
+  {
+    "id": 9252,
+    "word": "lukewarm",
+    "translation": "тепловатый, теплый"
+  },
+  {
+    "id": 9253,
+    "word": "morrow",
+    "translation": "завтра, завтрашний день, следующий день"
+  },
+  {
+    "id": 9254,
+    "word": "nuance",
+    "translation": "нюанс, оттенок"
+  },
+  {
+    "id": 9255,
+    "word": "superfluous",
+    "translation": "излишний, избыточный, ненужный"
+  },
+  {
+    "id": 9256,
+    "word": "uranium",
+    "translation": "уран"
+  },
+  {
+    "id": 9257,
+    "word": "whence",
+    "translation": "откуда"
+  },
+  {
+    "id": 9258,
+    "word": "apostle",
+    "translation": "апостол, поборник"
+  },
+  {
+    "id": 9259,
+    "word": "bard",
+    "translation": "бард"
+  },
+  {
+    "id": 9260,
+    "word": "bastion",
+    "translation": "бастион, оплот"
+  },
+  {
+    "id": 9261,
+    "word": "circumvent",
+    "translation": "обойти, обходить"
+  },
+  {
+    "id": 9262,
+    "word": "cliche",
+    "translation": "клише, избитая фраза"
+  },
+  {
+    "id": 9263,
+    "word": "counteract",
+    "translation": "противодействовать, нейтрализовать, оказывать противодействие"
+  },
+  {
+    "id": 9264,
+    "word": "crater",
+    "translation": "кратер, воронка, лунка, жерло"
+  },
+  {
+    "id": 9265,
+    "word": "dew",
+    "translation": "роса"
+  },
+  {
+    "id": 9266,
+    "word": "dogged",
+    "translation": "упрямый, упорный, настойчивый; чрезвычайно, очень"
+  },
+  {
+    "id": 9267,
+    "word": "duo",
+    "translation": "дуэт"
+  },
+  {
+    "id": 9268,
+    "word": "fodder",
+    "translation": "кормовой, корм, фураж, фуражный, корм для скота"
+  },
+  {
+    "id": 9269,
+    "word": "frail",
+    "translation": "хрупкий, слабый, хилый, непрочный, болезненный; (не weak, feeble, faint, wan)"
+  },
+  {
+    "id": 9270,
+    "word": "hostess",
+    "translation": "хозяйка; (не director, manager, main, chief, principle, major, landlord, landlady, host, master, mistress, owner, housewife, employer, boss, head, supervisor, principal)"
+  },
+  {
+    "id": 9271,
+    "word": "ilk",
+    "translation": "сорт, род, тип"
+  },
+  {
+    "id": 9272,
+    "word": "indignation",
+    "translation": "негодование, возмущение"
+  },
+  {
+    "id": 9273,
+    "word": "ingenuity",
+    "translation": "изобретательность, искусность"
+  },
+  {
+    "id": 9274,
+    "word": "moratorium",
+    "translation": "мораторий"
+  },
+  {
+    "id": 9275,
+    "word": "paraphrase",
+    "translation": "перефразировать, парафраз, парафраза"
+  },
+  {
+    "id": 9276,
+    "word": "pessimism",
+    "translation": "пессимизм"
+  },
+  {
+    "id": 9277,
+    "word": "pronoun",
+    "translation": "местоимение"
+  },
+  {
+    "id": 9278,
+    "word": "protracted",
+    "translation": "затянувшийся, затяжной, длительный"
+  },
+  {
+    "id": 9279,
+    "word": "racetrack",
+    "translation": "беговая дорожка, трек; скаковой круг, ипподром; водный путь, водный поток, приводящий в движение мельничное колесо; поясок"
+  },
+  {
+    "id": 9280,
+    "word": "reconnaissance",
+    "translation": "разведка, рекогносцировка, рекогносцировочный, зондирование, поиск"
+  },
+  {
+    "id": 9281,
+    "word": "rendition",
+    "translation": "исполнение"
+  },
+  {
+    "id": 9282,
+    "word": "sinus",
+    "translation": "пазуха, синус"
+  },
+  {
+    "id": 9283,
+    "word": "anaerobic",
+    "translation": "анаэробный"
+  },
+  {
+    "id": 9284,
+    "word": "antidote",
+    "translation": "противоядие, антидот"
+  },
+  {
+    "id": 9285,
+    "word": "autistic",
+    "translation": "относящийся к аутизму, страдающий аутизмом"
+  },
+  {
+    "id": 9286,
+    "word": "charcoal",
+    "translation": "уголь, древесный уголь, угольный карандаш"
+  },
+  {
+    "id": 9287,
+    "word": "consensual",
+    "translation": "согласованный"
+  },
+  {
+    "id": 9288,
+    "word": "disruptive",
+    "translation": "подрывной; подрывающий, разрушительный"
+  },
+  {
+    "id": 9289,
+    "word": "divisive",
+    "translation": "сеющий распри, вызывающий рознь, разногласия"
+  },
+  {
+    "id": 9290,
+    "word": "envious",
+    "translation": "завидующий, завистливый"
+  },
+  {
+    "id": 9291,
+    "word": "equator",
+    "translation": "экватор"
+  },
+  {
+    "id": 9292,
+    "word": "fahrenheit",
+    "translation": "шкала Фаренгейта"
+  },
+  {
+    "id": 9293,
+    "word": "gymnastics",
+    "translation": "гимнастика"
+  },
+  {
+    "id": 9294,
+    "word": "heavyweight",
+    "translation": "тяжеловес"
+  },
+  {
+    "id": 9295,
+    "word": "illicit",
+    "translation": "незаконный, запрещенный, противозаконный, противоправный, недозволенный"
+  },
+  {
+    "id": 9296,
+    "word": "limousine",
+    "translation": "лимузин"
+  },
+  {
+    "id": 9297,
+    "word": "lobe",
+    "translation": "доля, мочка, лепесток, выступ, лопасть"
+  },
+  {
+    "id": 9298,
+    "word": "manslaughter",
+    "translation": "непредумышленное убийство, человекоубийство, простое убийство"
+  },
+  {
+    "id": 9299,
+    "word": "mascara",
+    "translation": "краска, тушь для ресниц и бровей"
+  },
+  {
+    "id": 9300,
+    "word": "menstrual",
+    "translation": "менструальный"
+  }
+]

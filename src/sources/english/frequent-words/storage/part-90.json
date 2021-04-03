@@ -1,0 +1,502 @@
+[
+  {
+    "id": 8901,
+    "word": "moron",
+    "translation": "идиот, дебил, слабоумный"
+  },
+  {
+    "id": 8902,
+    "word": "platinum",
+    "translation": "платина, платиновый"
+  },
+  {
+    "id": 8903,
+    "word": "punitive",
+    "translation": "карательный, штрафной"
+  },
+  {
+    "id": 8904,
+    "word": "resurgence",
+    "translation": "возрождение, восстановление; выход на поверхность, место выхода на поверхность"
+  },
+  {
+    "id": 8905,
+    "word": "saliva",
+    "translation": "слюна"
+  },
+  {
+    "id": 8906,
+    "word": "scam",
+    "translation": "мошенничество"
+  },
+  {
+    "id": 8907,
+    "word": "smirk",
+    "translation": "ухмыляться"
+  },
+  {
+    "id": 8908,
+    "word": "solemn",
+    "translation": "торжественный, мрачный, святой"
+  },
+  {
+    "id": 8909,
+    "word": "speedway",
+    "translation": "спидвей"
+  },
+  {
+    "id": 8910,
+    "word": "watchdog",
+    "translation": "сторож"
+  },
+  {
+    "id": 8911,
+    "word": "apex",
+    "translation": "вершина, верхушка, верх, апекс"
+  },
+  {
+    "id": 8912,
+    "word": "avalanche",
+    "translation": "лавина, обвал, лавинный"
+  },
+  {
+    "id": 8913,
+    "word": "brotherhood",
+    "translation": "братство"
+  },
+  {
+    "id": 8914,
+    "word": "cabaret",
+    "translation": "кабаре"
+  },
+  {
+    "id": 8915,
+    "word": "canopy",
+    "translation": "полог, балдахин, фонарь кабины, тент, сень"
+  },
+  {
+    "id": 8916,
+    "word": "caricature",
+    "translation": "карикатура"
+  },
+  {
+    "id": 8917,
+    "word": "dresser",
+    "translation": "костюмер; оформитель витрин; ассистент, хирургическая сестра; сортировщик, обогатитель; буфет; комод с зеркалом"
+  },
+  {
+    "id": 8918,
+    "word": "feud",
+    "translation": "вражда, кровная вражда"
+  },
+  {
+    "id": 8919,
+    "word": "hindsight",
+    "translation": "взгляд в прошлое, ретроспективный взгляд, оценка прошедших событий; прицел"
+  },
+  {
+    "id": 8920,
+    "word": "horsepower",
+    "translation": "лошадиная сила, мощность"
+  },
+  {
+    "id": 8921,
+    "word": "jagged",
+    "translation": "зазубренный, рваный, изрезанный"
+  },
+  {
+    "id": 8922,
+    "word": "lament",
+    "translation": "сетовать"
+  },
+  {
+    "id": 8923,
+    "word": "malicious",
+    "translation": "злобный, злонамеренный, злой, злоумышленный"
+  },
+  {
+    "id": 8924,
+    "word": "neurotic",
+    "translation": "невротический, невротик, нервный, неврастеник"
+  },
+  {
+    "id": 8925,
+    "word": "outspoken",
+    "translation": "откровенный, высказанный"
+  },
+  {
+    "id": 8926,
+    "word": "proactive",
+    "translation": "упреждающий, проактивный"
+  },
+  {
+    "id": 8927,
+    "word": "prolific",
+    "translation": "плодовитый, обильный"
+  },
+  {
+    "id": 8928,
+    "word": "rubble",
+    "translation": "булыжник, щебеночный, валун, бут, бутовый камень"
+  },
+  {
+    "id": 8929,
+    "word": "seizure",
+    "translation": "изъятие, захват, припадок, конфискация, приступ, наложение ареста, выемка, судорожный припадок, занятие, заклинивание"
+  },
+  {
+    "id": 8930,
+    "word": "anthology",
+    "translation": "антология"
+  },
+  {
+    "id": 8931,
+    "word": "attest",
+    "translation": "свидетельствовать, удостоверять, заверять"
+  },
+  {
+    "id": 8932,
+    "word": "axiom",
+    "translation": "аксиома, постулат"
+  },
+  {
+    "id": 8933,
+    "word": "bedside",
+    "translation": "ухаживающий за больным; относящийся к лежачим больным; прикроватный; предназначенный для легкого чтения перед сном"
+  },
+  {
+    "id": 8934,
+    "word": "compulsive",
+    "translation": "навязчивый, маниакальный, компульсивный, принудительный"
+  },
+  {
+    "id": 8935,
+    "word": "despise",
+    "translation": "презирать"
+  },
+  {
+    "id": 8936,
+    "word": "embargo",
+    "translation": "эмбарго, запрет"
+  },
+  {
+    "id": 8937,
+    "word": "garner",
+    "translation": "амбар, закрома, склад; хранилище, запас; ссыпать (зерно) в амбар, складывать в амбар; копить(ся), собирать(ся), запасать"
+  },
+  {
+    "id": 8938,
+    "word": "gorilla",
+    "translation": "горилла"
+  },
+  {
+    "id": 8939,
+    "word": "hearty",
+    "translation": "сердечный"
+  },
+  {
+    "id": 8940,
+    "word": "hyphen",
+    "translation": "дефис, перенос, тире, знак переноса"
+  },
+  {
+    "id": 8941,
+    "word": "impeach",
+    "translation": "оспаривать"
+  },
+  {
+    "id": 8942,
+    "word": "libel",
+    "translation": "клевета, клеветать, диффамация, пасквиль"
+  },
+  {
+    "id": 8943,
+    "word": "martyr",
+    "translation": "мученик, мученица, страдалец, страдалица"
+  },
+  {
+    "id": 8944,
+    "word": "numb",
+    "translation": "онемелый, оцепенелый, окоченевший"
+  },
+  {
+    "id": 8945,
+    "word": "obituary",
+    "translation": "некролог"
+  },
+  {
+    "id": 8946,
+    "word": "overdose",
+    "translation": "передозировка, чрезмерная доза, передозировать"
+  },
+  {
+    "id": 8947,
+    "word": "parenthood",
+    "translation": "отцовство"
+  },
+  {
+    "id": 8948,
+    "word": "proliferate",
+    "translation": "распространять, размножаться, увеличивать"
+  },
+  {
+    "id": 8949,
+    "word": "racket",
+    "translation": "ракетка, шум, рэкет, шантаж, вымогательство, шумиха"
+  },
+  {
+    "id": 8950,
+    "word": "resin",
+    "translation": "смола"
+  },
+  {
+    "id": 8951,
+    "word": "ambush",
+    "translation": "засада"
+  },
+  {
+    "id": 8952,
+    "word": "butch",
+    "translation": "грубиян, наглец; мужеподобная баба, мужик в юбке"
+  },
+  {
+    "id": 8953,
+    "word": "chimpanzee",
+    "translation": "шимпанзе"
+  },
+  {
+    "id": 8954,
+    "word": "cleft",
+    "translation": "расщелина, расселина, щель, расщепленный, трещина"
+  },
+  {
+    "id": 8955,
+    "word": "concur",
+    "translation": "соглашаться, совпадать, содействовать"
+  },
+  {
+    "id": 8956,
+    "word": "entrepreneurial",
+    "translation": "предпринимательский"
+  },
+  {
+    "id": 8957,
+    "word": "fleeting",
+    "translation": "мимолетный"
+  },
+  {
+    "id": 8958,
+    "word": "fm",
+    "translation": "частотная модуляция"
+  },
+  {
+    "id": 8959,
+    "word": "imprint",
+    "translation": "отпечаток, след, запечатлевать, оттиск, печать, отпечатывать, закреплять"
+  },
+  {
+    "id": 8960,
+    "word": "incompetence",
+    "translation": "некомпетентность, неспособность"
+  },
+  {
+    "id": 8961,
+    "word": "ingenious",
+    "translation": "изобретательный"
+  },
+  {
+    "id": 8962,
+    "word": "intuition",
+    "translation": "интуиция, чутье"
+  },
+  {
+    "id": 8963,
+    "word": "itinerary",
+    "translation": "маршрут, путь, путевой, дорожный"
+  },
+  {
+    "id": 8964,
+    "word": "meticulous",
+    "translation": "тщательный, педантичный, дотошный"
+  },
+  {
+    "id": 8965,
+    "word": "multicultural",
+    "translation": "относящийся к разным культурам"
+  },
+  {
+    "id": 8966,
+    "word": "opaque",
+    "translation": "непрозрачный, матовый, непроницаемый, светонепроницаемый"
+  },
+  {
+    "id": 8967,
+    "word": "overdue",
+    "translation": "просроченный"
+  },
+  {
+    "id": 8968,
+    "word": "palliative",
+    "translation": "паллиативный, паллиатив, смягчающий"
+  },
+  {
+    "id": 8969,
+    "word": "paramilitary",
+    "translation": "полувоенный, военизированный"
+  },
+  {
+    "id": 8970,
+    "word": "reset",
+    "translation": "сброс, сбрасывать, восстановление, возврат, повторное включение"
+  },
+  {
+    "id": 8971,
+    "word": "ridicule",
+    "translation": "насмешка, высмеивать, осмеивать, осмеяние"
+  },
+  {
+    "id": 8972,
+    "word": "semen",
+    "translation": "сперма, семя, семенная жидкость"
+  },
+  {
+    "id": 8973,
+    "word": "superpower",
+    "translation": "сверхдержава, сверхмощный"
+  },
+  {
+    "id": 8974,
+    "word": "therein",
+    "translation": "здесь, там, в этом, в том; в этом отношении; в течение этого времени; дома; туда, в то место"
+  },
+  {
+    "id": 8975,
+    "word": "topple",
+    "translation": "свергать, валиться, сваливать"
+  },
+  {
+    "id": 8976,
+    "word": "torso",
+    "translation": "торс, туловище, корпус"
+  },
+  {
+    "id": 8977,
+    "word": "woe",
+    "translation": "горе, несчастье"
+  },
+  {
+    "id": 8978,
+    "word": "almond",
+    "translation": "миндаль, миндальный, миндалевый, миндалина"
+  },
+  {
+    "id": 8979,
+    "word": "attentive",
+    "translation": "внимательный, заботливый, предупредительный"
+  },
+  {
+    "id": 8980,
+    "word": "beaver",
+    "translation": "бобр, бобер, бобрик"
+  },
+  {
+    "id": 8981,
+    "word": "credence",
+    "translation": "вера, доверие"
+  },
+  {
+    "id": 8982,
+    "word": "cylindrical",
+    "translation": "цилиндрический"
+  },
+  {
+    "id": 8983,
+    "word": "edible",
+    "translation": "съедобный"
+  },
+  {
+    "id": 8984,
+    "word": "automotive",
+    "translation": "автомобильный"
+  },
+  {
+    "id": 8985,
+    "word": "conglomerate",
+    "translation": "конгломерат"
+  },
+  {
+    "id": 8986,
+    "word": "converge",
+    "translation": "сходиться, конвергировать, сужаться"
+  },
+  {
+    "id": 8987,
+    "word": "eclipse",
+    "translation": "затмение, затмевать, заслонять"
+  },
+  {
+    "id": 8988,
+    "word": "expulsion",
+    "translation": "высылка, изгнание, исключение, выселение, выталкивание, удаление, продувка"
+  },
+  {
+    "id": 8989,
+    "word": "fluent",
+    "translation": "беглый, гладкий, плавный"
+  },
+  {
+    "id": 8990,
+    "word": "forte",
+    "translation": "форте"
+  },
+  {
+    "id": 8991,
+    "word": "giddy",
+    "translation": "кружащийся, вертящийся"
+  },
+  {
+    "id": 8992,
+    "word": "impotence",
+    "translation": "бессилие, импотенция, беспомощность, половое бессилие, слабость"
+  },
+  {
+    "id": 8993,
+    "word": "insomnia",
+    "translation": "бессонница"
+  },
+  {
+    "id": 8994,
+    "word": "morphine",
+    "translation": "морфий, морфин"
+  },
+  {
+    "id": 8995,
+    "word": "perimeter",
+    "translation": "периметр"
+  },
+  {
+    "id": 8996,
+    "word": "philanthropy",
+    "translation": "филантропия, благотворительность"
+  },
+  {
+    "id": 8997,
+    "word": "pixel",
+    "translation": "пиксель, пиксел, элемент изображения"
+  },
+  {
+    "id": 8998,
+    "word": "preposterous",
+    "translation": "абсурдный"
+  },
+  {
+    "id": 8999,
+    "word": "quasi",
+    "translation": "почти, как будто"
+  },
+  {
+    "id": 9000,
+    "word": "uganda",
+    "translation": "Уганда"
+  }
+]
