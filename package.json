@@ -1,8 +1,10 @@
 {
   "name": "@truthseeker-skv/spaced-repetition",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/index.js",
-  "files": ["./lib/**/*"],
+  "files": [
+    "./lib/**/*"
+  ],
   "author": "Konstantin Sukovatij <konstantin.sukovatij@gmail.com>",
   "license": "MIT",
   "scripts": {
