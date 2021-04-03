@@ -11,7 +11,7 @@
       "ESNext",
       "DOM"
     ],
-    "module": "ESNext",
+    "module": "CommonJS",
     "moduleResolution": "Node",
     "noImplicitAny": true,
     "noImplicitReturns": true,
