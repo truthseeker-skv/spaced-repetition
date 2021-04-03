@@ -8,13 +8,13 @@
   "author": "Konstantin Sukovatij <konstantin.sukovatij@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "npm run clean && tsc",
+    "build": "yarn clean && tsc",
     "clean": "rimraf ./lib"
   },
   "dependencies": {
     "@material-ui/core": "4.11.3",
     "@material-ui/lab": "4.0.0-alpha.57",
-    "@truthseeker-skv/react-code-mirror": "0.0.19",
+    "@truthseeker-skv/react-code-mirror": "0.0.21",
     "axios": "0.21.1",
     "cli-progress": "3.9.0",
     "form-data": "4.0.0",
